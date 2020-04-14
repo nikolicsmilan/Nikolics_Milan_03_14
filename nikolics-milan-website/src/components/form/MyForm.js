@@ -162,7 +162,7 @@ class MyForm extends Component {
         return (
             <div id="contact">
                 <Form className="form-padding" onSubmit={this.handleSubmit}>
-                    <Form.Label>Megrendelem!</Form.Label>
+                    <Form.Label>Kérem pontosan töltse ki az űrlapot!</Form.Label>
                     <Form.Group controlId="formLastName">
                         <Form.Control type="text" placeholder="vezetéknév" ref={this.lastName} onChange={this.onInputChange} />
                         <Form.Control.Feedback type="invalid" style={{ display: this.state.lastNameValid }}>

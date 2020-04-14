@@ -1,82 +1,105 @@
 .Kapcsolat_egesz{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+   /* border: 3px solid red;*/
+   /* margin: 0 auto;*/
+   align-items: center;
 }
-
-
-
 /*Képem*/
 .Bemutatkozas{
     display: flex;
     justify-content: center;
+   /* border: 3px solid green;*/
+    width:60%;
 }
 
 .Kepem{
+    min-width: 20rem;
     max-width: 20rem;
+    margin-right: 1%;
 }
 
 /*Elérhetőség*/
 .Tel_Email_kontener_kapcs{
     display:flex;
     flex-direction: column; 
+    align-items: flex-start;
+    justify-content: flex-start;
     color: rgba(40, 164, 241, 0.938);  
-   /* border: 3px solid green;*/
+    border: 3px solid rgba(40, 164, 241, 0.938);
     width: 50rem;
     height: 20rem;
    /* padding-top: 2.5rem;*/
+    padding: 3rem;
+    padding-left: 12rem;
   }    
   .Nev_fog{
       display: flex;
-      justify-content: center;
+      flex-direction: column;
+      align-items: center;
     /*  border: 3px solid yellow;*/
-      height: 20rem;
-  }
-  .Nev_fog_bel{
-    text-align: center;
-    font-size: 3rem;
-
-  }
+      font-size: 3rem;
+      text-align: center;
+      padding-bottom: 2%;
+    }
   
   .Nev_fog h1{
-    width:30rem;
-}
+    padding-bottom: 2%;
+    text-align: center;
+  }
+  .Nev_fog h2{
+    text-align: center;
+  }
+
   .Telefon_kapcs{
     display: flex;
+    flex-direction: row;
     align-items: center;
+    justify-content: flex-start;
+    text-align: center;
     width:100%;
-    font-size: 10rem;
+    font-size: 2rem;
    /* border: 3px solid red;*/
-    padding-left:1rem;
+    
+    
   }
   .Telefon_kapcs img{
-    width:6rem;
-    height: 6rem;
-    margin-right:2rem;
-   /* border: 3px solid purple;*/
+    width:3rem;
+    height: 3rem;
+    margin-right:1rem;   
+    /*border: 3px solid purple;*/
   }
-  .Telefon_kapcs p{
-   font-size:3rem;
+  .Telefon_kapcs h2{
+  /* border: 3px solid purple;*/
+   font-size:1.5rem;
+  
   }
-  .Szamkontener_kapcs{
-   width:100%;
-  /*border: 3px solid red;*/
-  }
-  .Szamkontener_kapcs p{
-    font-size:3rem;
-  }
+  
   .Email_kapcs{
     display: flex;
+    flex-direction: row;
     align-items: center;
+    justify-content: flex-start;
+    text-align: center;
     width:100%;
-    font-size: 10rem;
-   /* border: 3px solid blue;*/
-    padding-left:1rem;
+    font-size: 2rem;
+    /*border: 3px solid red;*/
+   /* padding-left: 5.2rem;*/
+      
   }
   .Email_kapcs img {
-    width:6rem;
-    height: 6rem;
-    margin-right:2rem;
+    width:3rem;
+    height: 3rem;
+    margin-right:1rem;   
+   /* border: 3px solid purple;*/
+   
   }
   .Email_kapcs h2{
-    font-size:3rem;
+    /*border: 3px solid purple;*/
+    font-size:1.5rem;
+  }
+
+  #form-1{
+    width:100%;
   }

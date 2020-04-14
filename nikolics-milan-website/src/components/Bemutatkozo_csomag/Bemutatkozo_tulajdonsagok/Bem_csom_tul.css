@@ -193,6 +193,21 @@
   color:white;
 }
 
+.Megrendelem_gomb h1:hover{
+  background-color:blue;
+}
+
+.Megrendelem_gomb a{
+  color:red;
+  background-color: teal;
+  text-decoration: none;
+}
+.Megrendelem_gomb a:hover{
+  color:grey;
+  background-color: teal;
+
+}
+
 }
 
 /* 7. Larger screen VÉGE*/

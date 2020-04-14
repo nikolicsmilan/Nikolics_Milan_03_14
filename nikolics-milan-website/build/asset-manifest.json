@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.248b23d4.chunk.css",
-    "main.js": "/static/js/main.2a97176d.chunk.js",
-    "main.js.map": "/static/js/main.2a97176d.chunk.js.map",
+    "main.css": "/static/css/main.7d56ffe2.chunk.css",
+    "main.js": "/static/js/main.ce1a6e6f.chunk.js",
+    "main.js.map": "/static/js/main.ce1a6e6f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf1037cc.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf1037cc.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
     "static/js/2.f20f342f.chunk.js": "/static/js/2.f20f342f.chunk.js",
     "static/js/2.f20f342f.chunk.js.map": "/static/js/2.f20f342f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5d5d4c8659a2a25cc6171f3e5e47bdef.js": "/precache-manifest.5d5d4c8659a2a25cc6171f3e5e47bdef.js",
+    "precache-manifest.98e5b5caa5b81a3e19115376c88d0f21.js": "/precache-manifest.98e5b5caa5b81a3e19115376c88d0f21.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.248b23d4.chunk.css.map": "/static/css/main.248b23d4.chunk.css.map",
+    "static/css/main.7d56ffe2.chunk.css.map": "/static/css/main.7d56ffe2.chunk.css.map",
     "static/js/2.f20f342f.chunk.js.LICENSE.txt": "/static/js/2.f20f342f.chunk.js.LICENSE.txt",
     "static/media/Bemutatkozo_Mobil.jpg": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg",
     "static/media/Ceges_Mobil.jpg": "/static/media/Ceges_Mobil.41c62e92.jpg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.cf1037cc.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.f20f342f.chunk.js",
-    "static/css/main.248b23d4.chunk.css",
-    "static/js/main.2a97176d.chunk.js"
+    "static/css/main.7d56ffe2.chunk.css",
+    "static/js/main.ce1a6e6f.chunk.js"
   ]
 }
