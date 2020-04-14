@@ -70,7 +70,7 @@ const NM_Toolbar = props => (
                  hash: "#bemutatkozo",
                 }}>Weboldal-Árak</Link>  </li>
               <li><Link to="/SEO">SEO</Link></li> 
-              <li> <Link to="/">Kapcsolat</Link></li>                                
+              <li> <Link to="/Kapcsolat">Kapcsolat</Link></li>                                
             </ul>    
            
    </div>

@@ -7,7 +7,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 import NM_NavBar from '../NM_NavBar/NM_NavBar';
 import NM_Bemutatkozas from '../NM_Bemutatkozas/NM_Bemutatkozas'
 import Bemutatkozo_csomag from '../Bemutatkozo_csomag/Bemutatkozo_csomag';
-import MyForm from '../form/MyForm';
+import Kapcsolat from '../Kapcsolat/Kapcsolat';
 
 import Nmchat from '../NM_chat/Nmchat';
 import Csomagok from '../Csomagok/Csomagok';
@@ -29,9 +29,8 @@ class App extends Component {
           </div>
           <div className="App_egesz-body">
               <Route exact path="/" component={NM_Bemutatkozas}/>
-              <Route exact path="/" component={Csomagok}/> 
-              <Route exact path="/" component={MyForm}/>
-              <Route path="/SEO" component={NM_Bemutatkozas}/>
+              <Route exact path="/" component={Csomagok}/>         
+              <Route path="/Kapcsolat" component={Kapcsolat}/>
          </div>  
         
             </BrowserRouter>

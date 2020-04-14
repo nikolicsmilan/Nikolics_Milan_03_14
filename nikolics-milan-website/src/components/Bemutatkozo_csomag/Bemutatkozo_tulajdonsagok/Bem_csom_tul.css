@@ -1,6 +1,6 @@
 .Bem_csom_tul_egesz{
   /* border: 3px solid red;*/
-  padding-top: 1.5%;
+   padding-top: 1.5%;
    padding-left:2.5%;
    padding-right:2.5%;
 }
@@ -22,6 +22,8 @@
     margin-left: 40px;
     margin-top: 1.7rem;
   }
+
+
 }
 
 /* 0. Mini SmartPhones VÉGE*/
@@ -166,7 +168,30 @@
     margin-top: 2rem;
   }
 
+.Megrendelem_gomb{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:2rem;
+  font-size: 2rem;
+  
+  padding:0.5rem;
+  
+  border-radius: 1%;
 
+  
+}
+.Megrendelem_gomb h1 {
+ /* border:3px solid purple;*/
+  padding-right:1rem;
+  padding-left:1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  min-width:13rem;
+  border-radius: 3%;
+  background-color: red;
+  color:white;
+}
 
 }
 

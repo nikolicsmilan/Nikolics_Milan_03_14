@@ -3,6 +3,7 @@ import './Bem_csom_tul.css';
 import Bem_csom_tul_sor from '../../Bem_csom_tul_sor/Bem_csom_tul_sor';
 import pipa2 from '../../../assets/Card/pipa2.svg';
 import xa from '../../../assets/Card/xa.svg';
+import { HashLink as Link } from 'react-router-hash-link';
 
 const Bem_csom_tul = props => {
 
@@ -130,7 +131,12 @@ const Bem_csom_tul = props => {
                 felugro='Ez az úgynevezet kezdőoldal'
                 appear='Ugy_appear' 
             ></Bem_csom_tul_sor>
-          
+           <div className="Megrendelem_gomb">
+            <Link to={{         
+                 pathname: "/Kapcsolat",      
+                 hash: "#form-1",
+                }}> <h1>Megrendelem!</h1></Link>               
+            </div>
 
         </div>
 

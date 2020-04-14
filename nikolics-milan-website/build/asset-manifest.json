@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6092687.chunk.css",
-    "main.js": "/static/js/main.6433e6ac.chunk.js",
-    "main.js.map": "/static/js/main.6433e6ac.chunk.js.map",
+    "main.css": "/static/css/main.248b23d4.chunk.css",
+    "main.js": "/static/js/main.2a97176d.chunk.js",
+    "main.js.map": "/static/js/main.2a97176d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf1037cc.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf1037cc.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.104b9ef0.chunk.js": "/static/js/2.104b9ef0.chunk.js",
-    "static/js/2.104b9ef0.chunk.js.map": "/static/js/2.104b9ef0.chunk.js.map",
+    "static/js/2.f20f342f.chunk.js": "/static/js/2.f20f342f.chunk.js",
+    "static/js/2.f20f342f.chunk.js.map": "/static/js/2.f20f342f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ced71327af391a6f521f5daf5043c468.js": "/precache-manifest.ced71327af391a6f521f5daf5043c468.js",
+    "precache-manifest.5d5d4c8659a2a25cc6171f3e5e47bdef.js": "/precache-manifest.5d5d4c8659a2a25cc6171f3e5e47bdef.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.a6092687.chunk.css.map": "/static/css/main.a6092687.chunk.css.map",
-    "static/js/2.104b9ef0.chunk.js.LICENSE.txt": "/static/js/2.104b9ef0.chunk.js.LICENSE.txt",
+    "static/css/main.248b23d4.chunk.css.map": "/static/css/main.248b23d4.chunk.css.map",
+    "static/js/2.f20f342f.chunk.js.LICENSE.txt": "/static/js/2.f20f342f.chunk.js.LICENSE.txt",
     "static/media/Bemutatkozo_Mobil.jpg": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg",
     "static/media/Ceges_Mobil.jpg": "/static/media/Ceges_Mobil.41c62e92.jpg",
     "static/media/EU_logo_2.JPG": "/static/media/EU_logo_2.eff0329c.JPG",
     "static/media/EU_logo_Desktop.jpg": "/static/media/EU_logo_Desktop.5e3dd14f.jpg",
+    "static/media/NM_kep.jpg": "/static/media/NM_kep.ebac684e.jpg",
     "static/media/NM_kep_2.PNG": "/static/media/NM_kep_2.c5e6395f.PNG",
     "static/media/NM_kep_Desktop.jpg": "/static/media/NM_kep_Desktop.5da12d65.jpg",
     "static/media/NM_kep_Mobil_2.JPG": "/static/media/NM_kep_Mobil_2.eafe0a0d.JPG",
@@ -32,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf1037cc.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.104b9ef0.chunk.js",
-    "static/css/main.a6092687.chunk.css",
-    "static/js/main.6433e6ac.chunk.js"
+    "static/js/2.f20f342f.chunk.js",
+    "static/css/main.248b23d4.chunk.css",
+    "static/js/main.2a97176d.chunk.js"
   ]
 }

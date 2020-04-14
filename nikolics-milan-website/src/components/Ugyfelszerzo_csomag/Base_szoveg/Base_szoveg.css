@@ -257,7 +257,7 @@
         padding-left:2%;
         padding-right:2%;
         padding-top: 1rem;
-        border: 3px solid purple;
+      /*  border: 3px solid purple;*/
         min-height: 5rem;
         max-height:5rem;
     }
@@ -287,10 +287,9 @@
     }
     .Csomag_leiras_ugy p{
         line-height: 1.5rem;
-        border: 3px solid yellow; 
+       /* border: 3px solid yellow; */
         min-height: 6rem;
-        max-height: 6rem;   
-    
+        max-height: 6rem;       
     }
 
  
@@ -337,7 +336,7 @@
         padding-left:2%;
         padding-right:2%;
         padding-top: 1rem;
-        border: 3px solid purple;
+       /* border: 3px solid purple;*/
         min-height: 5rem;
         max-height:5rem;
     }
@@ -367,8 +366,8 @@
         max-height: 6rem;
     }
     .Csomag_leiras_ugy p{
-        line-height: 1.5rem;
-       border: 3px solid yellow; 
+       line-height: 1.5rem;
+      /* border: 3px solid yellow; */
        min-height: 6rem;
        max-height: 6rem;
     
@@ -416,7 +415,7 @@
         padding-left:2%;
         padding-right:2%;
         padding-top: 1rem;
-        border: 3px solid purple;
+        /*border: 3px solid purple;*/
         min-height: 5rem;
         max-height:5rem;
     }
@@ -447,7 +446,7 @@
     }
     .Csomag_leiras_ugy p{
         line-height: 1.5rem;
-        border: 3px solid yellow; 
+       /* border: 3px solid yellow; */
         min-height: 6rem;
         max-height: 6rem;
     
