@@ -1,0 +1,173 @@
+.Bem_csom_tul_egesz{
+  /* border: 3px solid red;*/
+  padding-top: 1.5%;
+   padding-left:2.5%;
+   padding-right:2.5%;
+}
+
+
+
+/* 0. Mini SmartPhones ELEJE*/
+@media (min-width: 120px) and (max-width: 319px) {
+
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:7rem;  
+    width:14rem;  
+    /*left:5rem;*/
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+    margin-left: 40px;
+    margin-top: 1.7rem;
+  }
+}
+
+/* 0. Mini SmartPhones VÉGE*/
+
+
+/* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
+@media (min-width: 320px) and (max-width: 480px) {
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:10rem;  
+    width:16rem;  
+    /*left:5rem;*/
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+     margin-left: 40px;
+     margin-top: 1.7rem;
+  }
+    
+    
+  }
+
+/* 1. Most of the Smartphones Mobiles (Portrait)  VÉGE*/
+
+
+/* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
+@media (min-width: 481px) and (max-width: 767px) {
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:7rem;  
+    width:20rem;  
+    /*left:5rem;*/
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+    margin-left: 40px;
+    margin-top: 1.9rem;
+  }  
+}
+
+
+/* 2. Low Resolution Tablets, Mobiles (Landscape) VÉGE*/
+
+
+
+/* 3. Device = Tablets, Ipads (portrait) ELEJE*/
+@media (min-width: 768px) and (max-width: 1024px) {
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:10rem;  
+    width:25rem;  
+   /* left:5rem;*/
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+    margin-left: 75px;
+    margin-top: 2rem;
+  }
+ 
+  
+}
+
+/* 3. Device = Tablets, Ipads (portrait) VÉGE*/
+
+/* 4. Tablets, Ipads (landscape) ELEJE*/
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:7rem;  
+    width:20rem;  
+    left:5rem;
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+    margin-left: 30px;
+    margin-top: 2rem;
+  }
+ 
+}
+/* 4. Tablets, Ipads (landscape) VÉGE*/
+
+
+/* 5. Laptops, Desktops ELEJE  */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:10rem;  
+    width:20rem;  
+    left:5rem;
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+    margin-left: 45px;
+    margin-top: 2rem;
+  }
+  
+  
+}
+/* 5. Laptops, Desktops VÉGE  */
+
+
+/* 6. Higher resolution desktops ELEJE*/
+
+@media (min-width: 1281px) and (max-width: 1599px) {
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:7rem;  
+    width:20rem;  
+    left:5rem;
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+    margin-left: 70px;
+    margin-top: 2rem;
+  }
+  
+  
+}
+
+/* 6. Higher resolution desktops VÉGE*/
+
+
+/* 7. Larger screen ELEJE*/
+
+@media (min-width: 1600px) {
+  .Bem_appear{
+    position: absolute;
+    background-color: whitesmoke;
+    height:7rem;  
+    width:20rem;  
+    left:5rem;
+    z-index: 10000;
+    border: 1px solid black;
+    border-radius:2%;
+    margin-left: 130px;
+    margin-top: 2rem;
+  }
+
+
+
+}
+
+/* 7. Larger screen VÉGE*/
