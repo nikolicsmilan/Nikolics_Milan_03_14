@@ -26,17 +26,20 @@ const Kapcsolat = props => {
                                 <h1>NIKOLICS MILAN</h1>
                                 <h2>Web-fejlesztő</h2>                                                       
                             </div>
-                      
-                             <div className="Telefon_kapcs">                        
-                                <img src={tel} ></img> 
-                                <h2>+36 20 475 24 60</h2>                                          
-                             </div>
-                   
-                            <div className="Email_kapcs" >
-                                <img src={email} ></img> 
-                                <h2>nikolicsmilan@gmail.com</h2>
-                            </div> 
 
+                      <div className="centerbe">
+                            <div className="centerbe_2">
+                                <div className="Telefon_kapcs">                        
+                                    <img src={tel} ></img> 
+                                    <h2>+36 20 475 24 60</h2>                                          
+                                </div>
+                    
+                                <div className="Email_kapcs" >
+                                    <img src={email} ></img> 
+                                    <h2>nikolicsmilan@gmail.com</h2>
+                                </div> 
+                        </div>
+                     </div>
                     </div>                        
             </div>
 

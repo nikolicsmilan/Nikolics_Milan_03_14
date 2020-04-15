@@ -20,7 +20,7 @@
     /*FONTOS HA A PARENT ELEMNT ALACSONYABB Z INDEXEN VAN  MINT AMIT
     KI AKAROK TAKARNI A CHILDET HIÁBA TESZEM MAGASBRA*/
     z-index: 980;
-    transform: translateY(-130%);
+    transform: translateY(-150%);
     transition: transform 0.3s ease-out;
      max-height: 12rem;
    /*border: 6px solid yellow;*/
@@ -120,7 +120,7 @@
     /*FONTOS HA A PARENT ELEMNT ALACSONYABB Z INDEXEN VAN  MINT AMIT
     KI AKAROK TAKARNI A CHILDET HIÁBA TESZEM MAGASBRA*/
     z-index: 980;
-    transform: translateY(-130%);
+    transform: translateY(-150%);
     transition: transform 0.3s ease-out;
      max-height: 12rem;
    /*border: 6px solid yellow;*/

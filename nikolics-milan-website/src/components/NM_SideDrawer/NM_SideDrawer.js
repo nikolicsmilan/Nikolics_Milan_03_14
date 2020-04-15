@@ -86,7 +86,8 @@ setToogleState ({
                <li onClick={toogleHandler_out}><Link to="/">Főoldal</Link></li> 
                <li  onClick={toogleHandler_in}> <Link to="">Weboldal-Árak</Link> </li> 
                <li  onClick={toogleHandler_out}><Link to="/SEO">SEO</Link></li> 
-               <li onClick={toogleHandler_out}><Link to="/">Kapcsolat</Link></li> 
+               <li  onClick={toogleHandler_out}><Link to="/Tech">Technológia</Link></li> 
+               <li onClick={toogleHandler_out}><Link to="/Kapcsolat">Kapcsolat</Link></li> 
         </ul>
    </div>
     
