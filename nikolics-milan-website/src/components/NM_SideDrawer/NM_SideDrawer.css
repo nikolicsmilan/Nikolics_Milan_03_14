@@ -210,7 +210,7 @@
     display: flex;
     flex-direction: column;
     justify-content: left;
-    padding-left: 0.5rem;
+    padding-left: 0.8rem;
     /*max-width: 400px;*/
   
     /*Itt a megoldás- lacsonybnak kell 
@@ -223,6 +223,7 @@
      max-height: 20rem;
    /*border: 6px solid yellow;*/
     opacity:0.9;
+    
   }
   
   .NMside-drawer.open {
@@ -232,10 +233,11 @@
   .nav_kisegit{
     display: flex;
     flex-direction: row;
-
+    
   }
   .nav_kisegit_A{
-    padding:3%
+    padding:5%;
+   
   }
 
  .appear_csomagok{
@@ -256,6 +258,7 @@
     justify-content: center;
     position: relative;
     z-index: 1020;
+    /*border:3px solid red;*/
   }
   
   .NMside-drawer li {
@@ -263,6 +266,7 @@
    /* color:red;*/
    position: relative;
    z-index: 1020;
+   
   }
   
   .NMside-drawer a {  
@@ -274,6 +278,7 @@
     /*color:orange;*/
     position: relative;
    z-index: 1020;
+   
   }
   
   .NMside-drawer a:hover,
@@ -306,7 +311,7 @@
     display: flex;
     flex-direction: column;
     justify-content: left;
-    padding-left: 0.5rem;
+    padding-left: 2rem;
     /*max-width: 400px;*/
   
     /*Itt a megoldás- lacsonybnak kell 
@@ -409,7 +414,7 @@
     display: flex;
     flex-direction: column;
     justify-content: left;
-    padding-left: 0.5rem;
+    padding-left: 2rem;
     /*max-width: 400px;*/
   
     /*Itt a megoldás- lacsonybnak kell 
