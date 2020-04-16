@@ -209,11 +209,15 @@
         padding-bottom: 4%;   
       
     }
+    /*
     .Csomag_leiras_ugy p{
         line-height: 2.6rem;
-    
+        }
+        */
+    .szoveg{
+        letter-spacing: -1.5px;
+        line-height: 3rem;
     }
-  
   
 }
 
