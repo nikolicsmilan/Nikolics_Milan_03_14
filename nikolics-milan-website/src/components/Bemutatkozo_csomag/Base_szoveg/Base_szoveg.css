@@ -170,14 +170,14 @@
     .Csomag_leiras_bem{
         max-width: 100%;
         margin-top: 2%;
-        font-size: 4.2vw; 
+        font-size: 2rem; 
         text-align: justify;
-        /*text-justify: inter-word;*/
-       /* word-spacing:0em;*/
+        text-justify: inter-word;
+        word-spacing:0em;
         text-justify: distribute;
         padding:2%;
         padding-bottom: 4%;   
-      
+        hyphens: auto
         /* word-break: break-all;*/
     }
     .Csomag_leiras_bem p{
@@ -185,6 +185,7 @@
         color:green;
         text-align: justify;
         text-justify: distribute;
+        hyphens: auto;
     }
 }
 
