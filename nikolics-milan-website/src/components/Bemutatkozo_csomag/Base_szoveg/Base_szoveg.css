@@ -175,8 +175,8 @@
         /*text-justify: distribute;*/
         padding:2%;
         padding-bottom: 4%;   
-      /*  word-spacing:2px;*/
-         word-break: break-all;
+        word-spacing:0em;
+        /* word-break: break-all;*/
     }
     .Csomag_leiras_bem p{
         line-height: 3rem;
