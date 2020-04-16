@@ -175,7 +175,7 @@
         text-justify: distribute;
         padding:2%;
         padding-bottom: 4%;   
-      
+        word-spacing:2px;
     }
     .Csomag_leiras_bem p{
         line-height: 3rem;
