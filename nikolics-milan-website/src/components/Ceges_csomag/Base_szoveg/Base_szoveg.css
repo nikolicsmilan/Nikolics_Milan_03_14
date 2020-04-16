@@ -177,7 +177,7 @@
         text-justify: distribute;
         padding:2%;
         padding-bottom: 4%;   
-        hyphens: auto;
+       /* hyphens: auto;*/
        /* color:orange;*/
         /* word-break: break-all;*/
       
