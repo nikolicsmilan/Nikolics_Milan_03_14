@@ -20,7 +20,7 @@ const Base_szoveg = props =>{
 
 
         <div className='Csomag_leiras_ceg'>
-                <div className='szoveg'>          
+                <div className='Szoveg_ceg'>          
                 Mindent tud, amit a Bemutatkozó weboldal.
                  Haladó szintű weboldal igényes vállalkozások számára lett kifejlesztve.
                  Ha nem akar kompromiszumokat válasza ezt a típust.

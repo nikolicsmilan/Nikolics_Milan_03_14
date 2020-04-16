@@ -21,7 +21,7 @@ const Base_szoveg = props =>{
 
         <div className='Csomag_leiras_bem'>          
 
-           <div className='szoveg'>         
+           <div className='Szoveg_bem'>         
             Ez a Professzionális Weboldal ideális arra,
             hogy bemutassa vállakozását ügyfelei
             számára megnyerő módon. Alapkövetelmény egy sikeres
