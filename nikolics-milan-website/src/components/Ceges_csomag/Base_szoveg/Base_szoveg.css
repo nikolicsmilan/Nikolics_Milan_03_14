@@ -170,17 +170,27 @@
     .Csomag_leiras_ceg{
         max-width: 100%;
         margin-top: 2%;
-        font-size: 4.2vw; 
+        font-size: 2rem; 
         text-align: justify;
+        text-justify: inter-word;
+        word-spacing:0em;
+        text-justify: distribute;
         padding:2%;
         padding-bottom: 4%;   
+        hyphens: auto;
+       /* color:orange;*/
+        /* word-break: break-all;*/
       
     }
+    /*
     .Csomag_leiras_ceg p{
-        line-height: 2.6rem;
-    
+        line-height: 2.6rem;    
     }
-  
+  */
+  .szoveg{
+    letter-spacing: -1.5px;
+    line-height: 3rem;
+    }
   
 }
 

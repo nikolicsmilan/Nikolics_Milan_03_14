@@ -20,15 +20,13 @@ const Base_szoveg = props =>{
 
 
         <div className='Csomag_leiras_ceg'>
-                <p>               
+                <div className='szoveg'>          
                 Mindent tud, amit a Bemutatkozó weboldal.
                  Haladó szintű weboldal igényes vállalkozások számára lett kifejlesztve.
+                 Ha nem akar kompromiszumokat válasza ezt a típust.
                 
-                 <span className="Kiemelt_ceg"> 
-                  Ha nem akar kompromiszumokat válasza ezt a típust.
-                 </span>
                 
-                </p>        
+                 </div>     
         </div>
 
     {/*
