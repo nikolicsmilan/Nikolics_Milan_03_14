@@ -25,7 +25,7 @@ const Base_szoveg = props =>{
         <div className='Csomag_leiras_ugy'>
            <div className='szoveg'>
         Ez az a  Weboldaltípus, ami a pénzt termeli. Megkeresi potenciális ügyfeleit
-        és Önhöz irányítja őket.<span className="Kiemelt_ugy"> Ha most</span> velem végezteti weboldala keresőoptimalizását
+        és Önhöz irányítja őket.<span className="Kiemelt_ugy"> Ha most</span> velem végezteti weboldala kereső optimalizását
          <span className="Kiemelt_ugy"> ingyen </span> megcsinálom CÉGES kategóriájú weblapját!
          </div>
          
