@@ -177,16 +177,37 @@
         text-justify: distribute;
         padding:2%;
         padding-bottom: 4%;   
-        hyphens: auto
+        hyphens: auto;
+        color:orange;
         /* word-break: break-all;*/
+        
     }
     .Csomag_leiras_bem p{
         line-height: 3rem;
-        color:green;
+        color:orange;
         text-align: justify;
         text-justify: distribute;
         hyphens: auto;
+        border: 3px solid black;
     }
+
+    .piros{
+        color:red;
+        letter-spacing: -1px;
+    }
+    .zold{
+        color:green;
+        letter-spacing: -1.5px;
+    }
+    .purple{
+        color:purple;
+        letter-spacing: -2px;
+    }
+    .blue{
+        color:blue;
+        letter-spacing: -2.5px;
+    }
+
 }
 
 /* 3. Device = Tablets, Ipads (portrait) VÉGE*/

@@ -22,29 +22,55 @@ const Base_szoveg = props =>{
         <div className='Csomag_leiras_bem'>
 
             <p>Ez a Professzionális Weboldal ideális arra,</p>  
-            <p>  hogy bemutassa vállakozását ügyfelei </p> 
-            <p>számára megnyerő módonhogy bemutassa </p>
-            <p>vállakozását ügyfelei számára megnyerő </p> 
-            <p>módon. Alapkövetelmény egy sikeres és</p>
-            <p> modern vállalkozás számára. Gyors. Biztonságos. Jogtiszta</p>
-            <p></p>
-            
+            <p> hogy bemutassa vállakozását ügyfelei</p> 
+            <p> számára megnyerő módon. Alapkövetelmény egy </p>
+            <p>sikeres és modern vállalkozás számára.</p> 
+            <p>  Gyors. Biztonságos. Jogtiszta.</p>
+            <p> </p>           
             Ez a Professzionális Weboldal ideális arra,
-             hogy bemutassa vállakozását ügyfelei
-            számára megnyerő módonhogy bemutassa vállakozását
-             ügyfelei számára megnyerő módon.  
-            Alapkövetelmény egy sikeres és modern vállalkozás számára.                  
-            Gyors. Biztonságos. Jogtiszta.
+            hogy bemutassa vállakozását ügyfelei
+            számára megnyerő módon. Alapkövetelmény egy sikeres
+            és modern vállalkozás számára.                  
+            Gyors. Biztonságos. Jogtiszta.      
             <p>
             Ez a Professzionális Weboldal ideális arra,
-             hogy bemutassa vállakozását ügyfelei
-             számára megnyerő módonhogy bemutassa vállakozását
-             ügyfelei számára megnyerő módon  
-            Alapkövetelmény egy sikeres és modern vállalkozás számára                  
-            Gyors Biztonságos Jogtiszta
+            hogy bemutassa vállakozását ügyfelei
+            számára megnyerő módon. Alapkövetelmény egy sikeres
+            és modern vállalkozás számára.                  
+            Gyors. Biztonságos. Jogtiszta.
             </p>
            
-          
+           <div className='piros'>         
+            Ez a Professzionális Weboldal ideális arra,
+            hogy bemutassa vállakozását ügyfelei
+            számára megnyerő módon. Alapkövetelmény egy sikeres
+            és modern vállalkozás számára.                  
+            Gyors. Biztonságos. Jogtiszta.
+           </div>
+
+           <div className='zold'>         
+            Ez a Professzionális Weboldal ideális arra,
+            hogy bemutassa vállakozását ügyfelei
+            számára megnyerő módon. Alapkövetelmény egy sikeres
+            és modern vállalkozás számára.                  
+            Gyors. Biztonságos. Jogtiszta.
+           </div>
+
+           <div className='purple'>         
+            Ez a Professzionális Weboldal ideális arra,
+            hogy bemutassa vállakozását ügyfelei
+            számára megnyerő módon. Alapkövetelmény egy sikeres
+            és modern vállalkozás számára.                  
+            Gyors. Biztonságos. Jogtiszta.
+           </div>
+
+           <div className='blue'>         
+            Ez a Professzionális Weboldal ideális arra,
+            hogy bemutassa vállakozását ügyfelei
+            számára megnyerő módon. Alapkövetelmény egy sikeres
+            és modern vállalkozás számára.                  
+            Gyors. Biztonságos. Jogtiszta.
+           </div>
                 
         </div>
 
