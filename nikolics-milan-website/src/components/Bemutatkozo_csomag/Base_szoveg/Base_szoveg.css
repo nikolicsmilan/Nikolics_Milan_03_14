@@ -182,7 +182,8 @@
     .Csomag_leiras_bem p{
         line-height: 3rem;
         /*color:green;*/
-  
+        text-align: justify;
+        
     }
 }
 

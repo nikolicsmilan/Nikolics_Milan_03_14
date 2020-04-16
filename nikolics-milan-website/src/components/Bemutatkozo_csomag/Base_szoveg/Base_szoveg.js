@@ -23,9 +23,9 @@ const Base_szoveg = props =>{
 
             <p>
             Ez a Professzionális Weboldal ideális arra, 
-            hogy bemutassa vállakozását ügyfelei számára megnyerő módon. 
-            Alapkövetelmény egy sikeres és modern vállalkozás számára.                   
-            Gyors. Biztonságos. Jogtiszta.
+            hogy bemutassa vállakozását ügyfelei számára megnyerő módon  
+            Alapkövetelmény egy sikeres és modern vállalkozás számára                  
+            Gyors Biztonságos Jogtiszta
            
             </p> 
                 
