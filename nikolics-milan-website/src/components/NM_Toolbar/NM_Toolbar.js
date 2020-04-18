@@ -62,7 +62,7 @@ const NM_Toolbar = props => (
   <div className="desktop_menu">      
    <div className='desktop_menu_belso'>
   
-            <ul className="desktop_ul">
+            <ul >
                {/*DESKTOP NÉZETBEN LÁTHATÓ*/}
               <li><Link to="/">Főoldal</Link></li> 
               <li> <Link to={{         

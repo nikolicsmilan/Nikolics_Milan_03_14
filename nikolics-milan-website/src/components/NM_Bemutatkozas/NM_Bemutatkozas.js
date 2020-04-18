@@ -56,19 +56,7 @@ const NM_Bemutatkozas = props => (
         
 
             </div>
-{/*
-            <div className="NM_kep_2">
-                <img  src={NM_kep_Mobil} ></img>  
-            </div>
-            <div className="Bemutat_szoveg_keret">
-                <ul className="Bemutat_szoveg_keret_ul">
-                    <li>Nikolics Milán</li>
-                    <li >Web fejlesztő</li>
-                    <li >Tel: 06-20-475-24-60</li>
-                    <li >Email: nikolicsmilan@gmail.com</li>
-                </ul>       
-            </div>
-   */}
+
     </div>
 
 
