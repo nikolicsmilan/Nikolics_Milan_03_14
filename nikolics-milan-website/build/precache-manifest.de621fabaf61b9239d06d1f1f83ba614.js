@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcb5a2a5ba3312d9e7476c78b6090ccb",
+    "revision": "9109e08c176dd6ab980a0b42e847c633",
     "url": "/index.html"
   },
   {
-    "revision": "c59e598c92e54ed05e76",
+    "revision": "bcaca5ce56120dc3c3f3",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "1d6fb0ef921d8ba59dcc",
-    "url": "/static/css/main.0da30eb8.chunk.css"
+    "revision": "64e2ab78b3a2999e29b9",
+    "url": "/static/css/main.60d10e6a.chunk.css"
   },
   {
-    "revision": "c59e598c92e54ed05e76",
-    "url": "/static/js/2.27793e06.chunk.js"
+    "revision": "bcaca5ce56120dc3c3f3",
+    "url": "/static/js/2.fad0de06.chunk.js"
   },
   {
     "revision": "6a7903cba7c07c04b74cefcf79c6a3f5",
-    "url": "/static/js/2.27793e06.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fad0de06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d6fb0ef921d8ba59dcc",
-    "url": "/static/js/main.613ffd9a.chunk.js"
+    "revision": "64e2ab78b3a2999e29b9",
+    "url": "/static/js/main.5cafae9c.chunk.js"
   },
   {
     "revision": "2301f6121dd8c2d6a3d3",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "986fe0a4e9e69a1d00f2d53e648672fc",
     "url": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg"
+  },
+  {
+    "revision": "e522c07fe440afbb0408eaf001981c1e",
+    "url": "/static/media/Bevetel.e522c07f.PNG"
   },
   {
     "revision": "41c62e92fa4a926d97e1064620943fa6",
@@ -58,6 +62,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eafe0a0d826c672c9d61f1fe75e268d1",
     "url": "/static/media/NM_kep_Mobil_2.eafe0a0d.JPG"
+  },
+  {
+    "revision": "90104612a1982874109eb1f09ed2637e",
+    "url": "/static/media/Nepszeru.90104612.PNG"
+  },
+  {
+    "revision": "eea9f445d87f4ece824434308a931804",
+    "url": "/static/media/Ugyfel.eea9f445.PNG"
   },
   {
     "revision": "69f610daa66c9c0a789562ee83fa0da1",

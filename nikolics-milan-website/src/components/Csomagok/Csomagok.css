@@ -151,8 +151,8 @@
     
     .Csomag_doboz{
         margin:1.5%;
-        max-width:30rem;
-       /* border: 3px solid red;*/
+        max-width:23rem;
+        /*border: 3px solid red;*/
     }
 
   
@@ -179,7 +179,7 @@
         margin:1%;
         margin-bottom:15%;
       /*  border: 3px solid red;*/
-        max-width:30rem;
+        max-width:27rem;
     }
 
 

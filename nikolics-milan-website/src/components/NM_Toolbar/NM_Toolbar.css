@@ -991,11 +991,12 @@ display:none;
 
               .desktop_menu{
                 margin-bottom:2rem;
-              /* border: 3px solid yellow;*/
+                border: 3px solid yellow;
                 display: flex;
                /* flex-direction: column;*/
                 justify-content: flex-start;
                 height: 4rem;
+               /* width: 100%;*/
               }
              
               .desktop_menu ul{

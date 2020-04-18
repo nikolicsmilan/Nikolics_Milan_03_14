@@ -5,6 +5,9 @@ import NM_kep_2 from '../../assets/NM_kep_2.PNG';
 import NM_kep_Mobil from '../../assets/NM_kep_Mobil_2.JPG';
 import NM_kep_Desktop from '../../assets/NM_kep_Desktop.jpg';
 import nikolics_logo from './../../assets/nikolicsmilan_logo_9.png';
+import bevetel from './../../assets/SzovegKep/Bevetel.PNG';
+import nepszeru from './../../assets/SzovegKep/Nepszeru.PNG';
+import ugyfel from './../../assets/SzovegKep/Ugyfel.PNG';
 
 const NM_Bemutatkozas = props => (
 
@@ -31,9 +34,9 @@ const NM_Bemutatkozas = props => (
                 <ul className="Bemutat_szoveg_keret_ul">
 
                     <div className="Li_kontener">
-                    <li className="BemSzovLi_1">Szeretné megnövelni vállalkozása bevételét?</li>
-                    <li  className="BemSzovLi_1">Új vagy jobban fizető ügyfelekre van szüksége?</li>
-                    <li  className="BemSzovLi_1">Népszerűvé szeretné tenni vállalkozását?</li>
+                    <li className="BemSzovLi_1"> <img src={bevetel} ></img> </li>
+                    <li  className="BemSzovLi_1"> <img src={nepszeru} ></img></li>
+                    <li  className="BemSzovLi_1"> <img src={ugyfel} ></img></li>
                    
                     </div>
 
