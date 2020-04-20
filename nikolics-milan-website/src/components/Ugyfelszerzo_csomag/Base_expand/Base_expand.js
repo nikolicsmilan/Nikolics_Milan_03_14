@@ -23,7 +23,7 @@ const Base_expand = props =>{
 
         
         <div className={changing_class}>
-          <p>
+       
         Ennél jobb kinálatott nem fogsz találni a piacon!
         ( A fenti ár csak a 6 havi SEO -t tartalmazza.)                          
       Kétségtelen a legdrágább, de ugyanakor a legjobban megtérülő és leghasznosabb csomag egyben.
@@ -34,7 +34,7 @@ const Base_expand = props =>{
       valaki megtalálja hanem 
 
       A SEOzás egy folyamat nem egyikről a másik napra.
-      </p>
+     
         </div>
 
         <div className="Kep_start_ugy">

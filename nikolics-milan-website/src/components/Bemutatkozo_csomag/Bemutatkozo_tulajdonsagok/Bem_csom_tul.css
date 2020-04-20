@@ -469,25 +469,27 @@
   padding-bottom: 0.5rem;
   min-width:13rem;
   border-radius: 3%;
-  background-color: red;
+  background-color:rgba(49,193,245);;
   color:white;
 }
 
 .Megrendelem_gomb h1:hover{
-  background-color:blue;
+  background-color:red;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 100%;
 }
 
-.Megrendelem_gomb a{
+.Megrendelem_gomb a {
   color:red;
-  background-color: teal;
+  /*background-color: teal;*/
   text-decoration: none;
 }
-.Megrendelem_gomb a:hover{
-  color:grey;
-  background-color: teal;
 
+.Megrendelem_gomb a:hover {
+ /* color:grey;
+  background-color: teal;*/
 }
 
 }
-
 /* 7. Larger screen VÉGE*/

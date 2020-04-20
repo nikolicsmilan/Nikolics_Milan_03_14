@@ -246,17 +246,13 @@
       padding-left: 2%;
       padding-right: 2%;
       padding-bottom:2%;
-      padding-top: 5%;
-     
+      padding-top: 5%;   
   }
    
-  .Ugyfelszerzo_csomag_alja{
+  .Ugyfelszerzo_csomag_alja { 
     width:100%;
    /*border: 3px solid blue;*/
-  }
-  
-  
-  
+  }  
   }
   
   /* 7. Larger screen VÉGE*/
