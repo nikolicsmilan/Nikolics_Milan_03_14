@@ -23,7 +23,7 @@ const Base_expand = props =>{
 
         
         <div className={changing_class}>
-        <p>
+       
         Ha menő akar lenni. Ha nagyon profi akar lenni.
         Interaktív weboldal. Ha nem elégszel meg az
         alapszolgáltatással. És nem tud vagy lusta szöveget
@@ -31,7 +31,7 @@ const Base_expand = props =>{
         Két irányú kommunikációt biztosít Ön és ügyfelei között.
                  Emelt szintű design elemeket és karbantartást tartalmaz valamint céges logót.
                 Nem kell Önnek kitatlálni weboldala szövegezését sem.
-        </p>
+        
 
         <ul className="felsorol_ceg">
           <li><span>Kétoldalú kommunikáció</span></li>

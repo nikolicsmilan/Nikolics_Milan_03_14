@@ -24,11 +24,11 @@ const Base_expand = props =>{
         
         <div className={changing_class}> 
        
-        <p>
+      
         Jó választás lehet területileg korlátozott
         vagy alacsony költségvetésű vállakozások számára.          
         Kiválóan alkalmas a következőkre pl:
-        </p>
+     
 
         <ul className="felsorol_bem">
           <li><span>Potenciális ügyfelei tájékoztatására.</span></li>

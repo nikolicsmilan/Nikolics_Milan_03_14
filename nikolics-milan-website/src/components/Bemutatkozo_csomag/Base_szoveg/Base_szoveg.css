@@ -401,14 +401,15 @@
 /* 7. Larger screen ELEJE*/
 
 @media screen and (min-width: 1600px) {
-    .Base_szoveg_egesz_bem{
+    .Base_szoveg_egesz_bem {
         display:flex;
         flex-direction: column;
         text-align: center;  
         /*border: 3px dashed red;*/
         max-height: 19rem;      
-    }    
-    .Csomag_cim_bem{
+    }   
+
+    .Csomag_cim_bem {
         display:flex;
         flex-direction: row;
         justify-content: center;
@@ -418,14 +419,16 @@
         font-weight: 900;
         padding:2%;        
     }
-    .Csomag_cim_bem h1{      
+
+    .Csomag_cim_bem h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
         border-radius: 3%;
         width:17rem;
         height: 4rem;
-    }    
-    .Csomag_ar_bem{
+    }   
+
+    .Csomag_ar_bem {
         display:flex;
         flex-direction: column;
         align-items: center;
@@ -437,7 +440,8 @@
        /* border: 3px solid yellow;*/
         min-height: 5rem;
     }    
-    .Csomag_leiras_bem{
+
+    .Csomag_leiras_bem {
         max-width: 100%;
        /* margin-top: 2%;*/
         font-size: 0.9vw; 
@@ -445,15 +449,19 @@
         padding-left:2%;
         padding-right:2%;
         /*padding-bottom: 4%;   */
-       /* border: 3px solid yellow;*/
+      /*  border: 3px solid yellow;*/
         min-height: 6rem;
-        max-height: 6rem;
-    }
-    .Csomag_leiras_bem p{
-        line-height: 1.5rem;
-        min-height: 6rem;
-        max-height: 6rem;
-       /* border: 3px solid yellow; */ 
+        max-height: 9rem;
+        line-height: 1.8rem
+    }  
+
+    .Szoveg_bem {
+       /* letter-spacing: -1.5px;
+        line-height: 3rem;*/
+        width:25rem;
+        border: 3px solid yellow;
+        min-height: 8rem;
+        max-height: 8rem;
     }
 }
 
