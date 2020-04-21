@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './Base_expand.css';
-import Ceges_Mobil from '../../../assets/Card/Ceges_Mobil.jpg';
+import Ceges_Mobil from '../../../assets/Card/Ceges_Mobil.png';
 
 
 const Base_expand = props =>{

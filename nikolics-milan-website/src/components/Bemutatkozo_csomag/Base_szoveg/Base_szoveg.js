@@ -13,7 +13,8 @@ const Base_szoveg = props =>{
               <h1>BEMUTATKOZÓ</h1>
             
         </div>
-
+<div className="keret_bem">
+    
         <div className="Csomag_ar_bem">
               <h1>120 000 HUF</h1>
         </div>
@@ -28,7 +29,7 @@ const Base_szoveg = props =>{
             és modern vállalkozás számára.                  
             Gyors. Biztonságos. Jogtiszta.
            </div>
-
+</div>
            
                 
         </div>

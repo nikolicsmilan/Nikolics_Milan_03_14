@@ -675,7 +675,8 @@
         padding-right: 2%;
         line-height: 1.8rem;           
         font-size: 1vw;    
-        width:25rem;
+       /* width:25rem;*/
+       
     }   
     
     ul.felsorol_ugy {
@@ -690,16 +691,16 @@
     .Kep_start_ugy {    
         width: 100%;
        /* border: 3px solid red;*/
-        width:25rem;
+       /* width:25rem;
         max-height: 16rem;
-        min-height: 16rem;
+        min-height: 16rem;*/
     }
 
     .Kep_start_ugy img {
         width: 100%;
-        width:25rem;
+       /* width:25rem;
         max-height: 16rem;
-        min-height: 16rem;
+        min-height: 16rem;*/
     }
 }
 /* 7. Larger screen VÉGE*/

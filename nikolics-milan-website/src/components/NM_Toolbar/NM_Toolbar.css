@@ -1216,12 +1216,12 @@ display:none;
 
              
 
-              .desktop_menu li{
-               /* margin:2%; */                                 
-               border: 3px solid blue;               
-               color:black;
-               font-style: oblique;
-               height: 3rem;
+   .desktop_menu li{
+   /* margin:2%; */                                 
+   border: 3px solid blue;               
+   color:black;
+   font-style: oblique;
+   height: 3rem;
                width:16%;  
               }
               
@@ -1234,7 +1234,7 @@ display:none;
                /* border: 3px dashed red;*/
             }                
                       
-              .EU_Logo_kontener_desktop{
+              .EU_Logo_kontener_desktop {
                position: absolute;
                top:0;
                right: 0;
@@ -1245,10 +1245,10 @@ display:none;
                height: 12rem;
               }
               
-              .EU_logo_Desktop{
+              .EU_logo_Desktop {
                   width:18rem;
                   min-height:12rem; 
-                  border:3px solid green;      
+                 /* border:3px solid green;*/
                   margin:0;         
                   }
 

@@ -13,7 +13,7 @@ const Base_szoveg = props =>{
               <h1>CÉGES</h1>
              
         </div>
-
+<div className="keret_ceg">
         <div className="Csomag_ar_ceg">
               <h1>250 000 HUF</h1>
         </div>
@@ -23,10 +23,10 @@ const Base_szoveg = props =>{
                 <div className='Szoveg_ceg'>          
                 Mindent tud, amit a Bemutatkozó weboldal.
                  Haladó szintű weboldal igényes vállalkozások számára lett kifejlesztve.
-                 Ha nem akar kompromiszumokat válasza ezt a típust.
-                
-                
-                 </div>     
+                 Ha nem akar kompromiszumokat válasza ezt a típust.           
+         </div>   
+</div>
+
         </div>
 
     {/*

@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './Base_expand.css';
-import Ugyfelszerzo_Mobil from '../../../assets/Card/Ugyfelszerzo_Mobil-min.jpg';
+import Ugyfelszerzo_Mobil from '../../../assets/Card/Ugyfelszerzo_Mobil-min.png';
 
 
 const Base_expand = props =>{

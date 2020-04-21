@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4438ddd.chunk.css",
-    "main.js": "/static/js/main.f18b0425.chunk.js",
-    "main.js.map": "/static/js/main.f18b0425.chunk.js.map",
+    "main.css": "/static/css/main.b4294d7d.chunk.css",
+    "main.js": "/static/js/main.86d43f98.chunk.js",
+    "main.js.map": "/static/js/main.86d43f98.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf1037cc.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf1037cc.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
     "static/js/2.fad0de06.chunk.js": "/static/js/2.fad0de06.chunk.js",
     "static/js/2.fad0de06.chunk.js.map": "/static/js/2.fad0de06.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.14567b73e9da95ae55a374b55ccfd4de.js": "/precache-manifest.14567b73e9da95ae55a374b55ccfd4de.js",
+    "precache-manifest.8587602abb91966880320ed4bcfdd6cb.js": "/precache-manifest.8587602abb91966880320ed4bcfdd6cb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.c4438ddd.chunk.css.map": "/static/css/main.c4438ddd.chunk.css.map",
+    "static/css/main.b4294d7d.chunk.css.map": "/static/css/main.b4294d7d.chunk.css.map",
     "static/js/2.fad0de06.chunk.js.LICENSE.txt": "/static/js/2.fad0de06.chunk.js.LICENSE.txt",
     "static/media/Bemutatkozo_Mobil.jpg": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg",
     "static/media/Bevetel.PNG": "/static/media/Bevetel.e522c07f.PNG",
-    "static/media/Ceges_Mobil.jpg": "/static/media/Ceges_Mobil.41c62e92.jpg",
+    "static/media/Ceges_Mobil.png": "/static/media/Ceges_Mobil.bd7e9759.png",
     "static/media/EU_logo_2.JPG": "/static/media/EU_logo_2.eff0329c.JPG",
     "static/media/EU_logo_Desktop.jpg": "/static/media/EU_logo_Desktop.5e3dd14f.jpg",
     "static/media/NM_kep.jpg": "/static/media/NM_kep.ebac684e.jpg",
@@ -25,7 +25,7 @@
     "static/media/NM_kep_Mobil_2.JPG": "/static/media/NM_kep_Mobil_2.eafe0a0d.JPG",
     "static/media/Nepszeru.PNG": "/static/media/Nepszeru.90104612.PNG",
     "static/media/Ugyfel.PNG": "/static/media/Ugyfel.eea9f445.PNG",
-    "static/media/Ugyfelszerzo_Mobil-min.jpg": "/static/media/Ugyfelszerzo_Mobil-min.69f610da.jpg",
+    "static/media/Ugyfelszerzo_Mobil-min.png": "/static/media/Ugyfelszerzo_Mobil-min.72c64d0d.png",
     "static/media/email-min.PNG": "/static/media/email-min.aa7faa1a.PNG",
     "static/media/info-gomb.svg": "/static/media/info-gomb.08f42893.svg",
     "static/media/nikolicsmilan_logo_9.png": "/static/media/nikolicsmilan_logo_9.a19b9f96.png",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.cf1037cc.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.fad0de06.chunk.js",
-    "static/css/main.c4438ddd.chunk.css",
-    "static/js/main.f18b0425.chunk.js"
+    "static/css/main.b4294d7d.chunk.css",
+    "static/js/main.86d43f98.chunk.js"
   ]
 }

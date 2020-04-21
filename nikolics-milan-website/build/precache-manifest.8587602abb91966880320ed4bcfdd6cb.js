@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8151c4e8041f8e07da637e38521511e8",
+    "revision": "7187acec9af49d20dfe8ad646b3b36a7",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "f957aa50206ad9fea00d",
-    "url": "/static/css/main.c4438ddd.chunk.css"
+    "revision": "5686dcd9b307014a46b0",
+    "url": "/static/css/main.b4294d7d.chunk.css"
   },
   {
     "revision": "bcaca5ce56120dc3c3f3",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.fad0de06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f957aa50206ad9fea00d",
-    "url": "/static/js/main.f18b0425.chunk.js"
+    "revision": "5686dcd9b307014a46b0",
+    "url": "/static/js/main.86d43f98.chunk.js"
   },
   {
     "revision": "2301f6121dd8c2d6a3d3",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Bevetel.e522c07f.PNG"
   },
   {
-    "revision": "41c62e92fa4a926d97e1064620943fa6",
-    "url": "/static/media/Ceges_Mobil.41c62e92.jpg"
+    "revision": "bd7e975983e2bcf699eafc76e8bc208e",
+    "url": "/static/media/Ceges_Mobil.bd7e9759.png"
   },
   {
     "revision": "eff0329c603d10f5bd250c0bbb399eab",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Ugyfel.eea9f445.PNG"
   },
   {
-    "revision": "69f610daa66c9c0a789562ee83fa0da1",
-    "url": "/static/media/Ugyfelszerzo_Mobil-min.69f610da.jpg"
+    "revision": "72c64d0dc7d78242a53f0a39be54a895",
+    "url": "/static/media/Ugyfelszerzo_Mobil-min.72c64d0d.png"
   },
   {
     "revision": "aa7faa1ab55e03ae8178f0fbd3811c6e",

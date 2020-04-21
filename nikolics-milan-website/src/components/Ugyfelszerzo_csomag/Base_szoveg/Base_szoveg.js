@@ -14,7 +14,7 @@ const Base_szoveg = props =>{
                 <h1>ÜGYFÉLSZERZŐ</h1>
                 
         </div>
-
+<div className="keret_ugy">
         <div className="Csomag_ar_ugy">
                 <h1 className="Akcio_ugy"> EXTRÉM AKCIÓ!</h1>
                 <h1 className="Ered_ugy_ar">800 000 HUF</h1>
@@ -28,7 +28,7 @@ const Base_szoveg = props =>{
         és Önhöz irányítja őket. Ha most velem végezteti weboldala keresőoptimalizását
          ingyen  megcsinálom Céges kategóriájú weblapját!
          </div>
-         
+   </div>      
 
         </div>
 

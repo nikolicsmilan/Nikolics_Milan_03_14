@@ -428,6 +428,13 @@
         padding:2%;        
     }
 
+    .keret_bem{
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+    }
+
     .Csomag_cim_bem h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
@@ -445,11 +452,11 @@
         padding-left:2%;
         padding-right:2%;
         padding-top: 1rem;
-        border: 3px solid yellow;
+      /*  border: 3px solid yellow;*/
         min-height: 5rem;
         max-height: 5rem;
-        min-width: 25rem;
-        max-width: 25rem;
+      /*  min-width: 25rem;
+        max-width: 25rem;*/
     }    
 
     .Csomag_leiras_bem {
@@ -467,8 +474,8 @@
     .Szoveg_bem {
        /* letter-spacing: -1.5px;
         line-height: 3rem;*/
-        width:25rem;
-        border: 3px solid yellow;
+      /*  width:25rem;*/
+      /*  border: 3px solid yellow;*/
         min-height: 8rem;
         max-height: 8rem;
     }
