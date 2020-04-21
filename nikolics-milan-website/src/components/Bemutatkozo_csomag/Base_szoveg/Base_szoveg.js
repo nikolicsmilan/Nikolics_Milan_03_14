@@ -19,9 +19,7 @@ const Base_szoveg = props =>{
               <h1>120 000 HUF</h1>
         </div>
 
-
-        <div className='Csomag_leiras_bem'>          
-
+        <div className='Csomag_leiras_bem'>  
            <div className='Szoveg_bem'>         
             Ez a Professzionális Weboldal ideális arra,
             hogy bemutassa vállakozását ügyfelei
@@ -29,10 +27,9 @@ const Base_szoveg = props =>{
             és modern vállalkozás számára.                  
             Gyors. Biztonságos. Jogtiszta.
            </div>
-</div>
-           
-                
-        </div>
+        </div>     
+             
+ </div>
 
     {/*
         <div className="Csomag_ar">

@@ -1033,46 +1033,41 @@ display:none;
     height: 4rem;           
   }
 
-  /*ÁTMÁSOLNI*/
+  /*ÁTMÁSOLNI*/             
 
-             
-
-              .desktop_menu li{
-               /* margin:2%; */                                 
-                /*border: 3px solid blue; */           
-               color:black;
-               font-style: oblique;
-               height: 2rem;
-               width:15%;  
-              }
+  .desktop_menu li{
+     /* margin:2%; */                                 
+      /*border: 3px solid blue; */           
+      color:black;
+      font-style: oblique;
+      height: 2rem;
+      width:15%;  
+      }
               
-              .desktop_menu a {
-                font-size:2.2vw;
-                color:black;
-                font-style: oblique;
-                height: 4rem;
-                width: 100%;  
-               /* border: 3px dashed red;*/
-            }     
-            
-         
+  .desktop_menu a {
+   font-size:2.2vw;
+   color:black;
+   font-style: oblique;
+   height: 4rem;
+   width: 100%;  
+    /* border: 3px dashed red;*/
+   }            
              
-              .EU_Logo_kontener_desktop{
-               position: absolute;
-               top:0;
-               right: 0;
-               float:right;
-               min-height: 6rem;
-               /*border:3px solid green;*/
-               width:18rem;
-               height: 12rem;
-              }
+  .EU_Logo_kontener_desktop{
+   position: absolute;
+   top:0;
+   right: 0;
+   float:right;
+    min-height: 6rem;
+    /*border:3px solid green;*/
+    width:16rem;
+    height: 10rem;
+  }
               
-              .EU_logo_Desktop{
-                  width:18rem;
-                  min-height:12rem;                
-                  }
-
+  .EU_logo_Desktop{
+    width:18rem;
+    min-height:10rem;                
+  }
 }
 
 /* 6. Higher resolution desktops VÉGE*/
