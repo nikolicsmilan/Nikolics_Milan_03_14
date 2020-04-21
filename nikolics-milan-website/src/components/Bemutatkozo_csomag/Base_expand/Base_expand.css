@@ -446,94 +446,84 @@
 /* 5. Laptops, Desktops ELEJE  */
 @media (min-width: 1025px) and (max-width: 1280px) {
   
-    .close_sidedrawer_bem{
-        display:none;
-    }
-    
-    .open_sidedrawer_bem{
-        margin-top: 2%;
-        font-size: 4vw;
-        line-height: 2.5rem;
-        text-align: justify;
-        padding-top:2%;
-        padding-bottom: 4%;
-        max-width: 100%;
-        border:1px dashed rgb(0, 225, 255);
-        border-radius: 3%;
-        margin-bottom:2%; 
-        padding-left: 2%;
-        padding-right: 2%;       
-    }
-    
-    .open_sidedrawer_bem p{
-        line-height: 1.5rem;           
-        font-size: 1vw;  
-    }
-    
-    .Base_expand_egesz_bem{
+    .Base_expand_egesz_bem {
         display: flex;
         flex-direction: column;  
         align-items: center;
         /*border:3px solid red;*/
     }
     
-    .Button_kontener_bem{
+    .Button_kontener_bem {
         display:flex;
         justify-content: center;
         width:9rem;
         padding-bottom: 4%;
         /*border: 3px solid red;*/      
     }
-    
-    .button_bem{
+
+    .button_bem {
         /*border: 3px solid blue;*/
         color:white;
-       /* background-color: rgb(100, 250, 2);*/
-       background-color: rgba(40, 164, 241, 0.938);
+        /*background-color: rgb(100, 250, 2);*/
+        background-color: rgba(40, 164, 241, 0.938);
         border:1px solid rgba(40, 164, 241, 0.938);      
         width:7rem;
         height:2rem;
         border-radius: 5%;
         opacity: 0.7;
-
+        margin-top:0.5rem;
         /*Nagyobb Button*/
         /* width:9rem;
         height:3rem;
-        font-size: 1.3rem;*/    
+        font-size: 1.3rem;*/     
     }
+
+    .close_sidedrawer_bem {
+        display:none;
+    }
+    
+    .open_sidedrawer_bem {
+        margin-top: 2%;
+        font-size: 1.6vw;  
+        text-align: justify;
+        padding-top:2%;
+        padding-bottom: 4%;
+        max-width: 100%;
+        border:3px dashed rgb(0, 225, 255);
+        border-radius: 3%;
+        margin-bottom:2%; 
+        padding-left: 2%;
+        padding-right: 2%;
+        line-height: 2rem;           
+        font-size: 1.2vw;    
+        /*width:25rem;*/
+        width:100%;
+    }   
     
     ul.felsorol_bem {
         list-style-type: circle;
         margin-left:3rem;
         text-align: left;
         margin-top:2%;
-        line-height: 1.5rem;    
-        font-size: 1vw; 
-      
+        line-height: 2rem;    
+        font-size: 1.2vw; 
     }
-    
-    li span {
-        text-indent:-18px;
-    }   
-    
-    .Kep_start_bem{    
+  
+    .Kep_start_bem {    
         width: 100%;
-      /*  border: 3px solid red;*/
-       /* width:20rem;
-        max-height: 14rem;
-        min-height: 14rem;
-        min-width: 10rem;
-        max-width: 10rem;*/
+       /* border: 3px solid red;*/
+       /* width:25rem;*/
+       /* max-height: 16rem;
+        min-height: 16rem;*/
     }
+
     .Kep_start_bem img {
         width: 100%;
-     /*   width:20rem;
-        max-height: 14rem;
-        min-height: 14rem;
-        min-width: 10rem;
-        max-width: 10rem;*/
-  
-}}
+       /* width:25rem;*/
+       /* max-height: 16rem;
+        min-height: 16rem;*/
+    }
+}
 /* 5. Laptops, Desktops VÉGE  */
 
 
@@ -566,7 +556,7 @@
         height:2rem;
         border-radius: 5%;
         opacity: 0.7;
-
+        margin-top:0.5rem;
         /*Nagyobb Button*/
         /* width:9rem;
         height:3rem;
@@ -579,6 +569,7 @@
     
     .open_sidedrawer_bem {
         margin-top: 2%;
+        font-size: 1.6vw;  
         text-align: justify;
         padding-top:2%;
         padding-bottom: 4%;
@@ -588,9 +579,10 @@
         margin-bottom:2%; 
         padding-left: 2%;
         padding-right: 2%;
-        line-height: 1.8rem;           
+        line-height: 2rem;           
         font-size: 1.2vw;    
-        width:25rem;
+        /*width:25rem;*/
+        width:100%;
     }   
     
     ul.felsorol_bem {
@@ -598,22 +590,22 @@
         margin-left:3rem;
         text-align: left;
         margin-top:2%;
-        line-height: 1.8rem;    
+        line-height: 2rem;    
         font-size: 1.2vw; 
     }
   
     .Kep_start_bem {    
         width: 100%;
-        /*border: 3px solid red;*/
-      /*  width:25rem;
-        max-height: 16rem;
+       /* border: 3px solid red;*/
+       /* width:25rem;*/
+       /* max-height: 16rem;
         min-height: 16rem;*/
     }
 
     .Kep_start_bem img {
         width: 100%;
-       /* width:25rem;
-        max-height: 16rem;
+       /* width:25rem;*/
+       /* max-height: 16rem;
         min-height: 16rem;*/
     }
 }
@@ -650,7 +642,7 @@
         height:2rem;
         border-radius: 5%;
         opacity: 0.7;
-
+        margin-top:0.5rem;
         /*Nagyobb Button*/
         /* width:9rem;
         height:3rem;
@@ -673,8 +665,8 @@
         margin-bottom:2%; 
         padding-left: 2%;
         padding-right: 2%;
-        line-height: 1.8rem;           
-        font-size: 1vw;    
+        line-height: 2rem;           
+        font-size: 1.2vw;    
         /*width:25rem;*/
         width:100%;
     }   
@@ -684,13 +676,13 @@
         margin-left:3rem;
         text-align: left;
         margin-top:2%;
-        line-height: 1.8rem;    
-        font-size: 1vw; 
+        line-height: 2rem;    
+        font-size: 1.2vw; 
     }
   
     .Kep_start_bem {    
         width: 100%;
-        /*border: 3px solid red;*/
+       /* border: 3px solid red;*/
        /* width:25rem;*/
        /* max-height: 16rem;
         min-height: 16rem;*/

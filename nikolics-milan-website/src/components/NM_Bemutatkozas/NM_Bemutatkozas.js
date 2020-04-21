@@ -44,9 +44,8 @@ const NM_Bemutatkozas = props => (
                         <li className="NM_Bemutat_szoveg_bold" >Akkor jó helyen jár!</li>
                     </div>
                     
-                    <div className="Osztonzo_szoveg">
-                    
-                   <li >Csak válasza ki melyik csomag illik leginkább az elképzeléseihez!</li> 
+                    <div className="Osztonzo_szoveg">                    
+                        <li >Csak válasza ki melyik csomag illik leginkább az elképzeléseihez!</li> 
                     </div>
                    
                 </ul>

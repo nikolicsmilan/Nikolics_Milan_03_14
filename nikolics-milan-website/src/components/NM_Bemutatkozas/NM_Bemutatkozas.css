@@ -813,7 +813,7 @@
   .Bemutat_egesz{
     display: flex;
     flex-direction: column;   
-   /* padding-left:2.5rem;*/
+    padding-left:2.5rem;
     padding: 0;
     position: relative;
     z-index: 970;
@@ -823,20 +823,19 @@
     max-width:100%;
     align-items: center;
     margin-bottom:2rem;
-    border: 3px solid red;
+    /*border: 6px solid red;*/
     width:100%;
 }
-
-.kozepre {
-    border: 6px solid green;
+.kozepre{
+   /* border: 6px solid green;*/
     display: flex;
     flex-direction: column;
-    max-width: 100%;  
+    max-width: 100%;
     width:100%;
 }
 
-.Szoveg_focim_kontener {
-    border: 6px solid yellow;
+.Szoveg_focim_kontener{
+    /*border: 6px solid yellow;*/
     display: flex;    
     font-weight: 700;
     font-size: 30px;
@@ -849,10 +848,10 @@
      text-align: center;
      align-items: center;
      justify-content: center;
-     max-width:100%;    
+     max-width:100%;
+    width:100%;
  }
-
- .Szoveg_url_kontener {    
+ .Szoveg_url_kontener{    
       display: flex;  
      /* width: 25rem;*/
       flex-direction: row;        
@@ -864,12 +863,12 @@
       align-content: center;
       justify-content: center;
     /* border: 3px solid purple;*/
-    
+     width: 100%;
  }
 
  .Nikolics_logo {
-   width:75%;
-   height: 12rem;
+   width:70%;
+   height: 14rem;
   /* border:3px solid red;*/
 }
 
@@ -883,71 +882,78 @@
     justify-content: center;
     background-color: white;
     border-radius: 20px;
-    border: 3px solid rgba(49,193,245);
+    border: 3px solid rgba(47,218,241,.87);
+    box-shadow: 0px 0px 20px rgba(49, 193, 245, 0.87);
+    width:100%;
+   /* margin-left: 2%;
+    margin-right: 2%;*/
+    margin-top:1rem;
 }    
 
 .Bemutat_szoveg_keret {
-    border: 3px solid yellow;
+    /*border: 3px solid brown;*/
     display: flex;
     justify-content:center;   
     position: relative;  
     max-width:100%;
    /* margin-top:1%;*/
     font-size: 2vw; 
-   /* padding-left: 2%;
-    padding-right: 2%;*/
+   /* margin-left: 2%;
+    margin-right: 2%;*/
    /* font-style: oblique;*/
    line-height:3rem;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   border-bottom: 1px solid rgba(49,193,245);
+  /* border-bottom: 1px solid rgba(49,193,245);*/
   /* border-top: 1px solid rgba(49,193,245);*/
-  width:100%;
+   width:100%;
 }
-
 
 .Bemutat_szoveg_keret_ul {
   /* padding:80%;*/
    display: flex;
    flex-direction: column;
-   border: 3px solid blue;
+   /*border: 3px solid brown;*/
    width:100%;
 }
 
 .Li_kontener {
-  display: flex;
-  /*justify-content: center;*/
-  /*margin-top:2rem;*/
-  border: 3px solid red;
-  width:100%;
- }
- 
- .BemSzovLi_1{
-   display: flex;
-   justify-content: center;
-   width:20rem;
-  /* height:8rem;*/
-   border: 3px solid purple;
-   width:100%;
- }
- 
- .BemSzovLi_1 img{
-   width:23rem;
-   padding:0.5rem;
-   margin:0;
- }
+ display: flex;
+ /*justify-content: center;*/
+ /*margin-top:2rem;*/
+ /*border: 3px solid purple;*/
+ width:100%;
+}
 
-.Osztonzo_szoveg{
+.BemSzovLi_1 {
+  display: flex;
+  justify-content: center;
+ /* width:32rem;*/
+  /*height:12rem;*/
+  /*border: 3px solid purple;*/
+  width:100%;
+  padding:1%;
+  
+}
+
+.BemSzovLi_1 img {
+ /* width:32rem;*/
+ /* padding:0.5rem;*/
+  margin:0;
+  width:100%;
+}
+
+.Osztonzo_szoveg {
   display: flex;
   flex-direction: column;
   align-items: center;
  /* border: 1px solid rgba(47,218,241,.87);*/
   border-radius: 3px;
  /*border: 3px solid red;*/
- padding-bottom: 1%;
+ /*padding-bottom: 1%;*/
  line-height: 3rem;
 }
 
-.Bold_kontener{
+.Bold_kontener {
   display: flex;
   flex-direction: row;
  /* border:3px solid red;*/
@@ -963,7 +969,7 @@
   /*Kör*/
 }
 
-.NM_Bemutat_szoveg_bold{
+.NM_Bemutat_szoveg_bold {
     display: flex;
     justify-content: center;
     font-weight: bold;
@@ -971,24 +977,23 @@
     width:100%;
    /* border: 6px solid orange;*/
     padding: 0;
-    padding-left: 2%;
+    /*padding-left: 2%;*/
     font-size: 3vw;
     
    /* Vonal*/ 
-   line-height:8rem;  
+   line-height:4rem;  
 
   /*Kör*/
-
 }
 
-.NM_kep_2{
+.NM_kep_2 {
     display: flex;
     justify-content: center;
     max-width:100%;
    /* border: 3px solid yellow;*/
 }
 
-.NM_kep_2 img{
+.NM_kep_2 img {
     display: flex;
     justify-content: center;
     max-width:70%;
@@ -1042,7 +1047,7 @@
      align-items: center;
      justify-content: center;
      max-width:100%;
-     width:100%;
+    width:100%;
  }
  .Szoveg_url_kontener{    
       display: flex;  
@@ -1056,15 +1061,16 @@
       align-content: center;
       justify-content: center;
     /* border: 3px solid purple;*/
-    
+     width: 100%;
  }
- .Nikolics_logo{
-   width:75%;
+
+ .Nikolics_logo {
+   width:70%;
    height: 16rem;
   /* border:3px solid red;*/
 }
 
-    .Szoveg-Kep_kontener{
+    .Szoveg-Kep_kontener {
     display: flex;
     flex-direction: row;
     position: relative;
@@ -1074,8 +1080,12 @@
     justify-content: center;
     background-color: white;
     border-radius: 20px;
-    border: 3px solid rgba(49,193,245);
+    border: 3px solid rgba(47,218,241,.87);
+    box-shadow: 0px 0px 20px rgba(49, 193, 245, 0.87);
     width:100%;
+   /* margin-left: 2%;
+    margin-right: 2%;*/
+    margin-top:1rem;
 }    
 
 .Bemutat_szoveg_keret {
@@ -1086,14 +1096,14 @@
     max-width:100%;
    /* margin-top:1%;*/
     font-size: 2vw; 
-    padding-left: 2%;
-    padding-right: 2%;
+   /* margin-left: 2%;
+    margin-right: 2%;*/
    /* font-style: oblique;*/
-    line-height:3rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /*border-bottom: 1px solid rgba(49,193,245);*/
-   /* border-top: 1px solid rgba(49,193,245);*/
-    width:100%;
+   line-height:3rem;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* border-bottom: 1px solid rgba(49,193,245);*/
+  /* border-top: 1px solid rgba(49,193,245);*/
+   width:100%;
 }
 
 .Bemutat_szoveg_keret_ul {
@@ -1105,26 +1115,30 @@
 }
 
 .Li_kontener {
+ display: flex;
+ /*justify-content: center;*/
+ /*margin-top:2rem;*/
+ /*border: 3px solid purple;*/
+ width:100%;
+}
+
+.BemSzovLi_1 {
   display: flex;
-  /*justify-content: center;*/
-  /*margin-top:2rem;*/
+  justify-content: center;
+ /* width:32rem;*/
+  /*height:12rem;*/
   /*border: 3px solid purple;*/
   width:100%;
- }
- 
- .BemSzovLi_1 {
-   display: flex;
-   justify-content: center;
-   width:100%;
-  /* height:11rem;*/
-   border: 3px solid orange;
- }
- 
- .BemSzovLi_1 img {
-   width:26rem;
-   padding:0.5rem;
-   margin:0;
- }
+  padding:1%;
+  
+}
+
+.BemSzovLi_1 img {
+ /* width:32rem;*/
+ /* padding:0.5rem;*/
+  margin:0;
+  width:100%;
+}
 
 .Osztonzo_szoveg {
   display: flex;
@@ -1133,7 +1147,7 @@
  /* border: 1px solid rgba(47,218,241,.87);*/
   border-radius: 3px;
  /*border: 3px solid red;*/
- padding-bottom: 1%;
+ /*padding-bottom: 1%;*/
  line-height: 3rem;
 }
 
@@ -1145,8 +1159,13 @@
   width:100%;
 
   /* Vonal*/ 
-  margin-top:0rem;  
- }
+  margin-top:0rem;
+  
+  /*Négyzet*/
+  /*margin-top: 0rem;*/
+
+  /*Kör*/
+}
 
 .NM_Bemutat_szoveg_bold {
     display: flex;
@@ -1156,11 +1175,13 @@
     width:100%;
    /* border: 6px solid orange;*/
     padding: 0;
-    padding-left: 2%;
+    /*padding-left: 2%;*/
     font-size: 3vw;
     
    /* Vonal*/ 
-   line-height:8rem;  
+   line-height:5rem;  
+
+  /*Kör*/
 }
 
 .NM_kep_2 {
@@ -1255,9 +1276,11 @@
     background-color: white;
     border-radius: 20px;
     border: 3px solid rgba(47,218,241,.87);
+    box-shadow: 0px 0px 20px rgba(49, 193, 245, 0.87);
     width:100%;
    /* margin-left: 2%;
     margin-right: 2%;*/
+    margin-top:1rem;
 }    
 
 .Bemutat_szoveg_keret {
@@ -1302,6 +1325,7 @@
   /*border: 3px solid purple;*/
   width:100%;
   padding:1%;
+  
 }
 
 .BemSzovLi_1 img {
@@ -1317,8 +1341,8 @@
   align-items: center;
  /* border: 1px solid rgba(47,218,241,.87);*/
   border-radius: 3px;
- /*border: 3px solid red;*/
- padding-bottom: 1%;
+/* border: 3px solid red;*/
+ /*padding-bottom: 1%;*/
  line-height: 3rem;
 }
 
@@ -1344,13 +1368,13 @@
     font-weight: bold;
      
     width:100%;
-   /* border: 6px solid orange;*/
+    /*border: 6px solid orange;*/
     padding: 0;
-    padding-left: 2%;
+    /*padding-left: 2%;*/
     font-size: 3vw;
     
    /* Vonal*/ 
-   line-height:8rem;  
+   line-height:5rem;  
 
   /*Kör*/
 }
