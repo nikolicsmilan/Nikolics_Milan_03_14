@@ -131,7 +131,7 @@
         margin:1%;
         margin-bottom:15%;
       /*  border: 3px solid red;*/
-        max-width:25rem;
+        max-width:20rem;
     }
 
   
@@ -208,7 +208,21 @@
 /* 5. Laptops, Desktops ELEJE  */
 @media (min-width: 1025px) and (max-width: 1280px) {
   
-  
+    .Csomagok_egesz{
+        border: 3px dashed black;
+        display: flex;
+           flex-direction: row;
+          justify-content: space-between;
+         /* padding:1%;*/
+         max-width: 100rem;
+         width:100%;
+     }
+     
+     .Csomag_doboz{
+        /* margin:0.5%;*/
+         max-width:18rem;
+        border: 3px solid green;
+     }
   
 }
 /* 5. Laptops, Desktops VÉGE  */

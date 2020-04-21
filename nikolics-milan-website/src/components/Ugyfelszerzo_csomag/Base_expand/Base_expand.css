@@ -524,15 +524,15 @@
     .Kep_start_ugy{    
         width: 100%;
         /*border: 3px solid red;*/
-        width:20rem;
+        width:10rem;
         max-height: 14rem;
         min-height: 14rem;
     }
     .Kep_start_ugy img {
         width: 100%;
-        width:20rem;
-        max-height: 14rem;
-        min-height: 14rem;
+        width:10rem;
+        max-height: 10rem;
+        min-height: 10rem;
   
 }}
 /* 5. Laptops, Desktops VÉGE  */

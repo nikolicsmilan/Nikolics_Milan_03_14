@@ -468,7 +468,7 @@ textarea {
    /* border: 3px dashed orange;*/
    /* justify-self: center;
     align-items: center;*/
-    width:103%;  
+    width:100%;  
     /*margin-bottom: 3rem;*/
 }
 
@@ -486,7 +486,7 @@ textarea {
 }
 
 
-* 0. Mini SmartPhones ELEJE*/
+/* 0. Mini SmartPhones ELEJE*/
 @media (min-width: 120px) and (max-width: 319px) {
 
 
@@ -604,14 +604,14 @@ textarea {
       
       
       .App_egesz-body{
-       padding-top: 0.5%;
+      /* padding-top: 0.5%;
        padding-left: 1.5%;
-       padding-right: 1.5%;
+       padding-right: 1.5%;*/
        display:flex;
        flex-direction: column;
        justify-self: center;
        width:100%; 
-      /*border: 3px dashed blue;*/
+       /*border: 3px dashed blue;*/
       
       }
   

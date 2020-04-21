@@ -59,25 +59,27 @@ const NM_Toolbar = props => (
    {/*MOBIL NÉZETBEN LÁTHATÓ VÉGE*/}
 
       
-  <div className="desktop_menu">      
-   <div className='desktop_menu_belso'>
-  
-            <ul >
-               {/*DESKTOP NÉZETBEN LÁTHATÓ*/}
-              <li><Link to="/">Főoldal</Link></li> 
-              <li> <Link to={{         
-                 pathname: "/",      
-                 hash: "#bemutatkozo",
-                }}>Weboldal-Árak</Link>  </li>
-              <li><Link to="/SEO">SEO</Link></li> 
-              <li><Link to="/SEO">Technológia</Link></li> 
-              <li> <Link to="/Kapcsolat">Kapcsolat</Link></li>                                
-            </ul>    
-           
-   </div>
-              <div className="EU_Logo_kontener_desktop">
+  <div className="desktop_menu">   
+
+            <div className='desktop_menu_belso'>  
+                      <ul >
+                        {/*DESKTOP NÉZETBEN LÁTHATÓ*/}
+                        <li><Link to="/">Főoldal</Link></li> 
+                        <li> <Link to={{         
+                          pathname: "/",      
+                          hash: "#bemutatkozo",
+                          }}>Weboldal-Árak</Link>  </li>
+                        <li><Link to="/SEO">SEO</Link></li> 
+                        <li><Link to="/SEO">Technológia</Link></li> 
+                        <li> <Link to="/Kapcsolat">Kapcsolat</Link></li>                                
+                      </ul>               
+            </div>
+
+
+            <div className="EU_Logo_kontener_desktop">
                   <img className="EU_logo_Desktop" src={EU_logo_Desktop} ></img> 
-                </div>        
+            </div>        
+
    </div>
 
       

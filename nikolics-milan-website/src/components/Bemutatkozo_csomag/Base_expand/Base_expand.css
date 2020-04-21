@@ -522,12 +522,16 @@
         width:20rem;
         max-height: 14rem;
         min-height: 14rem;
+        min-width: 10rem;
+        max-width: 10rem;
     }
     .Kep_start_bem img {
         width: 100%;
         width:20rem;
         max-height: 14rem;
         min-height: 14rem;
+        min-width: 10rem;
+        max-width: 10rem;
   
 }}
 /* 5. Laptops, Desktops VÉGE  */
