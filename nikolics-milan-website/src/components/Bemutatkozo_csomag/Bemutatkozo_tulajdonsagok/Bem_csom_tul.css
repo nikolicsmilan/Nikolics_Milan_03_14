@@ -324,19 +324,16 @@
     margin-top: 2rem;
   }
 
-  .Megrendelem_gomb{
+  .Megrendelem_gomb {
     display: flex;
     justify-content: center;
     align-items: center;
     margin:2rem;
-    font-size: 2rem;
-    
-    padding:0.5rem;
-    
-    border-radius: 1%;
-  
-    
+    font-size: 2rem;  
+    padding:0.5rem;  
+    border-radius: 1%;  
   }
+  
   .Megrendelem_gomb h1 {
    /* border:3px solid purple;*/
     padding-right:1rem;
@@ -345,23 +342,26 @@
     padding-bottom: 0.5rem;
     min-width:13rem;
     border-radius: 3%;
-    background-color: red;
+    background-color:rgba(49,193,245);;
     color:white;
   }
   
-  .Megrendelem_gomb h1:hover{
-    background-color:blue;
+  .Megrendelem_gomb h1:hover {
+    background-color:red;
+   /* padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 100%;*/
   }
   
-  .Megrendelem_gomb a{
+  .Megrendelem_gomb a {
     color:red;
-    background-color: teal;
+    /*background-color: teal;*/
     text-decoration: none;
   }
-  .Megrendelem_gomb a:hover{
-    color:grey;
-    background-color: teal;
   
+  .Megrendelem_gomb a:hover {
+   /* color:grey;
+    background-color: teal;*/
   }
   
   
@@ -385,19 +385,17 @@
     margin-left: 70px;
     margin-top: 2rem;
   }
-  .Megrendelem_gomb{
+
+  .Megrendelem_gomb {
     display: flex;
     justify-content: center;
     align-items: center;
     margin:2rem;
-    font-size: 2rem;
-    
-    padding:0.5rem;
-    
-    border-radius: 1%;
-  
-    
+    font-size: 2rem;  
+    padding:0.5rem;  
+    border-radius: 1%;  
   }
+  
   .Megrendelem_gomb h1 {
    /* border:3px solid purple;*/
     padding-right:1rem;
@@ -406,25 +404,27 @@
     padding-bottom: 0.5rem;
     min-width:13rem;
     border-radius: 3%;
-    background-color: red;
+    background-color:rgba(49,193,245);;
     color:white;
   }
   
-  .Megrendelem_gomb h1:hover{
-    background-color:blue;
+  .Megrendelem_gomb h1:hover {
+    background-color:red;
+   /* padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 100%;*/
   }
   
-  .Megrendelem_gomb a{
+  .Megrendelem_gomb a {
     color:red;
-    background-color: teal;
+    /*background-color: teal;*/
     text-decoration: none;
   }
-  .Megrendelem_gomb a:hover{
-    color:grey;
-    background-color: teal;
   
+  .Megrendelem_gomb a:hover {
+   /* color:grey;
+    background-color: teal;*/
   }
-  
   
   
 }
@@ -435,32 +435,29 @@
 /* 7. Larger screen ELEJE*/
 
 @media (min-width: 1600px) {
-  .Bem_appear{
+  .Bem_appear {
     position: absolute;
     background-color: whitesmoke;
     height:7rem;  
     width:20rem;  
     left:5rem;
     z-index: 10000;
-    border: 1px solid black;
+    border: 10x solid black;
     border-radius:2%;
     margin-left: 130px;
     margin-top: 2rem;
   }
 
-.Megrendelem_gomb{
+.Megrendelem_gomb {
   display: flex;
   justify-content: center;
   align-items: center;
   margin:2rem;
-  font-size: 2rem;
-  
-  padding:0.5rem;
-  
-  border-radius: 1%;
-
-  
+  font-size: 2rem;  
+  padding:0.5rem;  
+  border-radius: 1%;  
 }
+
 .Megrendelem_gomb h1 {
  /* border:3px solid purple;*/
   padding-right:1rem;
@@ -473,11 +470,11 @@
   color:white;
 }
 
-.Megrendelem_gomb h1:hover{
+.Megrendelem_gomb h1:hover {
   background-color:red;
-  padding-top: 1rem;
+ /* padding-top: 1rem;
   padding-bottom: 1rem;
-  border-radius: 100%;
+  border-radius: 100%;*/
 }
 
 .Megrendelem_gomb a {
