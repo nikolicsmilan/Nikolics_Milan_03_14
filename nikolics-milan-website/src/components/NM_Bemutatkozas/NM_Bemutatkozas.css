@@ -1011,7 +1011,7 @@
   .Bemutat_egesz{
     display: flex;
     flex-direction: column;   
-    padding-left:2.5rem;
+   /* padding-left:2.5rem;*/
     padding: 0;
     position: relative;
     z-index: 970;
@@ -1065,7 +1065,7 @@
  }
 
  .Nikolics_logo {
-   width:65%;
+   width:60%;
    height: 14rem;
   /* border:3px solid red;*/
 }
@@ -1129,8 +1129,9 @@
   /*height:12rem;*/
   /*border: 3px solid purple;*/
   width:100%;
-  padding:1%;
-  
+  padding-top:0.5%;
+  padding-left:1%;
+  padding-right:1%;
 }
 
 .BemSzovLi_1 img {
@@ -1219,7 +1220,8 @@
     /*border: 6px solid red;*/
     width:100%;
 }
-.kozepre{
+
+.kozepre {
    /* border: 6px solid green;*/
     display: flex;
     flex-direction: column;
@@ -1227,7 +1229,7 @@
     width:100%;
 }
 
-.Szoveg_focim_kontener{
+.Szoveg_focim_kontener {
     /*border: 6px solid yellow;*/
     display: flex;    
     font-weight: 700;
@@ -1244,7 +1246,7 @@
      max-width:100%;
     width:100%;
  }
- .Szoveg_url_kontener{    
+ .Szoveg_url_kontener {    
       display: flex;  
      /* width: 25rem;*/
       flex-direction: row;        
