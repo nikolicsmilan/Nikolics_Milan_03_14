@@ -226,34 +226,42 @@
 
 /* 4. Tablets, Ipads (landscape) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    .Base_szoveg_egesz_ugy{
+    
+    .Base_szoveg_egesz_ugy {
         display:flex;
         flex-direction: column;
-        text-align: center;
-         /*border: 3px dashed red;*/
-        max-height: 19rem; 
-    }
-    
-    .Csomag_cim_ugy{
+        text-align: center;  
+        /*border: 3px dashed red;*/
+        max-height: 19rem;      
+    }   
+
+    .Csomag_cim_ugy {
         display:flex;
         flex-direction: row;
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-weight: 900;
-        padding:2%;    
+        /*padding:2%;  */      
     }
-
-    .Csomag_cim_ugy h1{
-        padding-top: 1rem;
+    .Csomag_cim_ugy h1 {      
+        padding-top: 0.65rem;
         border: 2px solid rgba(47,218,241,.87);
         border-radius: 3%;
-        width:17rem;
-        height: 4rem;
+        width:15rem;
+        height: 3rem;
     }
-    
-    .Csomag_ar_ugy{
+
+    .keret_ugy {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+    }
+
+    .Csomag_ar_ugy {
         display:flex;
         flex-direction: row;
         align-items: center;
@@ -262,10 +270,38 @@
         padding-left:2%;
         padding-right:2%;
         padding-top: 1rem;
-      /*  border: 3px solid purple;*/
-        min-height: 5rem;
-        max-height:5rem;
-    }
+       /* border: 3px solid yellow;*/
+        min-height: 3rem;
+        max-height: 3rem;
+      /*  min-width: 25rem;
+        max-width: 25rem;*/
+    }    
+
+    .Csomag_leiras_ugy {
+        max-width: 100%;
+       /* margin-top: 2%;*/
+        font-size: 2vw; 
+        text-align: justify;    
+       /*padding-bottom: 4%;*/
+      /*  border: 3px solid red;*/
+        min-height: 4rem;
+        max-height: 10rem;
+        line-height: 2rem;       
+    }  
+
+    .Szoveg_ugy {
+       /* letter-spacing: -1.5px;
+        line-height: 3rem;*/
+      /*  width:25rem;*/
+      /*  border: 3px solid yellow;*/
+        min-height: 8rem;
+        max-height: 8rem;
+       /* color:red;*/
+       line-height: 1.7rem;
+       font-size: 1.8vw; 
+       letter-spacing: -1.5px;
+    }  
+
     .Akcio_ugy{
         color:red;
     }
@@ -276,28 +312,7 @@
    .Csok_ugy_ar{
        color:red;
        padding-left: 2%;
-   }
-    
-    .Csomag_leiras_ugy{
-        max-width: 100%;
-        margin-top: 2%;
-        font-size: 0.9vw; 
-        text-align: justify;
-        padding-left:2%;
-        padding-right:2%;
-        /*padding-bottom: 4%;   */
-       /* border: 3px solid yellow;*/
-        min-height: 6rem;
-        max-height: 6rem;
-    }
-    .Csomag_leiras_ugy p{
-        line-height: 1.5rem;
-       /* border: 3px solid yellow; */
-        min-height: 6rem;
-        max-height: 6rem;       
-    }
-
- 
+   } 
 }
 /* 4. Tablets, Ipads (landscape) VÉGE*/
 

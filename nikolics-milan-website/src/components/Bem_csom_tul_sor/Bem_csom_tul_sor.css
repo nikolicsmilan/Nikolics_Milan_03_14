@@ -102,7 +102,50 @@
 
 /* 4. Tablets, Ipads (landscape) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  
+    .Bem_csom_tul_sor_egesz {
+        display: flex;
+        flex-direction: column;
+        border-bottom: 1px solid rgb(0, 128, 128);
+        width: 100%;
+        /*border-radius: 21px;*/
+        padding-top:1%;
+        padding-bottom:1%;
+        }
+    
+        .Mindig-lathato {
+         display: flex;
+         align-items: center;
+         justify-content: space-between;  
+        /*border:3px solid red; */
+        height: 1.5rem;
+         }
+        
+        .info_kontener {
+        display: flex;
+        width:15rem;
+        align-items: center;
+        /*border:3px solid yellow; */
+        font-weight: 500;
+        font-size: 1rem;
+        }
+        
+        .info_gomb {
+        width:1.5rem;
+        margin-right: 3%;
+        }
+        
+        .felirat {
+        font-size: 0.8rem;
+        }
+    
+        .hidden {
+        display:none;
+        }  
+            
+        .pipa {
+        width:1.5rem;
+        float:left;
+        }
  
 }
 /* 4. Tablets, Ipads (landscape) VÉGE*/
@@ -110,7 +153,49 @@
 
 /* 5. Laptops, Desktops ELEJE  */
 @media (min-width: 1025px) and (max-width: 1280px) {
-  
+    .Bem_csom_tul_sor_egesz {
+        display: flex;
+        flex-direction: column;
+        border-bottom: 1px solid rgb(0, 128, 128);
+        width: 100%;
+        /*border-radius: 21px;*/
+        padding-top:1%;
+        padding-bottom:1%;
+        }
+    
+        .Mindig-lathato {
+         display: flex;
+         align-items: center;
+         justify-content: space-between;  
+        /*border:3px solid yellow; */
+         }
+        
+        .info_kontener {
+        display: flex;
+        width:15rem;
+        align-items: center;
+        /* border:3px solid yellow; */
+        font-weight: 500;
+        font-size: 1rem;
+          }
+        
+        .info_gomb {
+        width:2.5rem;
+        margin-right: 1%;
+        }
+        
+        .felirat {
+        font-size: 1.2rem;
+        }
+    
+        .hidden {
+        display:none;
+        }  
+    
+        .pipa {
+        width:2rem;
+        float:left;
+        }
   
   
 }
@@ -119,8 +204,50 @@
 
 /* 6. Higher resolution desktops ELEJE*/
 
-@media (min-width: 1281px) {
-  
+@media (min-width: 1281px) and (max-width:1599px) {
+    .Bem_csom_tul_sor_egesz {
+        display: flex;
+        flex-direction: column;
+        border-bottom: 1px solid rgb(0, 128, 128);
+        width: 100%;
+        /*border-radius: 21px;*/
+        padding-top:1%;
+        padding-bottom:1%;
+        }
+    
+        .Mindig-lathato {
+         display: flex;
+         align-items: center;
+         justify-content: space-between;  
+        /*border:3px solid yellow; */
+         }
+        
+        .info_kontener {
+        display: flex;
+        width:15rem;
+        align-items: center;
+        /* border:3px solid yellow; */
+        font-weight: 500;
+        font-size: 1rem;
+          }
+        
+        .info_gomb {
+        width:2.5rem;
+        margin-right: 1%;
+        }
+        
+        .felirat {
+        font-size: 1.2rem;
+        }
+    
+        .hidden {
+        display:none;
+        }  
+    
+        .pipa {
+        width:2rem;
+        float:left;
+        }
   
   
 }
@@ -130,56 +257,51 @@
 
 /* 7. Larger screen ELEJE*/
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1600px) {
 
-    .Bem_csom_tul_sor_egesz{
-        display: flex;
-        flex-direction: column;
-        border-bottom: 1px solid rgb(0, 128, 128);
-        width: 100%;
-        /*border-radius: 21px;*/
-        padding-top:1%;
-        padding-bottom:1%;
-        
+    .Bem_csom_tul_sor_egesz {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid rgb(0, 128, 128);
+    width: 100%;
+    /*border-radius: 21px;*/
+    padding-top:1%;
+    padding-bottom:1%;
     }
-    .Mindig-lathato{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;  
-        /*border:3px solid yellow; */
-       
-    }
+
+    .Mindig-lathato {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;  
+    /*border:3px solid yellow; */
+     }
     
-    .info_kontener{
-        display: flex;
-        width:15rem;
-        align-items: center;
-       /* border:3px solid yellow; */
-        font-weight: 500;
-        font-size: 1rem;
+    .info_kontener {
+    display: flex;
+    width:15rem;
+    align-items: center;
+    /* border:3px solid yellow; */
+    font-weight: 500;
+    font-size: 1rem;
       }
     
-    .info_gomb{
-        width:2.5rem;
-        margin-right: 1%;
+    .info_gomb {
+    width:2.5rem;
+    margin-right: 1%;
     }
     
-    .felirat{
-        font-size: 1.2rem;
-    }
-    
-    .hidden{
-        display:none;
-    }
-   
-    
-    .pipa{
-        width:2rem;
-        float:left;
+    .felirat {
+    font-size: 1.2rem;
     }
 
- 
+    .hidden {
+    display:none;
+    }  
 
+    .pipa {
+    width:2rem;
+    float:left;
+    }
 }
 
 /*Larger screen VÉGE*/

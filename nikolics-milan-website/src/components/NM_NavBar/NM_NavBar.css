@@ -1,6 +1,6 @@
 /* 0. Mini SmartPhones ELEJE*/
 @media (min-width: 120px) and (max-width: 319px) {  
-    .NM_NavBar_egesz{
+    .NM_NavBar_egesz {
         border-bottom:1px solid rgba(202, 232, 236, 0.87);
         width:100%;
         height:5.5rem;
@@ -14,15 +14,13 @@
 /* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
 @media (min-width: 320px) and (max-width: 480px) {
   
-    .NM_NavBar_egesz{
+    .NM_NavBar_egesz {
         border-bottom:1px solid rgba(202, 232, 236, 0.87);
         width:100%;
         height:5.5rem;
         display: flex;
-        align-items: center;
-    
-    }
-    
+        align-items: center;    
+    }    
   }
 
 /* 1. Most of the Smartphones Mobiles (Portrait)  VÉGE*/
@@ -31,14 +29,13 @@
 /* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
 @media (min-width: 481px) and (max-width: 767px) {
   
-  .NM_NavBar_egesz{
+  .NM_NavBar_egesz {
    border-bottom:2px solid rgba(202, 232, 236, 0.87);
    width:100%;
    height:8.5rem;
    display: flex;
   /* align-items: center;*/
   }
-
 }
 
 /* 2. Low Resolution Tablets, Mobiles (Landscape) VÉGE*/
@@ -46,7 +43,7 @@
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) {
   
-  .NM_NavBar_egesz{
+  .NM_NavBar_egesz {
     border-bottom:2px solid rgba(202, 232, 236, 0.87);
     width:100%;
     height:10rem;
@@ -54,8 +51,7 @@
    /* align-items: center;*/
     margin-top: 1rem;
     /*border:3px solid red;*/
-}
-  
+}  
 }
 
 /* 3. Device = Tablets, Ipads (portrait) VÉGE*/
@@ -63,7 +59,7 @@
 
 /* 4. Tablets, Ipads (landscape) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  .NM_NavBar_egesz{
+  .NM_NavBar_egesz {
     border-bottom:2px solid rgba(202, 232, 236, 0.87);
     width:100%;
     height:9.5rem;
@@ -71,17 +67,14 @@
    /* align-items: center;*/
     margin-top: 1rem;
     /*border:3px solid red;*/
-}
-  
+}  
 }
 /* 4. Tablets, Ipads (landscape) VÉGE*/
-
-
 
 /* 5. Laptops, Desktops ELEJE  */
 @media (min-width: 1025px) and (max-width: 1280px) {
   
-  .NM_NavBar_egesz{
+  .NM_NavBar_egesz {
     border-bottom:1px solid rgba(202, 232, 236, 0.87);
     width:100%;
     height:10.5rem;
@@ -90,7 +83,6 @@
     /*padding-left: 3.2rem;*/
    /* border:6px dashed orange;*/
    } 
-  
 }
 /* 5. Laptops, Desktops VÉGE  */
 
@@ -99,7 +91,7 @@
 
 @media (min-width: 1281px) {
   
-  .NM_NavBar_egesz{
+  .NM_NavBar_egesz {
     border-bottom:1px solid rgba(202, 232, 236, 0.87);
     width:100%;
     height:11rem;
@@ -116,17 +108,15 @@
 
 @media (min-width: 1600px) {
 
-  .NM_NavBar_egesz{
+  .NM_NavBar_egesz {
     border-bottom:1px solid rgba(202, 232, 236, 0.87);
     width:100%;
-    height:13rem;
+    height:11rem;
     display: flex;
     align-items: center;
     /*padding-left: 3.2rem;*/
     /*border:6px dashed orange*/
-   }   
-
-
+   } 
 }
 
 /* 7. Larger screen VÉGE*/

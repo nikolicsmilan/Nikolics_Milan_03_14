@@ -252,31 +252,30 @@
 
 /* 4. Tablets, Ipads (landscape) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  .Bem_appear{
+  
+  .Bem_appear {
     position: absolute;
     background-color: whitesmoke;
-    height:7rem;  
+    height:10rem;  
     width:20rem;  
     left:5rem;
     z-index: 10000;
     border: 1px solid black;
     border-radius:2%;
-    margin-left: 30px;
+    margin-left: 45px;
     margin-top: 2rem;
   }
-  .Megrendelem_gomb{
+
+  .Megrendelem_gomb {
     display: flex;
     justify-content: center;
     align-items: center;
     margin:2rem;
-    font-size: 2rem;
-    
-    padding:0.5rem;
-    
-    border-radius: 1%;
-  
-    
+    font-size: 2rem;  
+    padding:0.5rem;  
+    border-radius: 1%;  
   }
+  
   .Megrendelem_gomb h1 {
    /* border:3px solid purple;*/
     padding-right:1rem;
@@ -285,32 +284,35 @@
     padding-bottom: 0.5rem;
     min-width:13rem;
     border-radius: 3%;
-    background-color: red;
+    background-color:rgba(49,193,245);;
     color:white;
   }
   
-  .Megrendelem_gomb h1:hover{
-    background-color:blue;
+  .Megrendelem_gomb h1:hover {
+    background-color:red;
+   /* padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 100%;*/
   }
   
-  .Megrendelem_gomb a{
+  .Megrendelem_gomb a {
     color:red;
-    background-color: teal;
+    /*background-color: teal;*/
     text-decoration: none;
   }
-  .Megrendelem_gomb a:hover{
-    color:grey;
-    background-color: teal;
   
+  .Megrendelem_gomb a:hover {
+   /* color:grey;
+    background-color: teal;*/
   }
-  
- 
-}
+
+ }
 /* 4. Tablets, Ipads (landscape) VÉGE*/
 
 
 /* 5. Laptops, Desktops ELEJE  */
 @media (min-width: 1025px) and (max-width: 1280px) {
+ 
   .Bem_appear{
     position: absolute;
     background-color: whitesmoke;
