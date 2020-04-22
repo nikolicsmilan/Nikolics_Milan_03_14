@@ -1083,7 +1083,7 @@
 
  .Nikolics_logo {
    width:60%;
-   height: 14rem;
+   height: 13rem;
   /* border:3px solid red;*/
 }
 
@@ -1167,6 +1167,7 @@
  /*border: 3px solid red;*/
  /*padding-bottom: 1%;*/
  line-height: 2rem;
+ font-size: 1.2rem;
 }
 
 .Bold_kontener {
