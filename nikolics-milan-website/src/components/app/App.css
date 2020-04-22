@@ -538,18 +538,18 @@ textarea {
 
 /* 4. Tablets, Ipads (landscape) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    .App_egesz{
+
+    .App_egesz {
         display:flex;
         flex-direction: column;
         /*position: relative;*/
-        /*border: 3px dashed red;*/
+       /* border: 3px dashed red;*/
         justify-self: center;
         align-items: center;
-        width:100%; 
-       
+        width:100%;        
       }
       
-      .App_navbar{
+    .App_navbar {
           display:flex;
           flex-direction: row;
           /*position: relative;*/
@@ -558,10 +558,9 @@ textarea {
           align-items: center;*/
           width:100%;  
           /*margin-bottom: 3rem;*/
-      }
+      }     
       
-      
-      .App_egesz-body{
+    .App_egesz-body {
        padding-top: 0.5%;
        padding-left: 1.5%;
        padding-right: 1.5%;
@@ -569,9 +568,8 @@ textarea {
        flex-direction: column;
        justify-self: center;
        width:100%; 
-      /*border: 3px dashed blue;*/
-      
-      }
+      /*border: 3px dashed blue;*/      
+    } 
  
 }
 /* 4. Tablets, Ipads (landscape) VÉGE*/
@@ -584,7 +582,7 @@ textarea {
         display:flex;
         flex-direction: column;
         /*position: relative;*/
-        /*border: 3px dashed red;*/
+       /* border: 3px dashed red;*/
         justify-self: center;
         align-items: center;
         width:100%;        
@@ -594,7 +592,7 @@ textarea {
           display:flex;
           flex-direction: row;
           /*position: relative;*/
-         /* border: 3px dashed orange;*/
+         /*border: 3px dashed orange;*/
          /* justify-self: center;
           align-items: center;*/
           width:100%;  
@@ -609,9 +607,8 @@ textarea {
        flex-direction: column;
        justify-self: center;
        width:100%; 
-      /*border: 3px dashed blue;*/      
-      } 
-  
+      /*border: 3px dashed blue;*/
+      }   
 }
 /* 5. Laptops, Desktops VÉGE  */
 

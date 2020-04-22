@@ -638,8 +638,8 @@ li span {
         margin-bottom:2%; 
         padding-left: 2%;
         padding-right: 2%;
-        line-height: 2rem;           
-        font-size: 1.2vw;    
+        line-height: 1.6rem;           
+        font-size: 1.4vw;    
         /*width:25rem;*/
         width:100%;
     }   
@@ -649,8 +649,8 @@ li span {
         margin-left:3rem;
         text-align: left;
         margin-top:2%;
-        line-height: 2rem;    
-        font-size: 1.2vw; 
+        line-height: 1.6rem;    
+        font-size: 1.4vw; 
     }
   
     .Kep_start_ceg {    

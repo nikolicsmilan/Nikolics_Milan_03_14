@@ -322,13 +322,13 @@
     .Csomag_leiras_ceg {
         max-width: 100%;
        /* margin-top: 2%;*/
-        font-size: 1.2vw; 
+        font-size: 1.4vw; 
         text-align: justify;    
        /*padding-bottom: 4%;*/
         /*border: 3px solid red;*/
         min-height: 6rem;
         max-height: 10rem;
-        line-height: 2rem;
+        line-height: 1.6rem;
     }  
 
     .Szoveg_ceg {

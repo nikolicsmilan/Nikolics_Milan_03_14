@@ -344,7 +344,7 @@
         display:flex;
         flex-direction: row;
         align-items: center;
-        font-size: 1.6rem;
+        font-size: 1.4rem;
         font-weight: 900;
         padding-left:2%;
         padding-right:2%;
@@ -359,7 +359,7 @@
     .Csomag_leiras_ugy {
         max-width: 100%;
        /* margin-top: 2%;*/
-        font-size: 1.2vw; 
+        font-size: 1.4vw; 
         text-align: justify;    
        /*padding-bottom: 4%;*/
         /*border: 3px solid red;*/
