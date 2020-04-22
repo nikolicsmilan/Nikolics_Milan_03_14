@@ -14,8 +14,8 @@ const Bem_csom_tul = props => {
         <div className="Bem_csom_tul_egesz">
             <Bem_csom_tul_sor
                 kep={pipa2}
-                felirat='Landing Page'
-                felugro='Másnéven érkező oldlal.eeeeeeeeeeeeeeeeee'    
+                felirat='Landing Pagew'
+                felugro='Másnéven érkező oldlal'    
                 appear='Bem_appear'  
             ></Bem_csom_tul_sor>
             <Bem_csom_tul_sor

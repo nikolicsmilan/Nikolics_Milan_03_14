@@ -256,14 +256,18 @@
   .Bem_appear {
     position: absolute;
     background-color: whitesmoke;
-    height:10rem;  
-    width:20rem;  
+    height:5rem;  
+    width:15rem;  
     left:5rem;
     z-index: 10000;
     border: 1px solid black;
     border-radius:2%;
-    margin-left: 45px;
+    margin-left: 0px;
     margin-top: 2rem;
+  }
+
+  .Bem_appear p {
+    font-size: 0.8rem;
   }
 
   .Megrendelem_gomb {
@@ -271,18 +275,18 @@
     justify-content: center;
     align-items: center;
     margin:2rem;
-    font-size: 2rem;  
+    font-size: 1.2rem;  
     padding:0.5rem;  
     border-radius: 1%;  
   }
   
   .Megrendelem_gomb h1 {
-   /* border:3px solid purple;*/
+    /*border:3px solid purple;*/
     padding-right:1rem;
     padding-left:1rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    min-width:13rem;
+    min-width:10rem;
     border-radius: 3%;
     background-color:rgba(49,193,245);;
     color:white;
@@ -305,7 +309,6 @@
    /* color:grey;
     background-color: teal;*/
   }
-
  }
 /* 4. Tablets, Ipads (landscape) VÉGE*/
 
@@ -364,11 +367,8 @@
   .Megrendelem_gomb a:hover {
    /* color:grey;
     background-color: teal;*/
+    } 
   }
-  
-  
-  
-}
 /* 5. Laptops, Desktops VÉGE  */
 
 
@@ -444,7 +444,7 @@
     width:20rem;  
     left:5rem;
     z-index: 10000;
-    border: 10x solid black;
+    border: 1px solid black;
     border-radius:2%;
     margin-left: 130px;
     margin-top: 2rem;
