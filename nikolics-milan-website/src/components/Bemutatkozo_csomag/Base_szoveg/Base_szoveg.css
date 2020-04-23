@@ -216,6 +216,7 @@
         letter-spacing: -2.5px;
         line-height: 2rem;
         text-align: justify;
+        text-justify: auto;
         color:orange; 
     }
     .Szoveg_bem_zold{
