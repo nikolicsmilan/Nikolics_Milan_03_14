@@ -27,6 +27,41 @@ const Base_szoveg = props =>{
                         és modern vállalkozás számára.                  
                         Gyors. Biztonságos. Jogtiszta.
                     </div>
+                    <div className='Szoveg_bem_narancs'>         
+                        Ez a Professzionális Weboldal ideális arra,
+                        hogy bemutassa vállakozását ügyfelei
+                        számára megnyerő módon. Alapkövetelmény egy sikeres
+                        és modern vállalkozás számára.                  
+                        Gyors. Biztonságos. Jogtiszta.
+                    </div>
+                    <div className='Szoveg_bem_zold'>         
+                        Ez a Professzionális Weboldal ideális arra,
+                        hogy bemutassa vállakozását ügyfelei
+                        számára megnyerő módon. Alapkövetelmény egy sikeres
+                        és modern vállalkozás számára.                  
+                        Gyors. Biztonságos. Jogtiszta.
+                    </div>
+                    <div className='Szoveg_bem_piros2'>         
+                        Ez a Professzionális Weboldal ideális arra,
+                        hogy bemutassa vállakozását ügyfelei
+                        számára megnyerő módon. Alapkövetelmény egy sikeres
+                        és modern vállalkozás számára.                  
+                        Gyors. Biztonságos. Jogtiszta.
+                    </div>
+                    <div className='Szoveg_bem_narancs2'>         
+                        Ez a Professzionális Weboldal ideális arra,
+                        hogy bemutassa vállakozását ügyfelei
+                        számára megnyerő módon. Alapkövetelmény egy sikeres
+                        és modern vállalkozás számára.                  
+                        Gyors. Biztonságos. Jogtiszta.
+                    </div>
+                    <div className='Szoveg_bem_zold2'>         
+                        Ez a Professzionális Weboldal ideális arra,
+                        hogy bemutassa vállakozását ügyfelei
+                        számára megnyerő módon. Alapkövetelmény egy sikeres
+                        és modern vállalkozás számára.                  
+                        Gyors. Biztonságos. Jogtiszta.
+                    </div>
                 </div>    
         </div>        
 </div>
