@@ -93,14 +93,17 @@
   .Ceg_appear{
     position: absolute;
     background-color: whitesmoke;
-    height:7rem;  
-    width:20rem;  
+    height:5rem;  
+    width:15rem;  
     left:5rem;
     z-index: 10000;
     border: 1px solid black;
     border-radius:2%;
-    margin-left: 370px;
+    margin-left: 270px;
     margin-top: 2rem;
+  }
+  .Ceg_appear p {
+    font-size: 0.8rem;
   }
  
 }

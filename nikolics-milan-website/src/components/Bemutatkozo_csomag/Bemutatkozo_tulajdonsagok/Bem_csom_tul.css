@@ -204,48 +204,51 @@
     margin-left: 75px;
     margin-top: 2rem;
   }
-  .Megrendelem_gomb{
+  
+  .Bem_appear p {
+    font-size: 0.8rem;
+  }
+
+  .Megrendelem_gomb {
     display: flex;
     justify-content: center;
     align-items: center;
     margin:2rem;
-    font-size: 2rem;
-    
-    padding:0.5rem;
-    
-    border-radius: 1%;
-  
-    
+    font-size: 2rem;  
+    padding:1rem;  
+    border-radius: 1%;  
   }
+  
   .Megrendelem_gomb h1 {
-   /* border:3px solid purple;*/
-    padding-right:1rem;
-    padding-left:1rem;
+    /*border:3px solid purple;*/
+    padding-right:2rem;
+    padding-left:2rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    min-width:13rem;
+    min-width:15rem;
     border-radius: 3%;
-    background-color: red;
+    background-color:rgba(49,193,245);;
     color:white;
+    height:3rem;
   }
   
-  .Megrendelem_gomb h1:hover{
-    background-color:blue;
+  .Megrendelem_gomb h1:hover {
+    background-color:red;
+   /* padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 100%;*/
   }
   
-  .Megrendelem_gomb a{
+  .Megrendelem_gomb a {
     color:red;
-    background-color: teal;
+    /*background-color: teal;*/
     text-decoration: none;
   }
-  .Megrendelem_gomb a:hover{
-    color:grey;
-    background-color: teal;
   
+  .Megrendelem_gomb a:hover {
+   /* color:grey;
+    background-color: teal;*/
   }
-  
- 
-  
 }
 
 /* 3. Device = Tablets, Ipads (portrait) VÉGE*/

@@ -147,30 +147,52 @@
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) {
   
-    .Base_szoveg_egesz_ceg{
+    .Base_szoveg_egesz_ceg {
         display:flex;
         flex-direction: column;
-        text-align: center;
+        text-align: center;  
+        /*border: 3px dashed red;*/
+      /*  max-height: 19rem;  */
     }
     
-    .Csomag_cim_ceg{
+    .Csomag_cim_ceg {
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
         font-size: 2.8rem;
         font-weight: 900;
-        padding:2%;
+        margin-bottom:2%;
+    }
+
+    .Csomag_cim_ceg h1 {      
+        padding-top: 0.65rem;
+        border: 2px solid rgba(47,218,241,.87);
+        border-radius: 3%;
+        width:25rem;
+        height: 4rem;
+    }
+
+    .keret_ceg {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+        margin-bottom:1%;
     }
     
-    .Csomag_ar_ceg{
+    .Csomag_ar_ceg {
         font-size: 2rem;
         font-weight: 900;
         padding:2%;
     }
     
-    .Csomag_leiras_ceg{
+    .Csomag_leiras_ceg {
         max-width: 100%;
         margin-top: 2%;
-        font-size: 2rem; 
+        font-size: 1.5rem; 
         text-align: justify;
         text-justify: inter-word;
         word-spacing:0em;
@@ -180,18 +202,12 @@
        /* hyphens: auto;*/
        /* color:orange;*/
         /* word-break: break-all;*/
-      
-    }
-    /*
-    .Csomag_leiras_ceg p{
-        line-height: 2.6rem;    
-    }
-  */
-  .Szoveg_ceg{
-    letter-spacing: -4.5px;
-    line-height: 3rem;
-    /*color:red;*/
-    }
+     }
+
+    .Szoveg_ceg {
+        letter-spacing: -2px;
+        line-height: 2rem;
+    }     
   
 }
 
@@ -272,7 +288,7 @@
      /* color:red;*/
       line-height: 1.7rem;
       font-size: 1.8vw; 
-      letter-spacing: -1.5px;
+      letter-spacing: -1.6px;
       
     }   
 }

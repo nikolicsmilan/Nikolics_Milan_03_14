@@ -169,25 +169,68 @@
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) {
   
-    .Base_szoveg_egesz_ugy{
+    .Base_szoveg_egesz_ugy {
         display:flex;
         flex-direction: column;
-        text-align: center;
+        text-align: center;  
+        /*border: 3px dashed red;*/
+      /*  max-height: 19rem;  */
     }
     
-    .Csomag_cim_ugy{
+    .Csomag_cim_ugy {
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
         font-size: 2.8rem;
         font-weight: 900;
-        padding:2%;
+        margin-bottom:2%;
+    }
+
+    .Csomag_cim_ugy h1 {      
+        padding-top: 0.65rem;
+        border: 2px solid rgba(47,218,241,.87);
+        border-radius: 3%;
+        width:25rem;
+        height: 4rem;
+    }
+
+    .keret_ugy {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+        margin-bottom:1%;
     }
     
-    .Csomag_ar_ugy{
+    .Csomag_ar_ugy {
         font-size: 2rem;
         font-weight: 900;
         padding:2%;
     }
+    
+    .Csomag_leiras_ugy {
+        max-width: 100%;
+        margin-top: 2%;
+        font-size: 1.5rem; 
+        text-align: justify;
+        text-justify: inter-word;
+        word-spacing:0em;
+        text-justify: distribute;
+        padding:2%;
+        padding-bottom: 4%;   
+       /* hyphens: auto;*/
+       /* color:orange;*/
+        /* word-break: break-all;*/
+     }
+
+    .Szoveg_ugy {
+        letter-spacing: -2px;
+        line-height: 2rem;
+    }   
+
     .Akcio_ugy{
         color:red;
     }
@@ -198,28 +241,7 @@
    .Csok_ugy_ar{
        color:red;
        padding-left: 2%;
-   }
-    
-    .Csomag_leiras_ugy{
-        max-width: 100%;
-        margin-top: 2%;
-        font-size: 4.2vw; 
-        text-align: justify;
-        padding:2%;
-        padding-bottom: 4%;   
-      
-    }
-    /*
-    .Csomag_leiras_ugy p{
-        line-height: 2.6rem;
-        }
-        */
-    .Szoveg_ugy{
-        letter-spacing: -2.5px;
-        line-height: 3rem;
-       /* color:orange;*/
-    }
-  
+   }  
 }
 
 /* 3. Device = Tablets, Ipads (portrait) VÉGE*/
