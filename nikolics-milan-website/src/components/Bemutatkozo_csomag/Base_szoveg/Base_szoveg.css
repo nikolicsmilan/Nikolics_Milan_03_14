@@ -249,11 +249,106 @@
         color:green; 
     }
 
+    .kozepre_1{
+        margin-top:4%;
+        letter-spacing: -3px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: auto;
+    }
+    .kozepre_2{
+        margin-top:4%;
+        letter-spacing: -3.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: auto;
+    }
+    .kozepre_3{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 1rem;
+        text-align: justify;
+        text-justify: auto;
+    }
+    .kozepre_4{
+        margin-top:4%;
+        letter-spacing: -3.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: auto;
+    }
 
+    .kozepre_5{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: distribute;
+    }
+    .kozepre_6{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: distribute-all-lines;
+    }
 
-
-
-
+    .kozepre_7{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: inter-cluster;
+    }
+    .kozepre_8{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: inter-ideograph;
+    }
+    .kozepre_9{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    .kozepre_10{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: kashida;
+    }
+    .kozepre_11{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: newspaper;
+    }
+    .kozepre_12{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: initial;
+    }
+    .kozepre_13{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: inherit;
+    }
+    .kozepre_14{
+        margin-top:4%;
+        letter-spacing: -2.5px;
+        line-height: 2rem;
+        text-align: justify;
+        text-justify: unset;
+    }
 }
 
 /* 3. Device = Tablets, Ipads (portrait) VÉGE*/
