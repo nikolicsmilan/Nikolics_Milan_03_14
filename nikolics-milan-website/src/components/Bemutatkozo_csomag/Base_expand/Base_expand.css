@@ -562,8 +562,8 @@
         width:100%;
         text-align: justify;
         line-height: 1.8rem;
-        font-size: 1.4rem; 
-        letter-spacing: -2px;  
+        font-size: 1.2rem; 
+        letter-spacing: -1px;   
         margin-top: 2%;
         margin-bottom:2%; 
         padding-top:2%;
@@ -576,8 +576,8 @@
     ul.felsorol_bem {
         text-align: left;
         line-height: 1.8rem;
-        font-size: 1.4rem; 
-        letter-spacing: -2px;  
+        font-size: 1.2rem; 
+        letter-spacing: -1px;  
         list-style-type: circle;
         margin-top:2%;
         margin-left:3rem;               
