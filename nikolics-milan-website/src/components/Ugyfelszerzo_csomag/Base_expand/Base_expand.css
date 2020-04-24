@@ -528,6 +528,7 @@
         flex-direction: column;  
         align-items: center;
         /*border:3px solid red;*/
+        margin-top:1%;
     }
     
     .Button_kontener_ugy {
@@ -614,6 +615,7 @@
         flex-direction: column;  
         align-items: center;
         /*border:3px solid red;*/
+        margin-top:2%;
     }
     
     .Button_kontener_ugy {

@@ -190,7 +190,7 @@
     }
     
     .Csomag_leiras_ceg {
-        max-width: 100%;
+        max-width: 100%;        
         margin-top: 2%;
         font-size: 1.5rem; 
         text-align: justify;
@@ -205,6 +205,7 @@
      }
 
     .Szoveg_ceg {
+
         letter-spacing: -2px;
         line-height: 2rem;
     }     
@@ -412,7 +413,7 @@
         height: 4rem;
     }   
 
-    .Csomag_ar_ceg {
+     .Csomag_ar_ceg {
         display:flex;
         flex-direction: column;
         align-items: center;
@@ -429,25 +430,24 @@
     }    
 
     .Csomag_leiras_ceg {
-        max-width: 100%;
-       /* margin-top: 2%;*/
-        font-size: 1.2vw; 
-        text-align: justify;    
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
        /*padding-bottom: 4%;*/
         /*border: 3px solid red;*/
-        min-height: 6rem;
-        max-height: 10rem;
-        line-height: 2rem;
     }  
 
     .Szoveg_ceg {
        /* letter-spacing: -1.5px;
         line-height: 3rem;*/
       /*  width:25rem;*/
-      /*  border: 3px solid yellow;*/
-        min-height: 8rem;
-        max-height: 8rem;
-    }  
+        /*border: 3px solid yellow;*/
+        text-align: justify; 
+        line-height: 2rem;
+        font-size: 1.2vw; 
+        letter-spacing: normal;        
+    }
 }
 
 /* 6. Higher resolution desktops VÉGE*/
@@ -509,24 +509,23 @@
     }    
 
     .Csomag_leiras_ceg {
-        max-width: 100%;
-       /* margin-top: 2%;*/
-        font-size: 1.2vw; 
-        text-align: justify;    
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
        /*padding-bottom: 4%;*/
         /*border: 3px solid red;*/
-        min-height: 6rem;
-        max-height: 10rem;
-        line-height: 2rem;
     }  
 
     .Szoveg_ceg {
        /* letter-spacing: -1.5px;
         line-height: 3rem;*/
-      /*  width:25rem;*/
-      /*  border: 3px solid yellow;*/
-        min-height: 8rem;
-        max-height: 8rem;
+        /*  width:25rem;*/
+        /*border: 3px solid yellow;*/
+        text-align: justify; 
+        line-height: 2rem;
+        font-size: 1.2vw; 
+        letter-spacing: normal;        
     }
 }
 

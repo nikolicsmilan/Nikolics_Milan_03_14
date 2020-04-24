@@ -355,7 +355,7 @@
     .Csomag_leiras_bem {
         max-width: 100%;
        /* margin-top: 2%;*/
-        font-size: 1.4vw; 
+        font-size: 1.7vw; 
         text-align: justify;    
        /*padding-bottom: 4%;*/
         /*border: 3px solid red;*/
@@ -371,6 +371,8 @@
       /*  border: 3px solid yellow;*/
         min-height: 9rem;
         max-height: 9rem;
+       
+        letter-spacing: -1.6px;
     }  
 }
 /* 5. Laptops, Desktops VÉGE  */
@@ -399,6 +401,14 @@
         padding:2%;        
     }
 
+    .keret_bem {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+    }
+
     .Csomag_cim_bem h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
@@ -407,15 +417,7 @@
         height: 4rem;
     }   
 
-    .keret_bem{
-        border-radius: 20px;
-        border: 1px solid rgba(47,218,241,.87);
-        padding-left:2%;
-        padding-right: 2%;
-        padding-bottom: 1%;
-    }
-
-    .Csomag_ar_bem {
+     .Csomag_ar_bem {
         display:flex;
         flex-direction: column;
         align-items: center;
@@ -432,24 +434,23 @@
     }    
 
     .Csomag_leiras_bem {
-        max-width: 100%;
-       /* margin-top: 2%;*/
-        font-size: 1.2vw; 
-        text-align: justify;    
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
        /*padding-bottom: 4%;*/
-       /* border: 3px solid red;*/
-        min-height: 6rem;
-        max-height: 10rem;
-        line-height: 2rem;
+        /*border: 3px solid red;*/
     }  
 
     .Szoveg_bem {
        /* letter-spacing: -1.5px;
         line-height: 3rem;*/
       /*  width:25rem;*/
-      /*  border: 3px solid yellow;*/
-        min-height: 9rem;
-        max-height: 9rem;
+        /*border: 3px solid yellow;*/
+        text-align: justify; 
+        line-height: 2rem;
+        font-size: 1.2vw; 
+        letter-spacing: normal;        
     }
   
 }
@@ -479,6 +480,14 @@
         padding:2%;        
     }
 
+    .keret_bem {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+    }
+
     .Csomag_cim_bem h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
@@ -486,14 +495,6 @@
         width:17rem;
         height: 4rem;
     }   
-
-     .keret_bem{
-        border-radius: 20px;
-        border: 1px solid rgba(47,218,241,.87);
-        padding-left:2%;
-        padding-right: 2%;
-        padding-bottom: 1%;
-    }
 
      .Csomag_ar_bem {
         display:flex;
@@ -512,24 +513,23 @@
     }    
 
     .Csomag_leiras_bem {
-        max-width: 100%;
-       /* margin-top: 2%;*/
-        font-size: 1.2vw; 
-        text-align: justify;    
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
        /*padding-bottom: 4%;*/
         /*border: 3px solid red;*/
-        min-height: 6rem;
-        max-height: 10rem;
-        line-height: 2rem;
     }  
 
     .Szoveg_bem {
        /* letter-spacing: -1.5px;
         line-height: 3rem;*/
-      /*  width:25rem;*/
+       /*  width:25rem;*/
         /*border: 3px solid yellow;*/
-        min-height: 8rem;
-        max-height: 8rem;
+        text-align: justify; 
+        line-height: 2rem;
+        font-size: 1.2vw; 
+        letter-spacing: normal;        
     }
 }
 
