@@ -444,9 +444,9 @@
       /*  width:25rem;*/
         /*border: 3px solid yellow;*/
         text-align: justify; 
-        line-height: 2rem;
-        font-size: 1.2vw; 
-        letter-spacing: normal;        
+        line-height: 1.8rem;
+        font-size: 1.2rem; 
+        letter-spacing: -0.5px;         
     }
 }
 
@@ -524,7 +524,7 @@
         /*border: 3px solid yellow;*/
         text-align: justify; 
         line-height: 2rem;
-        font-size: 1.2vw; 
+        font-size: 1.4rem; 
         letter-spacing: normal;        
     }
 }

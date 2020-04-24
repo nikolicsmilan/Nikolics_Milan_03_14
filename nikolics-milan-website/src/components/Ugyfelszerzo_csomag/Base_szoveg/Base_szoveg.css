@@ -487,24 +487,23 @@
     }    
 
     .Csomag_leiras_ugy {
-        max-width: 100%;
-       /* margin-top: 2%;*/
-        font-size: 1.2vw; 
-        text-align: justify;    
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
        /*padding-bottom: 4%;*/
         /*border: 3px solid red;*/
-        min-height: 6rem;
-        max-height: 10rem;
-        line-height: 1.6rem;
     }  
 
     .Szoveg_ugy {
        /* letter-spacing: -1.5px;
         line-height: 3rem;*/
       /*  width:25rem;*/
-      /*  border: 3px solid yellow;*/
-        min-height: 9rem;
-        max-height: 9rem;
+        /*border: 3px solid yellow;*/
+        text-align: justify; 
+        line-height: 1.8rem;
+        font-size: 1.2rem; 
+        letter-spacing: -1px;       
     }
 
      .Akcio_ugy {
@@ -594,7 +593,7 @@
         /*border: 3px solid yellow;*/
         text-align: justify; 
         line-height: 2rem;
-        font-size: 1vw; 
+        font-size: 1.2rem; 
         letter-spacing: normal;        
     }
 

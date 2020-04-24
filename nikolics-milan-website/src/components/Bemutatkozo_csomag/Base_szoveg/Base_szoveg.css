@@ -300,88 +300,6 @@
 
 /* 5. Laptops, Desktops ELEJE  */
 @media (min-width: 1025px) and (max-width: 1280px) {
-
-    .Base_szoveg_egesz_bem {
-        display:flex;
-        flex-direction: column;
-        text-align: center;  
-        /*border: 3px dashed red;*/
-        max-height: 19rem;      
-    }   
-
-    .Csomag_cim_bem {
-        display:flex;
-        flex-direction: row;
-        justify-content: center;
-        color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
-        font-size: 2rem;
-        font-weight: 900;
-        padding:2%;        
-    }
-
-    .keret_bem {
-        border-radius: 20px;
-        border: 1px solid rgba(47,218,241,.87);
-        padding-left:2%;
-        padding-right: 2%;
-        padding-bottom: 1%;
-    }
-
-    .Csomag_cim_bem h1 {      
-        padding-top: 1rem;
-        border: 2px solid rgba(47,218,241,.87);
-        border-radius: 3%;
-        width:17rem;
-        height: 4rem;
-    }   
-
-    .Csomag_ar_bem {
-        display:flex;
-        flex-direction: column;
-        align-items: center;
-        font-size: 2rem;
-        font-weight: 900;
-        padding-left:2%;
-        padding-right:2%;
-        padding-top: 1rem;
-      /*  border: 3px solid yellow;*/
-        min-height: 5rem;
-        max-height: 5rem;
-      /*  min-width: 25rem;
-        max-width: 25rem;*/
-    }    
-
-    .Csomag_leiras_bem {
-        max-width: 100%;
-       /* margin-top: 2%;*/
-        font-size: 1.7vw; 
-        text-align: justify;    
-       /*padding-bottom: 4%;*/
-        /*border: 3px solid red;*/
-        min-height: 6rem;
-        max-height: 10rem;
-        line-height: 1.6rem;
-    }  
-
-    .Szoveg_bem {
-       /* letter-spacing: -1.5px;
-        line-height: 3rem;*/
-      /*  width:25rem;*/
-      /*  border: 3px solid yellow;*/
-        min-height: 9rem;
-        max-height: 9rem;
-       
-        letter-spacing: -1.6px;
-    }  
-}
-/* 5. Laptops, Desktops VÉGE  */
-
-
-/* 6. Higher resolution desktops ELEJE*/
-
-@media (min-width: 1281px) and (max-width:1599px) {
-  
     .Base_szoveg_egesz_bem {
         display:flex;
         flex-direction: column;
@@ -529,6 +447,163 @@
         text-align: justify; 
         line-height: 2rem;
         font-size: 1.2vw; 
+        letter-spacing: normal;        
+    }
+    
+}
+/* 5. Laptops, Desktops VÉGE  */
+
+
+/* 6. Higher resolution desktops ELEJE*/
+
+@media (min-width: 1281px) and (max-width:1599px) {
+  
+    .Base_szoveg_egesz_bem {
+        display:flex;
+        flex-direction: column;
+        text-align: center;  
+        /*border: 3px dashed red;*/
+        max-height: 19rem;      
+    }   
+
+    .Csomag_cim_bem {
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        color: rgba(47,218,241,.87);
+        color:rgba(49,193,245);
+        font-size: 2rem;
+        font-weight: 900;
+        padding:2%;        
+    }
+
+    .keret_bem {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+    }
+
+    .Csomag_cim_bem h1 {      
+        padding-top: 1rem;
+        border: 2px solid rgba(47,218,241,.87);
+        border-radius: 3%;
+        width:17rem;
+        height: 4rem;
+    }   
+
+     .Csomag_ar_bem {
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 2rem;
+        font-weight: 900;
+        padding-left:2%;
+        padding-right:2%;
+        padding-top: 1rem;
+        border: 3px solid yellow;
+        min-height: 5rem;
+        max-height: 5rem;
+      /*  min-width: 25rem;
+        max-width: 25rem;*/
+    }    
+
+    .Csomag_leiras_bem {
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
+       /*padding-bottom: 4%;*/
+        /*border: 3px solid red;*/
+    }  
+
+    .Szoveg_bem {
+       /* letter-spacing: -1.5px;
+        line-height: 3rem;*/
+      /*  width:25rem;*/
+        /*border: 3px solid yellow;*/
+        text-align: justify; 
+        line-height: 1.8rem;
+        font-size: 1.2rem; 
+        letter-spacing: -0.5px;        
+    }  
+}
+
+/* 6. Higher resolution desktops VÉGE*/
+
+/* 7. Larger screen ELEJE*/
+
+@media screen and (min-width: 1600px) {
+
+    .Base_szoveg_egesz_bem {
+        display:flex;
+        flex-direction: column;
+        text-align: center;  
+        /*border: 3px dashed red;*/
+        max-height: 19rem;      
+    }   
+
+    .Csomag_cim_bem {
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        color: rgba(47,218,241,.87);
+        color:rgba(49,193,245);
+        font-size: 2rem;
+        font-weight: 900;
+        padding:2%;        
+    }
+
+    .keret_bem {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+    }
+
+    .Csomag_cim_bem h1 {      
+        padding-top: 1rem;
+        border: 2px solid rgba(47,218,241,.87);
+        border-radius: 3%;
+        width:17rem;
+        height: 4rem;
+    }   
+
+     .Csomag_ar_bem {
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 2rem;
+        font-weight: 900;
+        padding-left:2%;
+        padding-right:2%;
+        padding-top: 1rem;
+      /*  border: 3px solid yellow;*/
+        min-height: 5rem;
+        max-height: 5rem;
+      /*  min-width: 25rem;
+        max-width: 25rem;*/
+    }    
+
+    .Csomag_leiras_bem {
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
+       /*padding-bottom: 4%;*/
+        /*border: 3px solid red;*/
+    }  
+
+    .Szoveg_bem {
+       /* letter-spacing: -1.5px;
+        line-height: 3rem;*/
+       /*  width:25rem;*/
+        /*border: 3px solid yellow;*/
+        text-align: justify; 
+        line-height: 2rem;
+        font-size: 1.4rem; 
         letter-spacing: normal;        
     }
 }
