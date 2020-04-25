@@ -823,7 +823,7 @@ display:none;
 .desktop_menu ul {
 /*border:3px solid purple;*/
 display: flex;
-justify-content: start;
+justify-content: flex-start;
 padding:0;
 margin:0;   
 width:100%; 
@@ -1095,7 +1095,7 @@ min-height:10rem;
     /*H2 beállítja*/
     /* color:red;*/
     /* border: 6px solid purple;*/
-     width:100%;
+    width:100%;
     background-color: white;
     }         
               
@@ -1202,7 +1202,7 @@ min-height:10rem;
 .desktop_menu ul {
 /*border:3px solid purple;*/
 display: flex;
-justify-content: start;
+justify-content: flex-start;
 padding:0;
 margin:0;   
 width:100%; 

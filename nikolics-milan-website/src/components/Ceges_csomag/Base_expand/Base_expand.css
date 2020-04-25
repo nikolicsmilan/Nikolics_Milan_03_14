@@ -430,6 +430,7 @@ li span {
         padding-bottom: 4%;
         max-width: 100%;
         border:1px dashed rgb(0, 225, 255);
+        border: 3px dashed rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         margin-bottom:2%; 
         padding-left: 2%;
@@ -538,6 +539,7 @@ li span {
     
     .open_sidedrawer_ceg {
         border:3px dashed rgb(0, 225, 255);
+        border: 3px dashed rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         max-width: 100%;
         width:100%;
@@ -624,6 +626,7 @@ li span {
     
     .open_sidedrawer_ceg {
         border:3px dashed rgb(0, 225, 255);
+        border: 3px dashed rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         max-width: 100%;
         width:100%;
@@ -712,6 +715,7 @@ li span {
     
     .open_sidedrawer_ceg {
         border:3px dashed rgb(0, 225, 255);
+        border: 3px dashed rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         max-width: 100%;
         width:100%;
@@ -800,6 +804,7 @@ li span {
     
     .open_sidedrawer_ceg {
         border:3px dashed rgb(0, 225, 255);
+        border: 3px dashed rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         max-width: 100%;
         width:100%;

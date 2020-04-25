@@ -161,6 +161,7 @@
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
+        color: rgba(40, 164, 241, 0.938);
         font-size: 2.8rem;
         font-weight: 900;
         margin-bottom:2%;
@@ -169,6 +170,7 @@
     .Csomag_cim_ceg h1 {      
         padding-top: 0.65rem;
         border: 2px solid rgba(47,218,241,.87);
+        border: 2px solid rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         width:25rem;
         height: 4rem;
@@ -177,6 +179,7 @@
     .keret_ceg {
         border-radius: 20px;
         border: 1px solid rgba(47,218,241,.87);
+        border: 1px solid rgba(40, 164, 241, 0.938);
         padding-left:2%;
         padding-right: 2%;
         padding-bottom: 1%;
@@ -231,6 +234,7 @@
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
+        color: rgba(40, 164, 241, 0.938);
         font-size: 1.5rem;
         font-weight: 900;
         padding:2%;        
@@ -239,6 +243,7 @@
     .keret_ceg {
         border-radius: 20px;
         border: 1px solid rgba(47,218,241,.87);
+        border: 1px solid rgba(40, 164, 241, 0.938);
         padding-left:2%;
         padding-right: 2%;
         padding-bottom: 3%;
@@ -247,6 +252,7 @@
     .Csomag_cim_ceg h1 {      
        /* padding-top: 1rem;*/
         border: 2px solid rgba(47,218,241,.87);
+        border: 2px solid rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         width:17rem;
         height: 3rem;
@@ -318,6 +324,7 @@
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
+        color: rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
         padding:2%;        
@@ -326,6 +333,7 @@
     .keret_ceg {
         border-radius: 20px;
         border: 1px solid rgba(47,218,241,.87);
+        border: 1px solid rgba(40, 164, 241, 0.938);
         padding-left:2%;
         padding-right: 2%;
         padding-bottom: 1%;
@@ -334,6 +342,7 @@
     .Csomag_cim_ceg h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
+        border: 2px solid rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         width:17rem;
         height: 4rem;
@@ -396,6 +405,7 @@
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
+        color: rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
         padding:2%;        
@@ -404,6 +414,7 @@
     .keret_ceg {
         border-radius: 20px;
         border: 1px solid rgba(47,218,241,.87);
+        border: 1px solid rgba(40, 164, 241, 0.938);
         padding-left:2%;
         padding-right: 2%;
         padding-bottom: 1%;
@@ -412,6 +423,7 @@
     .Csomag_cim_ceg h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
+        border: 2px solid rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         width:17rem;
         height: 4rem;
@@ -475,6 +487,7 @@
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
+        color: rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
         padding:2%;        
@@ -483,6 +496,7 @@
     .keret_ceg {
         border-radius: 20px;
         border: 1px solid rgba(47,218,241,.87);
+        border:1px solid rgba(40, 164, 241, 0.938);
         padding-left:2%;
         padding-right: 2%;
         padding-bottom: 1%;
@@ -491,6 +505,7 @@
     .Csomag_cim_ceg h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
+        border:2px solid rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         width:17rem;
         height: 4rem;
