@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     border-bottom: 1px solid rgb(0, 128, 128);
+    border-bottom:2px solid rgba(40, 164, 241, 0.938);
     width: 100%;
     /*border-radius: 21px;*/
     padding-top:1%;
@@ -106,6 +107,7 @@
         display: flex;
         flex-direction: column;
         border-bottom: 1px solid rgb(0, 128, 128);
+        border-bottom:1px solid rgba(40, 164, 241, 0.938);
         width: 100%;
         /*border-radius: 21px;*/
         padding-top:1%;
@@ -157,6 +159,7 @@
         display: flex;
         flex-direction: column;
         border-bottom: 1px solid rgb(0, 128, 128);
+        border-bottom:1px solid rgba(40, 164, 241, 0.938);
         width: 100%;
         /*border-radius: 21px;*/
         padding-top:1%;
@@ -209,6 +212,7 @@
         display: flex;
         flex-direction: column;
         border-bottom: 1px solid rgb(0, 128, 128);
+        border-bottom:1px solid rgba(40, 164, 241, 0.938);
         width: 100%;
         /*border-radius: 21px;*/
         padding-top:1%;
@@ -263,6 +267,7 @@
     display: flex;
     flex-direction: column;
     border-bottom: 1px solid rgb(0, 128, 128);
+    border-bottom:1px solid rgba(40, 164, 241, 0.938);
     width: 100%;
     /*border-radius: 21px;*/
     padding-top:1%;

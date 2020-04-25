@@ -369,15 +369,15 @@
         background-color: rgba(40, 164, 241, 0.938);
         /*background-color: rgb(100, 250, 2);*/
         color:white;       
-        opacity: 0.7;          
+       /* opacity: 0.7; */ 
         width:7rem;
         height:2rem;       
         margin-top:0.5rem;
-
+        opacity:1;
         /*Nagyobb Button*/
         /* width:9rem;
         height:3rem;
-        font-size: 1.3rem;*/     
+        font-size: 1.3rem;*/       
     }
 
     .close_sidedrawer_bem {
@@ -456,7 +456,7 @@
         background-color: rgba(40, 164, 241, 0.938);
         /*background-color: rgb(100, 250, 2);*/
         color:white;       
-        opacity: 0.7;          
+        opacity: 1;          
         width:7rem;
         height:2rem;       
         margin-top:0.5rem;
@@ -543,7 +543,7 @@
         background-color: rgba(40, 164, 241, 0.938);
         /*background-color: rgb(100, 250, 2);*/
         color:white;       
-        opacity: 0.7;          
+        opacity: 1;          
         width:7rem;
         height:2rem;       
         margin-top:0.5rem;
@@ -631,7 +631,7 @@
         background-color: rgba(40, 164, 241, 0.938);
         /*background-color: rgb(100, 250, 2);*/
         color:white;       
-        opacity: 0.7;          
+        opacity: 1;          
         width:7rem;
         height:2rem;       
         margin-top:0.5rem;

@@ -476,6 +476,7 @@
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(49,193,245);
+        color: rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
         padding:2%;        
@@ -484,6 +485,7 @@
     .keret_bem {
         border-radius: 20px;
         border: 1px solid rgba(47,218,241,.87);
+        border:2px solid rgba(40, 164, 241, 0.938);
         padding-left:2%;
         padding-right: 2%;
         padding-bottom: 1%;
@@ -492,6 +494,7 @@
     .Csomag_cim_bem h1 {      
         padding-top: 1rem;
         border: 2px solid rgba(47,218,241,.87);
+        border:2px solid rgba(40, 164, 241, 0.938);
         border-radius: 3%;
         width:17rem;
         height: 4rem;
