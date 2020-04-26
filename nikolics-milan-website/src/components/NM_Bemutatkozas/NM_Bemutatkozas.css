@@ -526,7 +526,7 @@
  }
 
  .Nikolics_logo {
-   width:50%;
+   width:70%;
    height: 8rem;
   /* border:3px solid red;*/
  }
@@ -578,10 +578,15 @@
 
 .Li_kontener {
  display: flex;
- /*justify-content: center;*/
+ flex-direction: row;
+ justify-content: center;
+/* align-items: center;*/
+ flex-wrap: wrap;
  /*margin-top:2rem;*/
- /*border: 3px solid purple;*/
+/* border: 3px solid purple;*/
  width:100%;
+ /*max-height: 50rem;*/
+ 
 }
 
 .BemSzovLi_1 {
@@ -589,18 +594,35 @@
   justify-content: center;
  /* width:32rem;*/
   /*height:12rem;*/
-  /*border: 3px solid purple;*/
+ border: 3px solid green;
   width:100%;
-  padding:1%;
+ /* padding:1%;*/
   border:0px;
+  min-height: 8rem;
+  max-height: 8rem;
+  min-width: 23rem;
+  max-width: 23rem;
+ /* margin-left: 2%;
+  margin-right: 2%;*/
+  padding-top: 5%;
+  margin: 0;
+ /* background-color: red;*/
 }
 
 .BemSzovLi_1 img {
  /* width:32rem;*/
  /* padding:0.5rem;*/
+  min-height: 8rem;
+  max-height: 8rem;
+  min-width: 23rem;
+  max-width: 23rem;
   margin:0;
   width:100%;
   border:0px;
+ /* border: 3px solid rgba(40, 164, 241, 0.938);*/
+  padding: 10px;
+  margin: 0;
+  border-radius: 100%;
 }
 
 .Osztonzo_szoveg {
@@ -612,6 +634,7 @@
  /*border: 3px solid red;*/
  /*padding-bottom: 1%;*/
  line-height: 3rem;
+ font-size: 1.5rem;
 }
 
 .Bold_kontener {
@@ -620,10 +643,10 @@
  /* border:3px solid red;*/
   justify-content: center;
   width:100%;
-
+  padding-top: 7%;
   /* Vonal*/ 
   margin-top:0rem;
-  
+ 
   /*Négyzet*/
   /*margin-top: 0rem;*/
 
@@ -639,10 +662,10 @@
    /* border: 6px solid orange;*/
     padding: 0;
     /*padding-left: 2%;*/
-    font-size: 3vw;
+    font-size: 2rem;
     
    /* Vonal*/ 
-   line-height:2rem;  
+   line-height:1rem;  
 
   /*Kör*/
 }

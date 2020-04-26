@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "503f05b6141b643dd1ed848bc77bb84d",
+    "revision": "53d4274ccd27716453915212438aee1a",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "501bc8e1b17c221ae95c",
-    "url": "/static/css/main.5e220844.chunk.css"
+    "revision": "7592af230d7df3c02f78",
+    "url": "/static/css/main.589e6e32.chunk.css"
   },
   {
     "revision": "bcaca5ce56120dc3c3f3",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.fad0de06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "501bc8e1b17c221ae95c",
-    "url": "/static/js/main.b2a904e3.chunk.js"
+    "revision": "7592af230d7df3c02f78",
+    "url": "/static/js/main.9f58fca3.chunk.js"
   },
   {
     "revision": "2301f6121dd8c2d6a3d3",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg"
   },
   {
-    "revision": "e522c07fe440afbb0408eaf001981c1e",
-    "url": "/static/media/Bevetel.e522c07f.PNG"
+    "revision": "d20943509109d1275684d5c50f6d1a78",
+    "url": "/static/media/Bevetel.d2094350.PNG"
   },
   {
     "revision": "bd7e975983e2bcf699eafc76e8bc208e",

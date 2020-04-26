@@ -436,6 +436,7 @@
         border: 2px solid red;
         border-radius: 10px;       
         box-shadow: 0px 0px 10px red;
+      
     }
 
     .Ered_ugy_ar{
@@ -620,16 +621,18 @@
         /*  width:25rem;*/
         /*border: 3px solid yellow;*/
         text-align: justify; 
-        line-height: 2rem;
-        font-size: 1.2rem; 
+        line-height: 1.8rem;
+        font-size: 1.4rem; 
         letter-spacing: normal;        
     }
 
      .Akcio_ugy {
         color:red;
-        border: 2px solid red;
+       /* border: 2px solid red;*/
         border-radius: 10px;       
-        box-shadow: 0px 0px 10px red;
+       /* box-shadow: 0px 0px 10px red;*/
+       /* -ms-transform: translate(50px,100px); /* IE 9 */
+      /*  transform: translate(px,100px); /* Standard syntax */
         /*-ms-transform: translate(50px,100px); /* IE 9 */
        /* transform: translate(0px,-200px); /* Standard syntax */
        /* -ms-transform: rotate(-18deg); /* IE 9 */

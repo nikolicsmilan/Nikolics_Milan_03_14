@@ -7,7 +7,8 @@ import Text from 'react';
 const Base_szoveg = props =>{
 
     return(
-        
+
+              
 <div className="Base_szoveg_egesz_ugy">
 
         <div className="Csomag_cim_ugy">
@@ -47,11 +48,7 @@ const Base_szoveg = props =>{
         </div>
 */}  
          
-    </div>
-
-   
-      
-
+    </div>   
 
 
     )
