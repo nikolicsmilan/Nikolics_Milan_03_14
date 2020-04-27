@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53d4274ccd27716453915212438aee1a",
+    "revision": "a7497b89d49f4483776dcd256c55c1c6",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "7592af230d7df3c02f78",
-    "url": "/static/css/main.589e6e32.chunk.css"
+    "revision": "cd494dd230fb8a9a10f9",
+    "url": "/static/css/main.df77f77c.chunk.css"
   },
   {
     "revision": "bcaca5ce56120dc3c3f3",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.fad0de06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7592af230d7df3c02f78",
-    "url": "/static/js/main.9f58fca3.chunk.js"
+    "revision": "cd494dd230fb8a9a10f9",
+    "url": "/static/js/main.979e5442.chunk.js"
   },
   {
     "revision": "2301f6121dd8c2d6a3d3",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg"
   },
   {
-    "revision": "d20943509109d1275684d5c50f6d1a78",
-    "url": "/static/media/Bevetel.d2094350.PNG"
+    "revision": "15269ab9d8997affb32f75cf33ecb0e4",
+    "url": "/static/media/Bevetel2.15269ab9.PNG"
   },
   {
     "revision": "bd7e975983e2bcf699eafc76e8bc208e",
@@ -64,12 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/NM_kep_Mobil_2.eafe0a0d.JPG"
   },
   {
-    "revision": "90104612a1982874109eb1f09ed2637e",
-    "url": "/static/media/Nepszeru.90104612.PNG"
+    "revision": "2a95df8c2dcb2f7f6a2bdcab9bc702e1",
+    "url": "/static/media/Nepszeru2.2a95df8c.PNG"
   },
   {
-    "revision": "eea9f445d87f4ece824434308a931804",
-    "url": "/static/media/Ugyfel.eea9f445.PNG"
+    "revision": "b7c2fcd8f251992cc0baf3c4352c990d",
+    "url": "/static/media/Ugyfel2.b7c2fcd8.PNG"
   },
   {
     "revision": "72c64d0dc7d78242a53f0a39be54a895",

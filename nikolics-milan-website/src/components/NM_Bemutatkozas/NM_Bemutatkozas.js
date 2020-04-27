@@ -5,9 +5,9 @@ import NM_kep_2 from '../../assets/NM_kep_2.PNG';
 import NM_kep_Mobil from '../../assets/NM_kep_Mobil_2.JPG';
 import NM_kep_Desktop from '../../assets/NM_kep_Desktop.jpg';
 import nikolics_logo from './../../assets/nikolicsmilan_logo_9.png';
-import bevetel from './../../assets/SzovegKep/Bevetel.PNG';
-import nepszeru from './../../assets/SzovegKep/Nepszeru.PNG';
-import ugyfel from './../../assets/SzovegKep/Ugyfel.PNG';
+import bevetel from './../../assets/SzovegKep/Bevetel2.PNG';
+import nepszeru from './../../assets/SzovegKep/Nepszeru2.PNG';
+import ugyfel from './../../assets/SzovegKep/Ugyfel2.PNG';
 
 const NM_Bemutatkozas = props => (
 
