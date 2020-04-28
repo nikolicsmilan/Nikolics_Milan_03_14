@@ -710,7 +710,7 @@
   }
 
   .kozepre{
-  /* border: 6px solid green;*/
+ /* border: 6px solid green;*/
     display: flex;
     flex-direction: column;
     max-width: 100%;
@@ -751,8 +751,8 @@
  }
 
  .Nikolics_logo {
-   width:50%;
-   height: 8rem;
+   width:60%;
+   height: 9rem;
   /* border:3px solid red;*/
  }
 
@@ -767,8 +767,8 @@
     background-color: white;
     border-radius: 20px;
     border: 3px solid rgba(47,218,241,.87);
-    border: 3px solid rgba(40, 164, 241, 0.938);
-    box-shadow: 0px 0px 20px rgba(49, 193, 245, 0.87);
+    border: 1px solid rgba(40, 164, 241, 0.938);
+    box-shadow: 0px 0px 5px rgba(49, 193, 245, 0.87);
     width:100%;
    /* margin-left: 2%;
     margin-right: 2%;*/
@@ -803,6 +803,10 @@
 
 .Li_kontener {
  display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ margin: 0 auto;
  /*justify-content: center;*/
  /*margin-top:2rem;*/
  /*border: 3px solid purple;*/
@@ -814,7 +818,7 @@
   justify-content: center;
  /* width:32rem;*/
   /*height:12rem;*/
-  /*border: 3px solid purple;*/
+ /* border: 3px solid purple;*/
   width:100%;
   padding:1%;
   border:0px;
@@ -822,10 +826,24 @@
 
 .BemSzovLi_1 img {
  /* width:32rem;*/
- /* padding:0.5rem;*/
-  margin:0;
-  width:100%;
-  border:0px;
+ /* padding:2rem; 
+  margin:2rem;*/
+  margin-top: 0;
+  width:90%;
+  border:0px;  
+  min-height: 10rem;
+  max-height: 10rem;
+  /*max-width: 8rem;*/
+ /* margin-bottom: 10%;*/
+  /***border: 3px solid purple;*/
+  border-radius: 0;
+  display: flex;
+  justify-content: center;
+}
+.Bemszovli_ugy{
+  padding-top: 3rem;
+  padding-right: -6rem;
+  padding-bottom: 6rem;
 }
 
 .Osztonzo_szoveg {
@@ -1169,8 +1187,8 @@
     background-color: white;
     border-radius: 20px;
     border: 3px solid rgba(47,218,241,.87);
-    border: 3px solid rgba(40, 164, 241, 0.938);
-    box-shadow: 0px 0px 20px rgba(49, 193, 245, 0.87);
+    border: 1px solid rgba(40, 164, 241, 0.938);
+    box-shadow: 0px 0px 5px rgba(49, 193, 245, 0.87);
     width:100%;
    /* margin-left: 2%;
     margin-right: 2%;*/

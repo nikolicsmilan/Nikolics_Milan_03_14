@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7497b89d49f4483776dcd256c55c1c6",
+    "revision": "a867f9dc61900977f9a8ec44fc622d68",
     "url": "/index.html"
   },
   {
-    "revision": "bcaca5ce56120dc3c3f3",
+    "revision": "997e9c9b840831df77d6",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "cd494dd230fb8a9a10f9",
-    "url": "/static/css/main.df77f77c.chunk.css"
+    "revision": "356ff0952ede66e3d9f6",
+    "url": "/static/css/main.02b7d2c7.chunk.css"
   },
   {
-    "revision": "bcaca5ce56120dc3c3f3",
-    "url": "/static/js/2.fad0de06.chunk.js"
+    "revision": "997e9c9b840831df77d6",
+    "url": "/static/js/2.5c85f09e.chunk.js"
   },
   {
     "revision": "6a7903cba7c07c04b74cefcf79c6a3f5",
-    "url": "/static/js/2.fad0de06.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5c85f09e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd494dd230fb8a9a10f9",
-    "url": "/static/js/main.979e5442.chunk.js"
+    "revision": "356ff0952ede66e3d9f6",
+    "url": "/static/js/main.f0c75689.chunk.js"
   },
   {
     "revision": "2301f6121dd8c2d6a3d3",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg"
   },
   {
-    "revision": "15269ab9d8997affb32f75cf33ecb0e4",
-    "url": "/static/media/Bevetel2.15269ab9.PNG"
+    "revision": "cb38f7cf56db68cfd235210a3bdc5755",
+    "url": "/static/media/Bevetel2.cb38f7cf.PNG"
   },
   {
     "revision": "bd7e975983e2bcf699eafc76e8bc208e",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c32d6193534657d4b244400fb2a73b38",
     "url": "/static/media/telefon-min.c32d6193.PNG"
+  },
+  {
+    "revision": "df2168602b598200ff52be63bcde26ae",
+    "url": "/static/media/thinking.df216860.PNG"
   },
   {
     "revision": "56f4be01b5d030427970a58ee32c510b",

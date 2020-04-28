@@ -8,6 +8,7 @@ import nikolics_logo from './../../assets/nikolicsmilan_logo_9.png';
 import bevetel from './../../assets/SzovegKep/Bevetel2.PNG';
 import nepszeru from './../../assets/SzovegKep/Nepszeru2.PNG';
 import ugyfel from './../../assets/SzovegKep/Ugyfel2.PNG';
+import thinking from './../../assets/SzovegKep/thinking.PNG';
 
 const NM_Bemutatkozas = props => (
 
@@ -36,7 +37,8 @@ const NM_Bemutatkozas = props => (
                     <div className="Li_kontener">
                     <li className="BemSzovLi_1"> <img src={bevetel} ></img> </li>
                     <li  className="BemSzovLi_1"> <img src={nepszeru} ></img></li>
-                    <li  className="BemSzovLi_1"> <img src={ugyfel} ></img></li>
+                    <li  className="BemSzovLi_1 Bemszovli_ugy"> <img src={ugyfel} ></img></li>
+                   
                    
                     </div>
 
