@@ -356,12 +356,12 @@
     display: flex;     
     justify-content: center;
     width:100%;
-    /*border: 3px solid red;*/
+    border: 3px solid red;
   }
    
   .Nikolics_logo_2 {
-     width:70%;
-     height: 11rem;
+     width:45%;
+     height: 8rem;
      /*border:3px solid red;*/
      margin:0;
      padding: 0;
@@ -404,8 +404,8 @@
   
   .BemSzovLi_1_2 {
    display: flex;
-   width:24rem;
-   height:12rem;
+   width:20rem;
+   height:10rem;
    margin:0;
    padding:1%;  
   }

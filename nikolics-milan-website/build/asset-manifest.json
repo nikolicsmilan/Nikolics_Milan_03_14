@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbf38856.chunk.css",
+    "main.css": "/static/css/main.fea5a6b8.chunk.css",
     "main.js": "/static/js/main.f0c75689.chunk.js",
     "main.js.map": "/static/js/main.f0c75689.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf1037cc.js",
@@ -9,10 +9,10 @@
     "static/js/2.5c85f09e.chunk.js": "/static/js/2.5c85f09e.chunk.js",
     "static/js/2.5c85f09e.chunk.js.map": "/static/js/2.5c85f09e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4c1d962e1105876437b2f92672715b59.js": "/precache-manifest.4c1d962e1105876437b2f92672715b59.js",
+    "precache-manifest.75b2ac9842c71c699dc820c6481d8dcf.js": "/precache-manifest.75b2ac9842c71c699dc820c6481d8dcf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.bbf38856.chunk.css.map": "/static/css/main.bbf38856.chunk.css.map",
+    "static/css/main.fea5a6b8.chunk.css.map": "/static/css/main.fea5a6b8.chunk.css.map",
     "static/js/2.5c85f09e.chunk.js.LICENSE.txt": "/static/js/2.5c85f09e.chunk.js.LICENSE.txt",
     "static/media/Bemutatkozo_Mobil.jpg": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg",
     "static/media/Bevetel2.PNG": "/static/media/Bevetel2.cb38f7cf.PNG",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.cf1037cc.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.5c85f09e.chunk.js",
-    "static/css/main.bbf38856.chunk.css",
+    "static/css/main.fea5a6b8.chunk.css",
     "static/js/main.f0c75689.chunk.js"
   ]
 }
