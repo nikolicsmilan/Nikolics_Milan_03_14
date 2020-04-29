@@ -78,10 +78,7 @@
         font-weight: 900;
         padding:2%;
     }
-    .Akcio_ugy{
-        color:red;
-    }
-
+  
     .Ered_ugy_ar{
         text-decoration-line: line-through;
     }
@@ -130,9 +127,6 @@
         font-size: 2rem;
         font-weight: 900;
         padding:2%;
-    }
-    .Akcio_ugy{
-        color:red;
     }
 
     .Ered_ugy_ar{
@@ -251,10 +245,6 @@
         margin:0;
     }   
 
-    .Akcio_ugy {
-        color:red;
-    }
-
     .Ered_ugy_ar {
         text-decoration-line: line-through;
     }
@@ -354,16 +344,10 @@
         margin:0;
     }  
 
-    .Akcio_ugy{
-        color:red;
-        border: 2px solid red;
-        border-radius: 10px;       
-        box-shadow: 0px 0px 5px red;
-    }
-
     .Ered_ugy_ar{
         text-decoration-line: line-through;
     }
+
    .Csok_ugy_ar{
        color:red;
        padding-left: 2%;
@@ -449,15 +433,7 @@
         letter-spacing: -1px;        
     } 
 
-     .Akcio_ugy {
-        color:red;
-        border: 2px solid red;
-        border-radius: 10px;       
-        box-shadow: 0px 0px 10px red;
-      
-    }
-
-    .Ered_ugy_ar{
+   .Ered_ugy_ar{
         text-decoration-line: line-through;
     }
 
@@ -547,14 +523,7 @@
         letter-spacing: -0.5px;      
     }
 
-     .Akcio_ugy {
-        color:red;
-        border: 2px solid red;
-        border-radius: 10px;       
-        box-shadow: 0px 0px 10px red;
-    }
-
-    .Ered_ugy_ar{
+   .Ered_ugy_ar{
         text-decoration-line: line-through;
     }
 
@@ -644,21 +613,7 @@
         letter-spacing: normal;        
     }
 
-     .Akcio_ugy {
-        color:red;
-       /* border: 2px solid red;*/
-        border-radius: 10px;       
-       /* box-shadow: 0px 0px 10px red;*/
-       /* -ms-transform: translate(50px,100px); /* IE 9 */
-      /*  transform: translate(px,100px); /* Standard syntax */
-        /*-ms-transform: translate(50px,100px); /* IE 9 */
-       /* transform: translate(0px,-200px); /* Standard syntax */
-       /* -ms-transform: rotate(-18deg); /* IE 9 */
-      /*  transform: rotate(0deg); /* Standard syntax */
-        
-    }
-
-    .Ered_ugy_ar{
+   .Ered_ugy_ar{
         text-decoration-line: line-through;
     }
 

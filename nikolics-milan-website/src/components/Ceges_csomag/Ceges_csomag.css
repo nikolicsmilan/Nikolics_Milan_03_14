@@ -1,5 +1,15 @@
 /* 0. Mini SmartPhones ELEJE*/
 @media (min-width: 120px) and (max-width: 319px) {
+  
+  .akcio_ceg {
+    /*border:3px solid red;*/
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: 900;
+    min-height: 2.5rem;
+    max-height: 2.5rem;
+    color:red;
+   } 
 
     .Ceges_csomag_egesz{
       display: flex;
@@ -28,6 +38,17 @@
   
   /* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
   @media (min-width: 320px) and (max-width: 480px) {
+   
+    .akcio_ceg {
+      /*border:3px solid red;*/
+      text-align: center;
+      font-size: 1.6rem;
+      font-weight: 900;
+      min-height: 2.5rem;
+      max-height: 2.5rem;
+      color:red;
+     } 
+
     .Ceges_csomag_egesz{
       display: flex;
       flex-direction: column;
@@ -56,6 +77,17 @@
   
   /* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
   @media (min-width: 481px) and (max-width: 767px) {
+
+    .akcio_ceg {
+      /*border:3px solid red;*/
+      text-align: center;
+      font-size: 1.6rem;
+      font-weight: 900;
+      min-height: 2.5rem;
+      max-height: 2.5rem;
+      color:red;
+     } 
+
     .Ceges_csomag_egesz{
       display: flex;
       flex-direction: column;
@@ -89,6 +121,17 @@
   
   /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
   @media (min-width: 768px) and (max-width: 1024px) {
+
+    .akcio_ceg {
+      /*border:3px solid red;*/
+      text-align: center;
+      font-size: 3rem;
+      font-weight: 900;
+      min-height: 4rem;
+      max-height: 4rem;
+      color:red;
+     } 
+
     .Ceges_csomag_egesz{
       display: flex;
       flex-direction: column;
@@ -124,6 +167,17 @@
   
   /* 4. Tablets, Ipads (landscape) ELEJE*/
   @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+   
+    .akcio_ceg {
+      /*border:3px solid red;*/
+      text-align: center;
+      font-size: 1.6rem;
+      font-weight: 900;
+      min-height: 2.5rem;
+      max-height: 2.5rem;
+      color:red;
+     } 
+   
     .Ceges_csomag_egesz{
       display: flex;
       flex-direction: column;
@@ -159,6 +213,17 @@
   
   /* 5. Laptops, Desktops ELEJE  */
   @media (min-width: 1025px) and (max-width: 1280px) {
+
+    .akcio_ceg {
+       /* border:3px solid red;*/
+       text-align: center;
+       font-size: 2rem;
+       font-weight: 900;
+       min-height: 3rem;
+       max-height: 3rem;
+       color:red;
+      } 
+
     .Ceges_csomag_egesz{
       display: flex;
       flex-direction: column;
@@ -196,6 +261,17 @@
   /* 6. Higher resolution desktops ELEJE*/
   
   @media (min-width: 1281px) {
+   
+    .akcio_ceg {
+     /*border:3px solid red;*/
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 900;
+    min-height: 4rem;
+    max-height: 4rem;
+    color:red;
+     } 
+
     .Ceges_csomag_egesz{
       display: flex;
       flex-direction: column;
@@ -234,6 +310,17 @@
   /* 7. Larger screen ELEJE*/
   
   @media screen and (min-width: 1400px) {
+    
+    .akcio_ceg {
+       /*border:3px solid red;*/
+      text-align: center;
+      font-size: 2.5rem;
+      font-weight: 900;
+      min-height: 4rem;
+      max-height: 4rem;
+      color:red;
+      } 
+
     .Ceges_csomag_egesz{
       display: flex;
       flex-direction: column;

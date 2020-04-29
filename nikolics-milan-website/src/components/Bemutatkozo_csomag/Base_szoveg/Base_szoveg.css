@@ -489,7 +489,7 @@
 
 @media screen and (min-width: 1600px) {
 
-    .Base_szoveg_egesz_bem {
+   .Base_szoveg_egesz_bem {
         display:flex;
         flex-direction: column;
         text-align: center;  

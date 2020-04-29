@@ -13,6 +13,11 @@ const Ceges_csomag = props => {
       };    
       
       return (
+         <div>
+                <div className="akcio_ceg">
+                <h1></h1>
+                </div>
+
                 <div className="Ceges_csomag_egesz">
                    <Base_szoveg></Base_szoveg>
                    <div className="Ceges_csomag_alja">
@@ -23,6 +28,8 @@ const Ceges_csomag = props => {
                       <Bem_csom_tul></Bem_csom_tul>
                    </div>
                 </div>
+
+         </div>
 
 
 

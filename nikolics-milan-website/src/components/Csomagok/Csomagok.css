@@ -167,7 +167,7 @@
 @media (min-width: 1600px) {
 
     .Csomagok_egesz{
-           /*border: 3px dashed black;*/
+          /* border: 3px dashed black;*/
            display: flex;
            flex-direction: row;
            justify-content: space-between;

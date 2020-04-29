@@ -14,6 +14,11 @@ const Bemutatkozo_csomag = props => {
       };    
       
       return (
+        <div>
+                <div className="akcio_bem">
+                    <h1> </h1>
+                </div>
+       
                 <div className="Bemutatkozo_csomag_egesz">
                         <Base_szoveg></Base_szoveg>
                          <div className="Bemutatkozo_csomag_alja">
@@ -26,7 +31,7 @@ const Bemutatkozo_csomag = props => {
                 </div>
 
 
-
+        </div>
       )
 
 }

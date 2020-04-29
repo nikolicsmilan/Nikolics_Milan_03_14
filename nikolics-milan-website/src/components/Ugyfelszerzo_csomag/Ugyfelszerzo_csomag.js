@@ -15,7 +15,10 @@ const Ugyfelszerzo_csomag = props => {
       
       return (
 
-         <div>         
+         <div>    
+               <div className="akcio_ugy">
+                <h1>EXTRÉM AKCIÓ! </h1>
+                </div>     
                 <div className="Ugyfelszerzo_csomag_egesz">
                    <Base_szoveg></Base_szoveg>
                    <div className="Ugyfelszerzo_csomag_alja">

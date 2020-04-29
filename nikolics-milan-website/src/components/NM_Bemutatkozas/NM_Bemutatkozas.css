@@ -1460,35 +1460,20 @@
 .Bold_kontener {
   display: flex;
   flex-direction: row;
- /* border:3px solid red;*/
   justify-content: center;
   width:100%;
-
-  /* Vonal*/ 
   margin-top:0rem;
-  
-  /*Négyzet*/
-  /*margin-top: 0rem;*/
-
-  /*Kör*/
 }
 
 .NM_Bemutat_szoveg_bold {
     display: flex;
     justify-content: center;
-    font-weight: bold;
-     
+    font-weight: bold;     
     width:100%;
-    /*border: 6px solid orange;*/
     padding: 0;
-    /*padding-left: 2%;*/
-    font-size: 3vw;
-    
-   /* Vonal*/ 
-   line-height:5rem;  
-
-  /*Kör*/
-}
+    font-size: 3rem;
+    line-height:5rem; 
+   }
 
 .NM_kep_2 {
     display: flex;

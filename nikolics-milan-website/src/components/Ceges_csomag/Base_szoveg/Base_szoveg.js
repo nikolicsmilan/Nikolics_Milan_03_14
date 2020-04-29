@@ -6,6 +6,7 @@ import './Base_szoveg.css';
 const Base_szoveg = props =>{
 
     return(
+            
 
 <div className="Base_szoveg_egesz_ceg">
 

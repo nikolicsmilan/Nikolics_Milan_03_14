@@ -7,8 +7,9 @@ const Base_szoveg = props =>{
 
     return(
 
-<div className="Base_szoveg_egesz_bem">
 
+<div className="Base_szoveg_egesz_bem">
+     
      <div className="Csomag_cim_bem">
               <h1>BEMUTATKOZÓ</h1>            
     </div>
@@ -32,7 +33,7 @@ const Base_szoveg = props =>{
      </div>        
 </div>
 
-     
+
       
 
 
