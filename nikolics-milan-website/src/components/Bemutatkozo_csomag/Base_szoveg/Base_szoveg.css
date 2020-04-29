@@ -157,15 +157,23 @@
 
     .Csomag_cim_bem {
         display:flex;
-        flex-direction: row;
         justify-content: center;
         color: rgba(47,218,241,.87);
-        color:rgba(40, 164, 241, 0.938);
         color:rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
         padding:2%;   
     }
+
+    .Csomag_cim_bem h1 {    
+        padding-top: 1rem;
+         border: 2px solid rgba(47,218,241,.87);
+         border:3px solid rgba(40, 164, 241, 0.938);
+         border-radius: 3%;
+         width:17rem;
+         height: 4rem;
+         padding-bottom: 3%;
+    }   
 
     .keret_bem {
         border-radius: 20px;
@@ -176,34 +184,24 @@
         padding-bottom: 3%;
     }
 
-    .Csomag_cim_bem h1 {    
+    .Csomag_ar_bem {
         display:flex;
         flex-direction: column;
-        justify-content: center;   
-        border: 2px solid rgba(47,218,241,.87);
-        border:2px solid rgba(40, 164, 241, 0.938);
-        border-radius: 3%;
-        width:17rem;
-        height: 3rem;
-    }   
-
-     .Csomag_ar_bem {
-        display:flex;
-        flex-direction: column;
+        justify-content: space-around;
         align-items: center;
-        line-height: 1.1rem;
-        font-size: 1.5rem;
+        line-height: 2rem;
+        font-size: 2rem;
         font-weight: 900;
         padding-top:3%;
         padding-bottom: 3%;
         padding-left:2%;
         padding-right:2%;
-       /* padding-top: 1rem;*/
+        padding-top: 2rem;
        /* border: 3px solid red;*/
         min-height: 2rem;
         max-height: 2rem;
       /*  min-width: 25rem;
-        max-width: 25rem;*/      
+        max-width: 25rem;*/    
     }    
 
     .Csomag_leiras_bem {

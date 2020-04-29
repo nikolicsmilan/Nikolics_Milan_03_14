@@ -44,8 +44,9 @@
 
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) {
+    
     .Csomagok_egesz{
-       /* border: 3px dashed black;*/
+      /* border: 3px dashed black;*/
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -59,16 +60,13 @@
     }
     
     .Csomag_doboz{
-       padding:5%;
-       /* margin:1%;*/
-        margin-bottom:1%;
+        /* margin:1%;*/
+        margin-bottom:3%;
        /* border: 3px solid red;*/
        /* max-width:30rem;*/
-       width:70%;
+       width:65%;
     }
- 
-  
-}
+  }
 
 /* 3. Device = Tablets, Ipads (portrait) VÉGE*/
 
@@ -92,7 +90,7 @@
        padding:0.5%;
        /* margin:1%;*/
         margin-bottom:15%;
-       /* border: 3px solid red;*/
+        /*border: 3px solid orange;*/
        /* max-width:30rem;*/
        width:33%;
     }

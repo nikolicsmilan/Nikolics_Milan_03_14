@@ -17,7 +17,6 @@ const Base_szoveg = props =>{
         </div>
 <div className="keret_ugy">
         <div className="Csomag_ar_ugy">
-                <h1 className="Akcio_ugy"> EXTRÉM AKCIÓ!</h1>
                 <h1 className="Ered_ugy_ar">800 000 HUF</h1>
                 <h1 className="Csok_ugy_ar">550 000 HUF</h1>
         </div>
