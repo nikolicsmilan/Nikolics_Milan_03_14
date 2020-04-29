@@ -10,7 +10,7 @@
     
     .Csomag_cim_bem{
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         /*31C1F5*/
         font-size: 2.2rem;
         font-weight: 900;
@@ -62,7 +62,7 @@
     
     .Csomag_cim_bem{
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         /*31C1F5*/
         font-size: 2.2rem;
         font-weight: 900;
@@ -110,7 +110,7 @@
     
     .Csomag_cim_bem{
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         font-size: 2.2rem;
         font-weight: 900;
         padding:2%;
@@ -160,7 +160,7 @@
         flex-direction: row;
         justify-content: center;
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         color:rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
@@ -250,7 +250,7 @@
         flex-direction: row;
         justify-content: center;
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         color:rgba(40, 164, 241, 0.938);
         font-size: 1.5rem;
         font-weight: 900;
@@ -340,7 +340,7 @@
         flex-direction: row;
         justify-content: center;
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         color:rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
@@ -395,10 +395,10 @@
         line-height: 3rem;*/
       /*  width:25rem;*/
         /*border: 3px solid yellow;*/
-        text-align: justify; 
+        text-align: left; 
         line-height: 1.5rem;
         font-size: 1.2rem; 
-        letter-spacing: -0.5px;        
+        letter-spacing: -1px;        
     }  
 }
 
@@ -421,7 +421,7 @@
         flex-direction: row;
         justify-content: center;
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         color: rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
@@ -502,7 +502,7 @@
         flex-direction: row;
         justify-content: center;
         color: rgba(47,218,241,.87);
-        color:rgba(49,193,245);
+        color:rgba(40, 164, 241, 0.938);
         color: rgba(40, 164, 241, 0.938);
         font-size: 2rem;
         font-weight: 900;
@@ -558,7 +558,7 @@
        /*  width:25rem;*/
         /*border: 3px solid yellow;*/
         text-align: justify; 
-        line-height: 2rem;
+        line-height: 1.9rem;
         font-size: 1.4rem; 
         letter-spacing: normal;        
     }

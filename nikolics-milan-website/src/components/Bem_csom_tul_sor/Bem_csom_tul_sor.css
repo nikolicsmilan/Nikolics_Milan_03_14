@@ -207,7 +207,7 @@
 
 /* 6. Higher resolution desktops ELEJE*/
 
-@media (min-width: 1281px) and (max-width:1599px) {
+@media (min-width: 1281px) and (max-width:1599px) { 
     .Bem_csom_tul_sor_egesz {
         display: flex;
         flex-direction: column;
@@ -223,25 +223,26 @@
          display: flex;
          align-items: center;
          justify-content: space-between;  
-        /*border:3px solid yellow; */
+        /*border:3px solid purple;*/
+        height:1.5rem;
          }
         
         .info_kontener {
         display: flex;
-        width:15rem;
+        width:20rem;
         align-items: center;
-        /* border:3px solid yellow; */
+        /*  border:3px solid yellow; */
         font-weight: 500;
         font-size: 1rem;
           }
         
         .info_gomb {
-        width:2.5rem;
+        width:1.5rem;
         margin-right: 1%;
         }
         
         .felirat {
-        font-size: 1.2rem;
+        font-size: 1rem;
         }
     
         .hidden {
@@ -252,15 +253,12 @@
         width:2rem;
         float:left;
         }
-  
-  
 }
 
 /* 6. Higher resolution desktops VÉGE*/
 
 
 /* 7. Larger screen ELEJE*/
-
 @media screen and (min-width: 1600px) {
 
     .Bem_csom_tul_sor_egesz {
@@ -278,20 +276,21 @@
      display: flex;
      align-items: center;
      justify-content: space-between;  
-    /*border:3px solid yellow; */
+    /*border:3px solid purple;*/
+    height:1.5rem;
      }
     
     .info_kontener {
     display: flex;
-    width:15rem;
+    width:20rem;
     align-items: center;
-    /* border:3px solid yellow; */
+    /*  border:3px solid yellow; */
     font-weight: 500;
     font-size: 1rem;
       }
     
     .info_gomb {
-    width:2.5rem;
+    width:1.5rem;
     margin-right: 1%;
     }
     
@@ -304,9 +303,8 @@
     }  
 
     .pipa {
-    width:2rem;
+    width:1.8rem;
     float:left;
     }
 }
-
 /*Larger screen VÉGE*/
