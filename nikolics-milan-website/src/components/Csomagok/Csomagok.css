@@ -29,17 +29,31 @@
 /* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
 @media (min-width: 481px) and (max-width: 767px) {
   
-  
-
+    .Csomagok_egesz{
+        /* border: 3px dashed black;*/
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          /*padding:1%;
+          margin:1%;*/
+          flex-grow: 1;
+          width:100%;
+          padding:0;
+          margin:0;
+      }
+      
+      .Csomag_doboz{
+          /* margin:1%;*/
+          margin-bottom:3%;
+         /* border: 3px solid red;*/
+         /* max-width:30rem;*/
+         width:65%;
+      } 
 }
 
 
 /* 2. Low Resolution Tablets, Mobiles (Landscape) VÉGE*/
-
-
-
-
-
 
 
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
