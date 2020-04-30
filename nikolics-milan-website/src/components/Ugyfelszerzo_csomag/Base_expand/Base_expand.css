@@ -294,22 +294,24 @@
     .Button_kontener_ugy {
         display:flex;
         justify-content: center;
-        width:9rem;
-        padding-bottom: 4%;
-        /*border: 3px solid red;*/
+        width:11rem;
+        margin-top: 4%;
+        margin-bottom: 4%;
+       /* border: 3px solid red;*/
     }
     
     .button_ugy {
-        /*border: 3px solid blue;*/
-        color:white;
+       /*border: 3px solid blue;*/
+       color:white;
        /* background-color: rgb(100, 250, 2);*/
         background-color: rgba(40, 164, 241, 0.938);
         border:1px solid rgba(40, 164, 241, 0.938);      
-        width:7rem;
-        height:2rem;
+        width:9rem;
+        height:2.5rem;
         border-radius: 5%;
         opacity: 1;
         margin-top: 1rem;
+        font-size: 1.5rem;
         /*Nagyobb Button*/
       /*  width:9rem;
         height:3rem;
