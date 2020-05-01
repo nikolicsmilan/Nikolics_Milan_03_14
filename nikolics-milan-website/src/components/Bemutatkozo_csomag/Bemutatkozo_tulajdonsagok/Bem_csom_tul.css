@@ -264,7 +264,7 @@
   .Bem_appear {
     position: absolute;
     background-color: whitesmoke;
-    height:5rem;  
+    height:11rem;  
     width:15rem;  
     left:5rem;
     z-index: 10000;
@@ -272,6 +272,8 @@
     border-radius:2%;
     margin-left: 0px;
     margin-top: 2rem;
+    line-height: 1rem;
+    padding:1%;
   }
 
   .Bem_appear p {

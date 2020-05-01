@@ -232,16 +232,17 @@
          align-items: center;
          justify-content: space-between;  
          /*border:3px solid red; */
-         height: 1.5rem;
+         height: 2rem;
          }
         
         .info_kontener {
         display: flex;
-        width:15rem;
+        width:25rem;
         align-items: center;
-        /*border:3px solid yellow; */
-        font-weight: 500;
-        font-size: 1rem;
+       /* border:3px solid yellow; */
+        line-height: 1.2rem;
+        font-size: 1.2rem; 
+        letter-spacing: -1px; 
         }
         
         .info_gomb {
@@ -250,7 +251,9 @@
         }
         
         .felirat {
-        font-size: 0.8rem;
+          line-height: 1.2rem;
+          font-size: 1rem; 
+          letter-spacing: -1px; 
         }
     
         .hidden {

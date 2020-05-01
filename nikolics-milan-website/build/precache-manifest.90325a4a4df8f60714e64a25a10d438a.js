@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c96922985fe92bd2682a00eaec38d4dc",
+    "revision": "db12cc40dbc55b9e77ece54ffb150abf",
     "url": "/index.html"
   },
   {
-    "revision": "997e9c9b840831df77d6",
+    "revision": "606b6b05dc95dc2f8063",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "78572c79a7fbc1c513df",
-    "url": "/static/css/main.9a1cc30e.chunk.css"
+    "revision": "e1ed89a55b7cc11b7588",
+    "url": "/static/css/main.8a7b9a6c.chunk.css"
   },
   {
-    "revision": "997e9c9b840831df77d6",
-    "url": "/static/js/2.5c85f09e.chunk.js"
+    "revision": "606b6b05dc95dc2f8063",
+    "url": "/static/js/2.ff0be81f.chunk.js"
   },
   {
     "revision": "6a7903cba7c07c04b74cefcf79c6a3f5",
-    "url": "/static/js/2.5c85f09e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ff0be81f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78572c79a7fbc1c513df",
-    "url": "/static/js/main.1bdff5fe.chunk.js"
+    "revision": "e1ed89a55b7cc11b7588",
+    "url": "/static/js/main.b36d11d1.chunk.js"
   },
   {
     "revision": "2301f6121dd8c2d6a3d3",
     "url": "/static/js/runtime-main.cf1037cc.js"
+  },
+  {
+    "revision": "1bb60dd759051af9828cdd2c8535e02d",
+    "url": "/static/media/Bemutat_egesz_kep2.1bb60dd7.PNG"
   },
   {
     "revision": "986fe0a4e9e69a1d00f2d53e648672fc",

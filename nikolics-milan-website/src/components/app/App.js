@@ -6,7 +6,8 @@ import Route from 'react-router-dom/Route';
 import { HashLink as Link } from 'react-router-hash-link';
 import NM_NavBar from '../NM_NavBar/NM_NavBar';
 import NM_Bemutatkozas from '../NM_Bemutatkozas/NM_Bemutatkozas';
-import NM_Bemutatkozas_2 from '../NM_Bemutatkozas_2/NM_Bemutatkozas_2'
+import NM_Bemutatkozas_2 from '../NM_Bemutatkozas_2/NM_Bemutatkozas_2';
+import Bemutat_egesz_kep2 from '../Bemutat_egesz_kep/Bemutat_egesz_kep2';
 import Bemutatkozo_csomag from '../Bemutatkozo_csomag/Bemutatkozo_csomag';
 import Kapcsolat from '../Kapcsolat/Kapcsolat';
 
@@ -29,8 +30,9 @@ class App extends Component {
               <Route path="/" component={NM_NavBar}/>
           </div>
           <div className="App_egesz-body">
-              <Route exact path="/" component={NM_Bemutatkozas_2}/>
-              <Route exact path="/" component={Csomagok}/>         
+              <Route exact path="/" component={NM_Bemutatkozas_2}/>           
+              <Route exact path="/" component={Csomagok}/> 
+              <Route exact path="/" component={Bemutat_egesz_kep2}/>       
               <Route path="/Kapcsolat" component={Kapcsolat}/>
          </div>  
         
