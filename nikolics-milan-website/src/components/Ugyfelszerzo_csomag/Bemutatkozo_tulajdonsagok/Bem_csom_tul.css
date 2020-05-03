@@ -156,20 +156,20 @@
 
 @media (min-width: 1600px) {
   .Ugy_appear{
-    position: absolute;
-    background-color: whitesmoke;
-    height:7rem;  
-    width:22rem;  
-    left:5rem;
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 1350px;
+    position: absolute;
+    justify-content: center;
+    left:5rem;
+    height:12rem;  
+    width:30rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 1050px;
     margin-top: 2rem;
+    padding:0.2%;
   }
-
-
-
 }
 
 /* 7. Larger screen VÉGE*/

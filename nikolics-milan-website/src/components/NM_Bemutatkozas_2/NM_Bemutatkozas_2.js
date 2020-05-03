@@ -5,6 +5,7 @@ import bevetel from './../../assets/SzovegKep/Bevetel2.PNG';
 import nepszeru from './../../assets/SzovegKep/Nepszeru2.PNG';
 import ugyfel from './../../assets/SzovegKep/Ugyfel2.PNG';
 import thinking from './../../assets/SzovegKep/thinking.PNG';
+import osztonzo from './../../assets/SzovegKep/osztonzo_szoveg.PNG';
 
 const NM_Bemutatkozas_2 = props => (
 
@@ -28,6 +29,9 @@ const NM_Bemutatkozas_2 = props => (
                             </div>
 
                             <div className="Osztonzo_szoveg_2">
+                            <img src={osztonzo} ></img>
+
+                                {/*
                                 <div className="Bold_kontener_2">
                                     <li className="NM_Bemutat_szoveg_bold_2" >Akkor jó helyen jár!</li>
                                 </div>
@@ -35,6 +39,7 @@ const NM_Bemutatkozas_2 = props => (
                                 <div className="Bold_kontener_2">                    
                                     <li className="NM_Bemutat_szoveg_bold_2" >Csak válasza ki melyik csomag illik leginkább az elképzeléseihez!</li> 
                                 </div>
+*/}
                             </div>
                         </ul>      
          </div>

@@ -32,7 +32,6 @@ class App extends Component {
           <div className="App_egesz-body">
               <Route exact path="/" component={NM_Bemutatkozas_2}/>           
               <Route exact path="/" component={Csomagok}/> 
-              <Route exact path="/" component={Bemutat_egesz_kep2}/>       
               <Route path="/Kapcsolat" component={Kapcsolat}/>
          </div>  
         

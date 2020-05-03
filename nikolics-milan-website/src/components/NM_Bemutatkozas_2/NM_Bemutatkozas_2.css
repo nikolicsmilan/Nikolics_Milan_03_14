@@ -784,12 +784,16 @@
   align-items: center;
   max-width:100%;
   width:100%;  
+ /* border: 50px ridge  rgba(40, 164, 241, 0.938);;
+  border-radius: 100%;
+  padding: 7%;*/
 }
 
 .Szoveg_focim_kontener_2 {
   display: flex;     
   justify-content: center;
   width:100%;
+  
   /* border: 3px solid red;*/
 }
  
@@ -799,6 +803,7 @@
   /* border:3px solid red;*/
    margin:0;
    padding: 0;
+   
 }
 
 .Szoveg-Kep_kontener_2 {
@@ -808,6 +813,7 @@
   width:100%;
   margin: 0;
   padding: 0;
+ 
 }    
 
 .Bemutat_szoveg_keret_ul_2 {
@@ -816,6 +822,7 @@
   width:100%;
   margin: 0;
   padding: 0;
+ 
 }
 
 .Li_kontener_2 {

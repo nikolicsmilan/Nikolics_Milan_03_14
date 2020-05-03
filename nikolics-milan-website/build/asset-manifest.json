@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a7b9a6c.chunk.css",
-    "main.js": "/static/js/main.b36d11d1.chunk.js",
-    "main.js.map": "/static/js/main.b36d11d1.chunk.js.map",
+    "main.css": "/static/css/main.2001c7c4.chunk.css",
+    "main.js": "/static/js/main.7feca7e0.chunk.js",
+    "main.js.map": "/static/js/main.7feca7e0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cf1037cc.js",
     "runtime-main.js.map": "/static/js/runtime-main.cf1037cc.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.ff0be81f.chunk.js": "/static/js/2.ff0be81f.chunk.js",
-    "static/js/2.ff0be81f.chunk.js.map": "/static/js/2.ff0be81f.chunk.js.map",
+    "static/js/2.f920003c.chunk.js": "/static/js/2.f920003c.chunk.js",
+    "static/js/2.f920003c.chunk.js.map": "/static/js/2.f920003c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.90325a4a4df8f60714e64a25a10d438a.js": "/precache-manifest.90325a4a4df8f60714e64a25a10d438a.js",
+    "precache-manifest.22a5d66bed74cf703383985cc8ed7294.js": "/precache-manifest.22a5d66bed74cf703383985cc8ed7294.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.8a7b9a6c.chunk.css.map": "/static/css/main.8a7b9a6c.chunk.css.map",
-    "static/js/2.ff0be81f.chunk.js.LICENSE.txt": "/static/js/2.ff0be81f.chunk.js.LICENSE.txt",
+    "static/css/main.2001c7c4.chunk.css.map": "/static/css/main.2001c7c4.chunk.css.map",
+    "static/js/2.f920003c.chunk.js.LICENSE.txt": "/static/js/2.f920003c.chunk.js.LICENSE.txt",
     "static/media/Bemutat_egesz_kep2.PNG": "/static/media/Bemutat_egesz_kep2.1bb60dd7.PNG",
     "static/media/Bemutatkozo_Mobil.jpg": "/static/media/Bemutatkozo_Mobil.986fe0a4.jpg",
     "static/media/Bevetel2.PNG": "/static/media/Bevetel2.cb38f7cf.PNG",
@@ -30,6 +30,7 @@
     "static/media/email-min.PNG": "/static/media/email-min.aa7faa1a.PNG",
     "static/media/info-gomb.svg": "/static/media/info-gomb.08f42893.svg",
     "static/media/nikolicsmilan_logo_9.png": "/static/media/nikolicsmilan_logo_9.a19b9f96.png",
+    "static/media/osztonzo_szoveg.PNG": "/static/media/osztonzo_szoveg.43a42860.PNG",
     "static/media/pipa2.svg": "/static/media/pipa2.586316b4.svg",
     "static/media/telefon-min.PNG": "/static/media/telefon-min.c32d6193.PNG",
     "static/media/thinking.PNG": "/static/media/thinking.df216860.PNG",
@@ -38,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf1037cc.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.ff0be81f.chunk.js",
-    "static/css/main.8a7b9a6c.chunk.css",
-    "static/js/main.b36d11d1.chunk.js"
+    "static/js/2.f920003c.chunk.js",
+    "static/css/main.2001c7c4.chunk.css",
+    "static/js/main.7feca7e0.chunk.js"
   ]
 }

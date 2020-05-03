@@ -60,13 +60,8 @@ setToogleState ({
                       
                     <div className="pipa">
                          <img src={props.kep} alt='pipa'/>
-                    </div>
-                          
-
-                  </div>
-
-                 
-
+                    </div>      
+                  </div>              
             </div>      
 
 
