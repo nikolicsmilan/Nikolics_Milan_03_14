@@ -24,17 +24,20 @@ const Base_expand = props =>{
         
         <div className={changing_class}>
        
-        Ennél jobb kinálatott nem fogsz találni a piacon!
-        ( A fenti ár csak a 6 havi SEO -t tartalmazza.)                          
-      Kétségtelen a legdrágább, de ugyanakor a legjobban megtérülő és leghasznosabb csomag egyben.
+      Ha az a célja hogy növelje bevételét akkor ez az ön csomagja.
+      Ennél jobb kínálatott nem fogsz találni a piacon!                            
+      Kétségtelen a legdrágább, de ugyanakor a legjobban 
+      megtérülő és leghasznosabb csomag egyben.
          
-      A SEO egy külön teljesen külön szakma/téma. Tájékozodni a részletekről a 
-      SEO aloldalon tud.
-      Ez a weboldal típus proaktív. Nem csak paszívan várja hogy 
-      valaki megtalálja hanem 
 
-      A SEOzás egy folyamat nem egyikről a másik napra.
+      <ul className="felsorol_ugy">
+        <li><span>Bevétel növekedés!</span></li>        
+        <li><span>Kiváló árértékarány</span></li>
+        <li><span>Részletekben is lehet fizetni. További információ a SEO aloldalon</span></li>      
+        </ul>   
+    
      
+    
         </div>
 
         <div className="Kep_start_ugy">

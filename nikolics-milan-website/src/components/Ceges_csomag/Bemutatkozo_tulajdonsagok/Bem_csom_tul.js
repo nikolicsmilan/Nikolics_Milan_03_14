@@ -12,7 +12,8 @@ const Bem_csom_tul = props => {
 
     return (
         <div className="Bem_csom_tul_egesz">
-            <Bem_csom_tul_sor
+           
+           <Bem_csom_tul_sor
                 kep={pipa2}
                 felirat='Egyedi tervezés'
                 felugro='Az ön weboldala egyedi tervezéssel készül így az 
@@ -82,7 +83,7 @@ const Bem_csom_tul = props => {
             ></Bem_csom_tul_sor>
             <Bem_csom_tul_sor
                   kep={pipa2}
-                felirat='Max 5 aloldal'
+                felirat='Max 10 aloldal'
                 felugro='Weboldala nem csupán egy főoldalból áll. Vállalkozásától függően több
                 aloldalra lehet szüksége, amiken főtéma több altémára van bontva.
                  A bemutatkozó csomagban 5 ilyen aloldalra van lehetőség. Ha ennél többre
@@ -91,7 +92,7 @@ const Bem_csom_tul = props => {
             ></Bem_csom_tul_sor>
              <Bem_csom_tul_sor
                 kep={pipa2}
-                felirat='Max 5 kép'
+                felirat='Max 10 kép'
                 felugro='Weboldalának megjelenésének minőségét jelentősen befolyásoljak a rajta
                  elhelyezett jól megválasztott képek. Ilyen magas minőségű
                  képeket lehet találni ingyenesen is, de nem biztos hogy passzolni fognak
@@ -105,7 +106,7 @@ const Bem_csom_tul = props => {
             ></Bem_csom_tul_sor>
              <Bem_csom_tul_sor
                 kep={pipa2}
-                felirat='1 Hónap Ingyenes Karbantartás'
+                felirat='2 Hónap ingyenes karbantartás'
                 felugro='Idővel biztosan szeretne kisebb nagyobb változatatásokat, frissítésket weblapján.
                 Weboldala olyan mint a gépjárműje: folyamatos karbantartásra szorul annak érdekében hogy
                 megfelelően műkdödjön. Az árak számos szempontól függnek például a változtatások típusa,
@@ -114,7 +115,7 @@ const Bem_csom_tul = props => {
                 appear='Ceg_appear'  
             ></Bem_csom_tul_sor>
              <Bem_csom_tul_sor
-                kep={xa}
+                kep={pipa2}
                 felirat='Emelt szintű design'
                 felugro='Weboldalát alapesetben 3 nézetre optimalizáljuk. Mobil, Tablet és Desktop.
                 Ezt az opciót vlasztva ez a szám 7- re emelkedik hogy weboldala a lehető legtöbb
@@ -123,7 +124,7 @@ const Bem_csom_tul = props => {
                  appear='Ceg_appear'  
             ></Bem_csom_tul_sor>
              <Bem_csom_tul_sor
-                kep={xa}
+                kep={pipa2}
                 felirat='Céges logó'
                 felugro='Egy logó igazán egyedivé, könnyen felismerhetővé teheti 
                 vállalkozását, weblapját. Fontos része cége kommunikációs eszköztárának.
@@ -133,7 +134,7 @@ const Bem_csom_tul = props => {
             ></Bem_csom_tul_sor>
              
              <Bem_csom_tul_sor
-                kep={xa}
+                kep={pipa2}
                 felirat='Üzenet küldő rendszer'
                 felugro='Ez tulajdonképen egy form amit a weboldalon kitöltve a látogató képes 
                 üzenetet küldeni önnek egy tetszőleges gmail címre. De ennél több. Sok ilyen form
@@ -143,8 +144,8 @@ const Bem_csom_tul = props => {
                 appear='Ceg_appear'  
             ></Bem_csom_tul_sor>
               <Bem_csom_tul_sor
-                kep={xa}
-                felirat='Közöségi Média Kapcsolat'
+                kep={pipa2}
+                felirat='Közöségi média kapcsolat'
                 felugro='Weboldala összeköttetésben van facebook oldalával.
                  Weboldala kommentelhetővé és lájkolhatóvá válik a facebook
                  fiókkal. A facebook messenger alkalmalazás chatbotként beépül 
@@ -153,7 +154,7 @@ const Bem_csom_tul = props => {
                 appear='Ceg_appear'  
             ></Bem_csom_tul_sor>
             <Bem_csom_tul_sor
-                kep={xa}
+                kep={pipa2}
                 felirat='Szövegírás'
                 felugro='A szövegírás kulcsfontoságú és egy külön "tudományágat" képvisel.
                 Ennél az opciónál két választási lehetősége van: vagy megadja

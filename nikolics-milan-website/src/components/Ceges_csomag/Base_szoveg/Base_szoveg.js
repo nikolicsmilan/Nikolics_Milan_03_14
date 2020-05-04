@@ -22,7 +22,7 @@ const Base_szoveg = props =>{
 
         <div className='Csomag_leiras_ceg'>
                 <div className='Szoveg_ceg'>          
-                Mindent tud, amit a Bemutatkozó weboldal.
+                Mindent tud, amit a bemutatkozó weboldal.
                  Haladó szintű weboldal, nagyobb igényű, dinamikusan fejlődőni vágyó
                  vállalkozások számára lett kifejlesztve.
                  Ha nem akar kompromiszumokat válasza ezt a típust.           

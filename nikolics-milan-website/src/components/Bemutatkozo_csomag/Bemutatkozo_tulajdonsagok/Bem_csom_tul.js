@@ -106,7 +106,7 @@ const Bem_csom_tul = props => {
             ></Bem_csom_tul_sor>
              <Bem_csom_tul_sor
                 kep={pipa2}
-                felirat='1 Hónap Ingyenes Karbantartás'
+                felirat='1 Hónap ingyenes karbantartás'
                 felugro='Idővel biztosan szeretne kisebb nagyobb változatatásokat, frissítésket weblapján.
                 Weboldala olyan mint a gépjárműje: folyamatos karbantartásra szorul annak érdekében hogy
                 megfelelően műkdödjön. Az árak számos szempontól függnek például a változtatások típusa,
@@ -145,7 +145,7 @@ const Bem_csom_tul = props => {
             ></Bem_csom_tul_sor>
               <Bem_csom_tul_sor
                 kep={xa}
-                felirat='Közöségi Média Kapcsolat'
+                felirat='Közöségi média kapcsolat'
                 felugro='Weboldala összeköttetésben van facebook oldalával.
                  Weboldala kommentelhetővé és lájkolhatóvá válik a facebook
                  fiókkal. A facebook messenger alkalmalazás chatbotként beépül 

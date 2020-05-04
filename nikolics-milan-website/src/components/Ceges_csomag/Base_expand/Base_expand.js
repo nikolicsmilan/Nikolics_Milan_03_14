@@ -23,22 +23,19 @@ const Base_expand = props =>{
 
         
         <div className={changing_class}>
-       
-        Ha menő akar lenni. Ha nagyon profi akar lenni.
-        Interaktív weboldal. Ha nem elégszel meg az
-        alapszolgáltatással. És nem tud vagy lusta szöveget
-        írni.
-        Két irányú kommunikációt biztosít Ön és ügyfelei között.
-                 Emelt szintű design elemeket és karbantartást tartalmaz valamint céges logót.
-                Nem kell Önnek kitatlálni weboldala szövegezését sem.
-        
+          Azon cégeknek akik szeretnék modernizálni vállalkozásukat, 
+          megtartani a versenyképességüket és nem elégszenek meg csupán
+          az alapszolgáltatásokkal. Ehhez a következőket nyújtjunk:
+                   
 
         <ul className="felsorol_ceg">
-          <li><span>Kétoldalú kommunikáció</span></li>
-          <li><span>Több aloldal</span></li>
-          <li><span>Több kép</span></li>
-          <li><span>Üzenetküldő rendszer amit nagyon nehéz volt megcsinálni.</span></li>
-          <li><span>Facebook chatbot!!!</span></li>
+        <li><span>Weblapja kiemelkedik a többi közül tartalmában és megjelenésében</span></li>        
+        <li><span>Azonali üzenet küldés lehetőségét ügyfeleinek</span></li>
+        <li><span>Szövegírást és céges logót</span></li>
+        <li><span>Meghosszabbítot ingyenes karbantartást és több profi képet</span></li>
+        <li><span>Weblapját összekapcsoljuk facebook oldalával</span></li>
+      
+         
         </ul>                
               
         </div>
