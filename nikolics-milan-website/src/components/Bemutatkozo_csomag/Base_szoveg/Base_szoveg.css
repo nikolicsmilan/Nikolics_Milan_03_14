@@ -312,11 +312,11 @@
     }
 
     .Csomag_cim_bem h1 {      
-       /* padding-top: 1rem;*/
+        padding-top: 0.5rem;
         border: 2px solid rgba(47,218,241,.87);
         border:2px solid rgba(40, 164, 241, 0.938);
         border-radius: 3%;
-        width:17rem;
+        width:14rem;
         height: 3rem;
         padding-bottom: 3%;
     }   
@@ -360,8 +360,8 @@
         /*border: 3px solid yellow;*/
         text-align: left; 
         line-height: 1.2rem;
-        font-size: 1.2rem; 
-        letter-spacing: -1px; 
+        font-size: 1.1rem; 
+        letter-spacing: -1.1px; 
         padding:0;
         margin:0;
     }  

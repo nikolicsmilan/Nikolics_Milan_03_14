@@ -113,19 +113,20 @@
 /* 5. Laptops, Desktops ELEJE  */
 @media (min-width: 1025px) and (max-width: 1280px) {
   .Ceg_appear{
-    position: absolute;
-    background-color: whitesmoke;
-    height:10rem;  
-    width:20rem;  
-    left:5rem;
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 440px;
-    margin-top: 2rem;
-  }
-  
-  
+    position: absolute;
+    justify-content: center;
+    left:5rem;
+    height:13rem;  
+    width:30rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 400px;
+    margin-top: 2.5rem;
+    padding:0.2%;
+  } 
 }
 /* 5. Laptops, Desktops VÉGE  */
 

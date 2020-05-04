@@ -118,7 +118,7 @@ const Bem_csom_tul = props => {
                 kep={xa}
                 felirat='Emelt szintű design'
                 felugro='Weboldalát alapesetben 3 nézetre optimalizáljuk. Mobil, Tablet és Desktop.
-                Ezt az opciót vlasztva ez a szám 7- re emelkedik hogy weboldala a lehető legtöbb
+                Ezt az opciót választva ez a szám 7- re emelkedik hogy weboldala a lehető legtöbb
                 eszközön optimálisan jelenjen meg. Ezenkívül weboladala kiegészülhet igény szerint
                 különböző grafikai elemmekkel például: Slider, Slidehsow, Animációk, Efektusok ...stb'
                  appear='Bem_appear'  
@@ -167,7 +167,7 @@ const Bem_csom_tul = props => {
                 kep={xa}
                 felirat='(SEO) 6 hónap'
                 felugro='Bevétel szerzés szempontjából a legfontosabb eleme weboldalának.
-                A SEO azaz a keresőmotor otimalizálás legdrágább ugyanakkor a leginkább 
+                A SEO azaz a keresőmotor optimalizálás legdrágább ugyanakkor a leginkább 
                 megtérülő része weblapjának. Akkora jelentőséggel bír mint egy autóban 
                 a motor. Részletek a SEO aloldalon.'
                 appear='Bem_appear'  
