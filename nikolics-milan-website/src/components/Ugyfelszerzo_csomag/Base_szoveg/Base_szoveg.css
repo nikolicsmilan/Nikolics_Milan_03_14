@@ -53,55 +53,98 @@
 
 /* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
 @media (min-width: 320px) and (max-width: 480px) {
-    .Base_szoveg_egesz_ugy{
+    .Base_szoveg_egesz_ugy {
         display:flex;
         flex-direction: column;
-        text-align: center;
-    }
-    
-    .Csomag_cim_ugy{
+        text-align: center;  
+        /*border: 3px dashed red;*/
+        max-height: 19rem;      
+    }   
+
+    .Csomag_cim_ugy {
+        display:flex;
+        justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(40, 164, 241, 0.938);
-        /*31C1F5*/
-        font-size: 2.2rem;
+        font-size: 1.8rem;
         font-weight: 900;
-        padding:2%;
+        padding-bottom: 5%;
+        /*border:3px solid red;*/
     }
 
-    .Csomag_cim_ugy h1{
-        font-size: 1.8rem;
-      
+    .Csomag_cim_ugy h1 {    
+        padding-top: 1rem;
+         border: 2px solid rgba(47,218,241,.87);
+         border:2px solid rgba(40, 164, 241, 0.938);
+         border-radius: 3%;
+         width:17rem;
+         height: 3rem;
+         padding: 0;
+         padding-top: 2%;
+         margin: 0;
+    }   
+
+    .keret_ugy {
+        border-radius: 20px;
+        border: 1px solid rgba(47,218,241,.87);
+        border:1px solid rgba(40, 164, 241, 0.938);
+        padding-left:2%;
+        padding-right: 2%;
+        padding-bottom: 3%;
     }
-    
-    .Csomag_ar_ugy{
+
+    .Csomag_ar_ugy {
+        display:flex;
+        flex-direction: column;
         justify-content: space-around;
+        align-items: center;
+        line-height: 1.5rem;
         font-size: 1.6rem;
         font-weight: 900;
-        padding:2%;
-    }
-  
-    .Ered_ugy_ar{
+        padding-top:3%;
+        padding-bottom: 5%;
+        padding-left:2%;
+        padding-right:2%;
+        padding-top: 2rem;
+       /* border: 3px solid red;*/
+        min-height: 2rem;
+        max-height: 2rem;
+      /*  min-width: 25rem;
+        max-width: 25rem;*/    
+    }    
+
+    .Csomag_leiras_ugy {
+        max-width: 100%;       
+        min-height: 9rem;
+        max-height: 9rem;
+         /* margin-top: 2%;*/
+       /*padding-bottom: 4%;*/
+       /* border: 3px solid red;*/       
+        padding:0;
+        padding-top: 5%;
+        margin:0;
+    }  
+
+    .Szoveg_ugy {
+       /* letter-spacing: -1.5px;
+        line-height: 3rem;*/
+      /*  width:25rem;*/
+        /*border: 3px solid yellow;*/
+        text-align: left; 
+        line-height: 1.2rem;
+        font-size: 1rem; 
+        letter-spacing: -0.5px; 
+        padding:0;
+        margin:0;
+    }  
+
+    .Ered_ugy_ar {
         text-decoration-line: line-through;
     }
-   .Csok_ugy_ar{
+
+   .Csok_ugy_ar {
        color:red;
-       padding-left: 2%;
-   }
-    
-    .Csomag_leiras_ugy{
-        max-width: 100%;
-        margin-top: 2%;
-        font-size: 4vw;  
-        text-align: justify;
-        padding:2%;
-        padding-bottom: 4%;   
-       /*border: 3px solid red;*/
-    }
-    .Csomag_leiras_ugy p{
-        line-height: 1.4rem;
-    
-    }
-    
+   }  
     
   }
 

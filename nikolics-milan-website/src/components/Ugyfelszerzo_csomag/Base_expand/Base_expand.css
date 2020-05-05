@@ -91,76 +91,73 @@
 /* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
 @media (min-width: 320px) and (max-width: 480px) {
   
-.close_sidedrawer_ugy{
+    .close_sidedrawer_ugy {
         display:none;
     }
     
-    .open_sidedrawer_ugy{
-        margin-top: 2%;
-        font-size: 4vw;
-        line-height: 1.2rem;
-        text-align: justify;
-        padding-top:2%;
-        padding-bottom: 4%;
-        max-width: 100%;
+    .open_sidedrawer_ugy   {           
         border:1px dashed rgba(40, 164, 241, 0.938);
-        border-radius: 3%;
-        margin-bottom:2%; 
-        padding-left: 2%;
-        padding-right: 2%;
+        border: 3px dashed rgba(40, 164, 241, 0.938);
+        text-align: left; 
+        line-height: 1.2rem;
+        font-size: 1.1rem; 
+        letter-spacing: -0.5px; 
+        padding:2%;
+        margin-bottom:1%;
+        }
        
-    }
-    
-    .open_sidedrawer_ugy p{
-        line-height: 1.5rem;
-    }
-    
-    .Base_expand_egesz_ugy{
+    .Base_expand_egesz_ugy {
         display: flex;
         flex-direction: column;  
         align-items: center;
         /*border:3px solid red;*/
     }
     
-    .Button_kontener_ugy{
+    .Button_kontener_ugy {
         display:flex;
         justify-content: center;
-        width:7rem;
-        padding-bottom: 4%;
-        /*border: 3px solid red;*/
-      
+        width:11rem;
+      /*  margin-top: 2%;*/
+        margin-bottom: 3%;
+       /* border: 3px solid red;*/
     }
     
-    .button_ugy{
+    .button_ugy {
+        /*border: 3px solid blue;*/
         color:white;
-        /* background-color: rgb(100, 250, 2);*/
-         background-color: rgba(40, 164, 241, 0.938);
-         border:1px solid rgba(40, 164, 241, 0.938);
-         width:5.3rem;
-         height:1.6rem;
-         border-radius: 5%;
-         opacity: 0.7;
-         font-size: 1rem;
+       /* background-color: rgb(100, 250, 2);*/
+        background-color: rgba(40, 164, 241, 0.938);
+        border:1px solid rgba(40, 164, 241, 0.938);      
+        width:7rem;
+        height:1.8rem;
+        border-radius: 5%;
+        opacity: 1;
+        margin-top: 1rem;
+        font-size: 1.1rem;
+        /*Nagyobb Button*/
+      /*  width:9rem;
+        height:3rem;
+        font-size: 1.3rem; */    
     }
     
-    ul.felsorol_ugy {
+   ul.felsorol_ugy {
         list-style-type: circle;
         margin-left:3rem;
-        text-align: left;
-        margin-top:2%;
-        line-height: 2rem;
+        text-align: left; 
+        line-height: 1.2rem;
+        font-size: 1.1rem; 
+        letter-spacing: -0.5px; 
+       /* border: 3px solid red;*/
     }
     
-    li span {
+  li span {
         text-indent:-18px;
-    }
+    }   
     
-    
-    
-    .Kep_start_ugy{    
+ .Kep_start_ugy {    
         width: 100%;
     }
-    .Kep_start_ugy img {
+ .Kep_start_ugy img {
         width: 100%;
     }
     

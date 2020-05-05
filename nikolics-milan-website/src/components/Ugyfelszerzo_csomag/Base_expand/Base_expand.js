@@ -25,7 +25,7 @@ const Base_expand = props =>{
         <div className={changing_class}>
        
       Ha az a célja hogy növelje bevételét akkor ez az ön csomagja.
-      Ennél jobb kínálatott nem fogsz találni a piacon!                            
+      Ennél jobb kínálatott nem fog találni a piacon!                            
       Kétségtelen a legdrágább, de ugyanakor a legjobban 
       megtérülő és leghasznosabb csomag egyben.
          
