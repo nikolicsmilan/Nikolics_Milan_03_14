@@ -7,10 +7,10 @@
     .open_sidedrawer_bem   {           
         border:1px dashed rgba(40, 164, 241, 0.938);
         border: 3px dashed rgba(40, 164, 241, 0.938);
-        text-align: justify; 
-        line-height: 1.6rem;
-        font-size: 1.2rem; 
-        letter-spacing: -1.5px; 
+        text-align: left; 
+        line-height: 1rem;
+        font-size: 0.9rem; 
+        letter-spacing: -0.5px; 
         padding:2%;
         margin-bottom:1%;
         }
@@ -19,7 +19,7 @@
         display: flex;
         flex-direction: column;  
         align-items: center;
-        /*border:3px solid red;*/
+       /* border:3px solid red;*/
     }
     
     .Button_kontener_bem {
@@ -37,12 +37,12 @@
        /* background-color: rgb(100, 250, 2);*/
         background-color: rgba(40, 164, 241, 0.938);
         border:1px solid rgba(40, 164, 241, 0.938);      
-        width:7rem;
-        height:1.8rem;
+        width:5rem;
+        height:1.2rem;
         border-radius: 5%;
         opacity: 1;
         margin-top: 1rem;
-        font-size: 1.1rem;
+        font-size: 0.9rem;
         /*Nagyobb Button*/
       /*  width:9rem;
         height:3rem;
@@ -53,9 +53,9 @@
         list-style-type: circle;
         margin-left:3rem;
         text-align: left; 
-        line-height: 1.6rem;
-        font-size: 1.2rem; 
-        letter-spacing: -1.5px; 
+        line-height: 1rem;
+        font-size: 0.9rem; 
+        letter-spacing: -0.5px;
        /* border: 3px solid red;*/
     }
     
@@ -68,16 +68,10 @@
     }
  .Kep_start_bem img {
         width: 100%;
-    }
- 
+    } 
 }
 
 /* 0. Mini SmartPhones VÉGE*/
-
-
-
-
-
 
 /* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
 @media (min-width: 320px) and (max-width: 480px) {

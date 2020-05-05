@@ -85,6 +85,9 @@
    line-height: 2rem;
    margin-top:2rem;
   }
+  .Osztonzo_szoveg_2 img{
+    height:3rem;
+  }
   
   .Bold_kontener_2 {
    display: flex;
@@ -195,6 +198,9 @@
    line-height: 2rem;
    margin-top:2rem;
   }
+  .Osztonzo_szoveg_2 img{
+    height:3.5rem;
+  }
   
   .Bold_kontener_2 {
    display: flex;
@@ -235,7 +241,7 @@
     display: flex;     
     justify-content: center;
     width:100%;
-   /* border: 3px solid red;*/
+  /* border: 3px solid red;*/
   }
    
   .Nikolics_logo_2 {
