@@ -144,8 +144,8 @@
         list-style-type: circle;
         margin-left:3rem;
         text-align: left; 
-        line-height: 1.1rem;
-        font-size: 1rem; 
+        line-height: 1.2rem;
+        font-size: 1.1rem; 
         letter-spacing: -0.5px; 
        /* border: 3px solid red;*/
     }
@@ -159,7 +159,8 @@
     }
  .Kep_start_ugy img {
         width: 100%;
-    }    
+    }
+    
   }
 
 /* 1. Most of the Smartphones Mobiles (Portrait)  VÉGE*/
