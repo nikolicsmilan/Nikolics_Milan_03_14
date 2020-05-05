@@ -49,17 +49,23 @@
 /* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
 @media (min-width: 481px) and (max-width: 767px) {
   .Ugy_appear{
-    position: absolute;
-    background-color: whitesmoke;
-    height:7rem;  
-    width:20rem;  
-    /*left:5rem;*/
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 40px;
-    margin-top: 1.9rem;
+    position: absolute;
+    justify-content: center;
+    left:3rem;
+    height:13rem;  
+    width:25rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 30px;
+    margin-top: 2rem;
+    padding:1%;
   }  
+  .Ugy_appear p {
+    font-size: 0.8rem;
+  }
 }
 
 
@@ -70,20 +76,26 @@
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) {
   .Ugy_appear{
-    position: absolute;
-    background-color: whitesmoke;
-    height:10rem;  
-    width:25rem;  
-   /* left:5rem;*/
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 75px;
-    margin-top: 2rem;
+    position: absolute;
+    justify-content: center;
+    left:10rem;
+    height:11rem;  
+    width:30rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 30px;
+    margin-top: 2.5rem;
+    padding:1%;
+  } 
+
+  .Ugy_appear p {
+    font-size: 0.8rem;
   }
- 
-  
 }
+
 
 /* 3. Device = Tablets, Ipads (portrait) VÉGE*/
 
@@ -91,16 +103,19 @@
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
   
   .Ugy_appear {
-    position: absolute;
-    background-color: whitesmoke;
-    height:5rem;  
-    width:15rem;  
-    left:5rem;
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 420px;
+    position: absolute;
+    justify-content: center;
+    left:5rem;
+    height:11rem;  
+    width:30rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 200px;
     margin-top: 2rem;
+    padding:1%;
   }
 
   .Ugy_appear p {

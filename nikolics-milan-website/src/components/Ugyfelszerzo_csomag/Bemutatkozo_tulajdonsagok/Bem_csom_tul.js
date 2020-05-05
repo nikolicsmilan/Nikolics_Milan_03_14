@@ -106,7 +106,7 @@ const Bem_csom_tul = props => {
             ></Bem_csom_tul_sor>
              <Bem_csom_tul_sor
                 kep={pipa2}
-                felirat='1 Hónap ingyenes karbantartás'
+                felirat='6 Hónap ingyenes karbantartás'
                 felugro='Idővel biztosan szeretne kisebb nagyobb változatatásokat, frissítésket weblapján.
                 Weboldala olyan mint a gépjárműje: folyamatos karbantartásra szorul annak érdekében hogy
                 megfelelően műkdödjön. Az árak számos szempontól függnek például a változtatások típusa,

@@ -83,11 +83,12 @@
     .akcio_ugy {
       /*border:3px solid red;*/
       text-align: center;
-      font-size: 1.6rem;
+      font-size: 2rem;
       font-weight: 900;
       min-height: 2.5rem;
       max-height: 2.5rem;
       color:red;
+      padding-bottom: 10%;
       } 
 
     .Ugyfelszerzo_csomag_egesz{

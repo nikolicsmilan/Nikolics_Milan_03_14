@@ -153,7 +153,7 @@
         }  
             
         .pipa {
-        width:1.5rem;
+        width:1.6rem;
         float:left;
         } 
 }
@@ -182,7 +182,7 @@
          align-items: center;
          justify-content: space-between;  
          /*border:3px solid red; */
-         height: 2rem;
+         height: 1.2rem;
          }
         
         .info_kontener {
@@ -206,7 +206,7 @@
         }  
             
         .pipa {
-        width:1.5rem;
+        width:1.6rem;
         float:left;
         }
   
@@ -225,17 +225,17 @@
         /*border-radius: 21px;*/
         padding-top:1%;
         padding-bottom:1%;
-        }
+     }
     
-        .Mindig-lathato {
+     .Mindig-lathato {
          display: flex;
          align-items: center;
          justify-content: space-between;  
          /*border:3px solid red; */
-         height: 2rem;
-         }
+         height: 1.2rem;
+      }
         
-        .info_kontener {
+    .info_kontener {
         display: flex;
         width:25rem;
         align-items: center;
@@ -243,27 +243,27 @@
         line-height: 1.2rem;
         font-size: 1.2rem; 
         letter-spacing: -1px; 
-        }
+    }
         
-        .info_gomb {
-        width:1.5rem;
+    .info_gomb {
+        width:1.2rem;
         margin-right: 3%;
-        }
+      }
         
-        .felirat {
+    .felirat {
           line-height: 1.2rem;
           font-size: 1rem; 
           letter-spacing: -1px; 
-        }
+    }
     
-        .hidden {
+    .hidden {
         display:none;
-        }  
+    }  
             
-        .pipa {
-        width:1.5rem;
+    .pipa {
+        width:1.6rem;
         float:left;
-        }
+    }
  
 }
 /* 4. Tablets, Ipads (landscape) VÉGE*/

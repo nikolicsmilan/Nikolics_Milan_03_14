@@ -11,137 +11,19 @@
 @media (min-width: 120px) and (max-width: 319px) {
 
   .Bem_appear{
-    position: absolute;
-    background-color: whitesmoke;
-    height:7rem;  
-    width:14rem;  
-    /*left:5rem;*/
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 40px;
-    margin-top: 1.7rem;
-  }
-
-  .Megrendelem_gomb{
-    display: flex;
+    position: absolute;
     justify-content: center;
-    align-items: center;
-    margin:2rem;
-    font-size: 2rem;
-    
-    padding:0.5rem;
-    
-    border-radius: 1%;
-  
-    
-  }
-  .Megrendelem_gomb h1 {
-   /* border:3px solid purple;*/
-    padding-right:1rem;
-    padding-left:1rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    min-width:13rem;
-    border-radius: 3%;
-    background-color: red;
-    color:white;
-  }
-  
-  .Megrendelem_gomb h1:hover{
-    background-color:blue;
-  }
-  
-  .Megrendelem_gomb a{
-    color:red;
-    background-color: teal;
-    text-decoration: none;
-  }
-  .Megrendelem_gomb a:hover{
-    color:grey;
-    background-color: teal;
-  
-  }
-  
-
-}
-
-/* 0. Mini SmartPhones VÉGE*/
-
-
-/* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
-@media (min-width: 320px) and (max-width: 480px) {
-  .Bem_appear{
-    position: absolute;
-    background-color: whitesmoke;
+    left:3rem;
     height:10rem;  
-    width:16rem;  
-    /*left:5rem;*/
-    z-index: 10000;
-    border: 1px solid black;
-    border-radius:2%;
-     margin-left: 40px;
-     margin-top: 1.7rem;
-  }
-  .Megrendelem_gomb{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin:2rem;
-    font-size: 2rem;
-    
-    padding:0.5rem;
-    
-    border-radius: 1%;
-  
-    
-  }
-  .Megrendelem_gomb h1 {
-   /* border:3px solid purple;*/
-    padding-right:1rem;
-    padding-left:1rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    min-width:13rem;
-    border-radius: 3%;
-    background-color: red;
-    color:white;
-  }
-  
-  .Megrendelem_gomb h1:hover{
-    background-color:blue;
-  }
-  
-  .Megrendelem_gomb a{
-    color:red;
-    background-color: teal;
-    text-decoration: none;
-  }
-  .Megrendelem_gomb a:hover{
-    color:grey;
-    background-color: teal;
-  
-  }
-  
-    
-  }
-
-/* 1. Most of the Smartphones Mobiles (Portrait)  VÉGE*/
-
-
-/* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
-@media (min-width: 481px) and (max-width: 767px) {
-  .Bem_appear{
-    position: absolute;
-    background-color: whitesmoke;
-    height:10rem;  
-    width:25rem;  
-   /* left:5rem;*/
-    z-index: 10000;
-    border: 1px solid black;
-    border-radius:2%;
-    margin-left: 75px;
+    width:25rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 30px;
     margin-top: 2rem;
+    padding:1%;
   }
   
   .Bem_appear p {
@@ -162,7 +44,143 @@
     /*border:3px solid purple;*/
     padding-right:2rem;
     padding-left:2rem;
-    padding-top: 0.5rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.5rem;
+    min-width:10rem;
+    border-radius: 3%;
+    background-color:rgba(40, 164, 241, 0.938);
+    color:white;
+    height:3rem;
+  }
+  
+  .Megrendelem_gomb h1:hover {
+    background-color:red;
+   /* padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 100%;*/
+  }
+  
+  .Megrendelem_gomb a {
+    color:red;
+    /*background-color: teal;*/
+    text-decoration: none;
+  }
+  
+  .Megrendelem_gomb a:hover {
+   /* color:grey;
+    background-color: teal;*/
+  }
+
+}
+
+/* 0. Mini SmartPhones VÉGE*/
+
+
+/* 1. Most of the Smartphones Mobiles (Portrait) ELEJE */
+@media (min-width: 320px) and (max-width: 480px) {
+  .Bem_appear{
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
+    border-radius:2%;
+    position: absolute;
+    justify-content: center;
+    left:3rem;
+    height:10rem;  
+    width:25rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 30px;
+    margin-top: 2rem;
+    padding:1%;
+  }
+  
+  .Bem_appear p {
+    font-size: 0.8rem;
+  }
+
+  .Megrendelem_gomb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:2rem;
+    font-size: 1.5rem;  
+    padding:1rem;  
+    border-radius: 1%;  
+  }
+  
+  .Megrendelem_gomb h1 {
+    /*border:3px solid purple;*/
+    padding-right:2rem;
+    padding-left:2rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.5rem;
+    min-width:10rem;
+    border-radius: 3%;
+    background-color:rgba(40, 164, 241, 0.938);
+    color:white;
+    height:3rem;
+  }
+  
+  .Megrendelem_gomb h1:hover {
+    background-color:red;
+   /* padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 100%;*/
+  }
+  
+  .Megrendelem_gomb a {
+    color:red;
+    /*background-color: teal;*/
+    text-decoration: none;
+  }
+  
+  .Megrendelem_gomb a:hover {
+   /* color:grey;
+    background-color: teal;*/
+  }
+    
+  }
+
+/* 1. Most of the Smartphones Mobiles (Portrait)  VÉGE*/
+
+
+/* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
+@media (min-width: 481px) and (max-width: 767px) {
+  .Bem_appear{
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
+    border-radius:2%;
+    position: absolute;
+    justify-content: center;
+    left:3rem;
+    height:13rem;  
+    width:25rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 30px;
+    margin-top: 2rem;
+    padding:1%;
+  }
+  
+  .Bem_appear p {
+    font-size: 0.8rem;
+  }
+
+  .Megrendelem_gomb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:2rem;
+    font-size: 1.5rem;  
+    padding:1rem;  
+    border-radius: 1%;  
+  }
+  
+  .Megrendelem_gomb h1 {
+    /*border:3px solid purple;*/
+    padding-right:2rem;
+    padding-left:2rem;
+    padding-top: 0.7rem;
     padding-bottom: 0.5rem;
     min-width:10rem;
     border-radius: 3%;
@@ -198,16 +216,19 @@
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
 @media (min-width: 768px) and (max-width: 1024px) {
   .Bem_appear{
-    position: absolute;
-    background-color: whitesmoke;
-    height:10rem;  
-    width:25rem;  
-   /* left:5rem;*/
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 75px;
-    margin-top: 2rem;
+    position: absolute;
+    justify-content: center;
+    left:10rem;
+    height:11rem;  
+    width:30rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 30px;
+    margin-top: 2.5rem;
+    padding:1%;
   }
   
   .Bem_appear p {
@@ -262,17 +283,18 @@
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
   
   .Bem_appear {
-    position: absolute;
-    background-color: whitesmoke;
-    height:11rem;  
-    width:25rem;  
-    left:5rem;
-    z-index: 10000;
-    border: 1px solid black;
+    border: 2px solid rgba(40, 164, 241, 0.938);
+    background-color: white;
     border-radius:2%;
-    margin-left: 0px;
+    position: absolute;
+    justify-content: center;
+    left:5rem;
+    height:11rem;  
+    width:30rem; 
+    line-height: 1.2rem;    
+    z-index: 10000;  
+    margin-left: 30px;
     margin-top: 2rem;
-    line-height: 1rem;
     padding:1%;
   }
 

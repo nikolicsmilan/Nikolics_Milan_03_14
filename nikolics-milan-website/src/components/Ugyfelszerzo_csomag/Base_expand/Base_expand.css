@@ -171,98 +171,79 @@
 
 /* 2. Low Resolution Tablets, Mobiles (Landscape) ELEJE*/
 @media (min-width: 481px) and (max-width: 767px) {
-  
-    .close_sidedrawer_ugy{
+    .close_sidedrawer_ugy {
         display:none;
     }
     
-    .open_sidedrawer_ugy{
-        margin-top: 2%;
-        font-size: 4vw;
-        line-height: 2.5rem;
-        text-align: justify;
-        padding-top:2%;
-        padding-bottom: 4%;
-        max-width: 100%;
+    .open_sidedrawer_ugy   {           
         border:1px dashed rgba(40, 164, 241, 0.938);
-        border-radius: 3%;
-        margin-bottom:2%; 
-        padding-left: 2%;
-        padding-right: 2%;
-       
-    }
-    
-    .open_sidedrawer_ugy p{
-        line-height: 2.5rem;
+        border: 3px dashed rgba(40, 164, 241, 0.938);
+        text-align: justify; 
+        line-height: 1.6rem;
+        font-size: 1.2rem; 
+        letter-spacing: -1.5px; 
         padding:2%;
+        margin-bottom:1%;
+        }
        
-    }
-    
-    .Base_expand_egesz_ugy{
+    .Base_expand_egesz_ugy {
         display: flex;
         flex-direction: column;  
         align-items: center;
         /*border:3px solid red;*/
     }
     
-    .Button_kontener_ugy{
+    .Button_kontener_ugy {
         display:flex;
         justify-content: center;
-        width:9rem;
-        padding-bottom: 4%;
-        /*border: 3px solid red;*/
-      
+        width:11rem;
+      /*  margin-top: 2%;*/
+        margin-bottom: 3%;
+       /* border: 3px solid red;*/
     }
     
-    .button_ugy{
+    .button_ugy {
         /*border: 3px solid blue;*/
         color:white;
        /* background-color: rgb(100, 250, 2);*/
-       background-color: rgba(40, 164, 241, 0.938);
+        background-color: rgba(40, 164, 241, 0.938);
         border:1px solid rgba(40, 164, 241, 0.938);      
         width:7rem;
-        height:2rem;
+        height:1.8rem;
         border-radius: 5%;
-        opacity: 0.7;
-
+        opacity: 1;
+        margin-top: 1rem;
+        font-size: 1.1rem;
         /*Nagyobb Button*/
-        /* width:9rem;
+      /*  width:9rem;
         height:3rem;
-        font-size: 1.3rem;*/
-      
-        
+        font-size: 1.3rem; */    
     }
     
-    ul.felsorol_ugy {
+   ul.felsorol_ugy {
         list-style-type: circle;
         margin-left:3rem;
-        text-align: left;
-        margin-top:2%;
-      
+        text-align: left; 
+        line-height: 1.6rem;
+        font-size: 1.2rem; 
+        letter-spacing: -1.5px; 
+       /* border: 3px solid red;*/
     }
     
-    li span {
+  li span {
         text-indent:-18px;
-    }
+    }   
     
-    
-    
-    .Kep_start_ugy{    
+ .Kep_start_ugy {    
         width: 100%;
     }
-    .Kep_start_ugy img {
+ .Kep_start_ugy img {
         width: 100%;
     }
-
 }
 
 
 /* 2. Low Resolution Tablets, Mobiles (Landscape) VÉGE*/
-
-
-
-
-
 
 
 /* 3. Device = Tablets, Ipads (portrait) ELEJE*/
@@ -493,10 +474,10 @@
         text-align: left; 
         line-height: 1.5rem;
         font-size: 1.2rem; 
-        letter-spacing: -0.5px;   
+        letter-spacing: -1px;   
         list-style-type: circle;
         margin-top:2%;
-        margin-left:3rem;               
+        margin-left:3rem;            
     }
   
     .Kep_start_ugy {    
@@ -580,8 +561,8 @@
     ul.felsorol_ugy {
         text-align: left;
         line-height: 1.8rem;
-        font-size: 1.4rem; 
-        letter-spacing: -2px;  
+        font-size: 1.25rem; 
+        letter-spacing: -1px;  
         list-style-type: circle;
         margin-top:2%;
         margin-left:3rem;               
