@@ -151,7 +151,7 @@
         display:flex;
         flex-direction: column;
         text-align: center;  
-        /*border: 3px dashed red;*/
+       /* border: 3px dashed red;*/
         max-height: 19rem;      
     }   
 
@@ -160,19 +160,22 @@
         justify-content: center;
         color: rgba(47,218,241,.87);
         color:rgba(40, 164, 241, 0.938);
-        font-size: 2rem;
+        font-size: 1.8rem;
         font-weight: 900;
-        padding:2%;   
+        padding-bottom: 5%;
+        /*border:3px solid red;*/
     }
 
     .Csomag_cim_bem h1 {    
         padding-top: 1rem;
          border: 2px solid rgba(47,218,241,.87);
-         border:3px solid rgba(40, 164, 241, 0.938);
+         border:2px solid rgba(40, 164, 241, 0.938);
          border-radius: 3%;
          width:17rem;
-         height: 4rem;
-         padding-bottom: 3%;
+         height: 3rem;
+         padding: 0;
+         padding-top: 2%;
+         margin: 0;
     }   
 
     .keret_bem {
@@ -190,7 +193,7 @@
         justify-content: space-around;
         align-items: center;
         line-height: 2rem;
-        font-size: 2rem;
+        font-size: 1.6rem;
         font-weight: 900;
         padding-top:3%;
         padding-bottom: 3%;
@@ -206,8 +209,8 @@
 
     .Csomag_leiras_bem {
         max-width: 100%;       
-        min-height: 11rem;
-        max-height: 11rem;
+        min-height: 9rem;
+        max-height: 9rem;
          /* margin-top: 2%;*/
        /*padding-bottom: 4%;*/
        /* border: 3px solid red;*/       
@@ -221,10 +224,10 @@
         line-height: 3rem;*/
       /*  width:25rem;*/
         /*border: 3px solid yellow;*/
-        text-align: justify; 
-        line-height: 2rem;
+        text-align: left; 
+        line-height: 1.4rem;
         font-size: 1.1rem; 
-        letter-spacing: -1.2px; 
+        letter-spacing: -0.5px; 
         padding:0;
         margin:0;
     }  
@@ -310,7 +313,7 @@
         line-height: 3rem;*/
       /*  width:25rem;*/
         /*border: 3px solid yellow;*/
-        text-align: justify; 
+        text-align: left; 
         line-height: 2rem;
         font-size: 1.4rem; 
         letter-spacing: -1.2px; 
